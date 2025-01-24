@@ -11,7 +11,6 @@ var SETDEX_ADV = {
             },
             "item": "Bright Powder",
             "level": 65,
-            "ability": "Thick Fat",
             "moves": [
                 "Bite",
                 "Razor Wind",
