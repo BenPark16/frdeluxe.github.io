@@ -1,16 +1,16 @@
 var SETDEX_ADV = {
     "Absol": {
-        "Absol-1 [248]": {
-            "evs": {
-                "at": 255,
-                "df": 0,
-                "hp": 255,
-                "sa": 0,
-                "sd": 0,
-                "sp": 0
+        "Absol-1 [Misty]": {
+            "ivs": {
+                "at": 5,
+                "df": 5,
+                "hp": 5,
+                "sa": 5,
+                "sd": 5,
+                "sp": 5
             },
             "item": "Bright Powder",
-            "level": 100,
+            "level": 65,
             "moves": [
                 "Bite",
                 "Razor Wind",
