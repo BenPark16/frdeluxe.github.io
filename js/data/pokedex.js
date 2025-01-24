@@ -67,6 +67,21 @@ var POKEDEX_RBY = {
 		},
 		"w": 155.0
 	},
+	"Harcanine": {
+		"t1": "Fire",
+		"t2": "Rock",
+		"bs": {
+			"hp": 95,
+			"at": 115,
+			"df": 80,
+			"sa": 95,
+			"sd": 80,
+			"sp": 95,
+			"sl": 95
+		},
+		"w": 155.0
+	},
+	
 	"Articuno": {
 		"t1": "Ice",
 		"t2": "Flying",
@@ -97,16 +112,31 @@ var POKEDEX_RBY = {
 		"w": 55.4,
 		"ab": "Pressure"
 	},
+	"Garticuno": {
+		"t1": "Psychic",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 85,
+			"df": 90,
+			"sa": 130,
+			"sd": 105,
+			"sp": 95,
+			"sl": 130
+		},
+		"w": 55.4,
+		"ab": "Pressure"
+	
 	"Beedrill": {
 		"t1": "Bug",
 		"t2": "Poison",
 		"bs": {
 			"hp": 65,
-			"at": 80,
-			"df": 40,
+			"at": 95,
+			"df": 55,
 			"sa": 45,
 			"sd": 80,
-			"sp": 75,
+			"sp": 100,
 			"sl": 45
 		},
 		"w": 29.5
@@ -117,9 +147,9 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 50,
 			"at": 75,
-			"df": 35,
+			"df": 45,
 			"sa": 70,
-			"sd": 30,
+			"sd": 40,
 			"sp": 40,
 			"sl": 70
 		},
@@ -130,12 +160,12 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"bs": {
 			"hp": 79,
-			"at": 83,
+			"at": 85,
 			"df": 100,
-			"sa": 85,
+			"sa": 88,
 			"sd": 105,
 			"sp": 78,
-			"sl": 85
+			"sl": 88
 		},
 		"w": 85.5,
 		"ab": "Torrent"
@@ -156,16 +186,16 @@ var POKEDEX_RBY = {
 		"canEvolve": true
 	},
 	"Butterfree": {
-		"t1": "Bug",
+		"t1": "Psychic",
 		"t2": "Flying",
 		"bs": {
-			"hp": 60,
-			"at": 45,
-			"df": 50,
-			"sa": 80,
+			"hp": 70,
+			"at": 80,
+			"df": 65,
+			"sa": 90,
 			"sd": 80,
-			"sp": 70,
-			"sl": 80
+			"sp": 85,
+			"sl": 90
 		},
 		"w": 32.0
 	},
