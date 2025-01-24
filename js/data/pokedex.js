@@ -126,6 +126,7 @@ var POKEDEX_RBY = {
 		},
 		"w": 55.4,
 		"ab": "Pressure"
+	},
 	
 	"Beedrill": {
 		"t1": "Bug",
