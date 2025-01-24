@@ -1,25 +1,4 @@
 var SETDEX_ADV = {
-    "Abra": {
-        "Abra-1 [91]": {
-            "evs": {
-                "at": 0,
-                "df": 0,
-                "hp": 255,
-                "sa": 0,
-                "sd": 0,
-                "sp": 255
-            },
-            "item": "Twisted Spoon",
-            "level": 100,
-            "moves": [
-                "Mimic",
-                "Metronome",
-                "Flash",
-                "Seismic Toss"
-            ],
-            "nature": "Lonely"
-        }
-    },
     "Absol": {
         "Absol-1 [248]": {
             "evs": {
