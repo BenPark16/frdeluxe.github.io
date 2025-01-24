@@ -11,6 +11,7 @@ var SETDEX_ADV = {
             },
             "item": "Bright Powder",
             "level": 65,
+            "ability": "Thick Fat",
             "moves": [
                 "Bite",
                 "Razor Wind",
@@ -19,25 +20,6 @@ var SETDEX_ADV = {
             ],
             "nature": "Adamant"
         },
-        "Absol-2 [353]": {
-            "evs": {
-                "at": 255,
-                "df": 0,
-                "hp": 0,
-                "sa": 0,
-                "sd": 0,
-                "sp": 255
-            },
-            "item": "Choice Band",
-            "level": 100,
-            "moves": [
-                "Double-Edge",
-                "Shadow Ball",
-                "Aerial Ace",
-                "Iron Tail"
-            ],
-            "nature": "Adamant"
-        }
     },
     "Aerodactyl": {
         "Aerodactyl-1 [436]": {
