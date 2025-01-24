@@ -1953,7 +1953,7 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 80,
-			"at": 82,
+			"at": 87,
 			"df": 83,
 			"sa": 100,
 			"sd": 100,
