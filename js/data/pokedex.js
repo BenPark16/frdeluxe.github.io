@@ -81,7 +81,6 @@ var POKEDEX_RBY = {
 		},
 		"w": 155.0
 	},
-	
 	"Articuno": {
 		"t1": "Ice",
 		"t2": "Flying",
@@ -127,7 +126,6 @@ var POKEDEX_RBY = {
 		"w": 55.4,
 		"ab": "Pressure"
 	},
-	
 	"Beedrill": {
 		"t1": "Bug",
 		"t2": "Poison",
