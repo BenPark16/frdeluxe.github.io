@@ -127,6 +127,16 @@ var MOVES_RBY = {
         type: 'Normal',
         pp: 35
     },
+    'Conversion': {
+        bp: 0,
+        type: 'Normal',
+        pp: 30
+    },
+    'Conversion-2': {
+        bp: 0,
+        type: 'Normal',
+        pp: 30
+    },
     'Counter': {
         bp: 0,
         type: 'Fighting',
@@ -575,6 +585,12 @@ var MOVES_RBY = {
         category: 'Physical',
         pp: 35
     },
+    'Powder Snow': {
+        bp: 40,
+        type: 'Ice',
+        category: 'Special',
+        pp: 25
+    },
     'Psybeam': {
         bp: 65,
         type: 'Psychic',
@@ -690,10 +706,20 @@ var MOVES_RBY = {
         isSpread: true,
         pp: 5
     },
+    'Sharpen': {
+        bp: 0,
+        type: 'Normal',
+        pp: 30
+    },
     'Sing': {
         bp: 0,
         type: 'Normal',
         pp: 15
+    },
+    'Sketch': {
+        bp: 0,
+        type: 'Normal',
+        pp: 1
     },
     'Sky Attack': {
         bp: 140,
@@ -907,7 +933,7 @@ var MOVES_RBY = {
         pp: 10
     },
     'Tri Attack': {
-        bp: 80,
+        bp: 90,
         type: 'Normal',
         category: 'Special',
         pp: 10
@@ -1080,12 +1106,12 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         hasPriority: true,
         pp: 5
     },
-    'Feint Attack': {
+    'Faint Attack': {
         bp: 60,
         type: 'Dark',
         category: 'Physical',
         makesContact: true,
-        pp: 20
+        pp: 25
     },
     'Flail': {
         bp: 1,
@@ -1095,7 +1121,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 15
     },
     'Flame Wheel': {
-        bp: 60,
+        bp: 65,
         type: 'Fire',
         category: 'Physical',
         makesContact: true,
@@ -1333,7 +1359,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 15
     },
     'Octazooka': {
-        bp: 65,
+        bp: 75,
         type: 'Water',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -1458,7 +1484,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 10
     },
     'Snore': {
-        bp: 50,
+        bp: 60,
         type: 'Normal',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -1502,7 +1528,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 25
     },
     'Struggle': {
-        bp: 40,
+        bp: 50,
         type: 'None',
         hasRecoil: 50
     },
@@ -1532,14 +1558,14 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 5
     },
     'Thief': {
-        bp: 40,
+        bp: 50,
         type: 'Dark',
         category: 'Physical',
         makesContact: true,
         pp: 25
     },
     'Triple Kick': {
-        bp: 60,
+        bp: 90,
         type: 'Fighting',
         makesContact: true,
         pp: 10
