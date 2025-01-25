@@ -40,7 +40,7 @@ var MOVES_RBY = {
     'Barrier': {
         bp: 0,
         type: 'Psychic',
-        pp: 20
+        pp: 30
     },
     'Bide': {
         bp: 0,
@@ -48,12 +48,12 @@ var MOVES_RBY = {
         pp: 10
     },
     'Bind': {
-        bp: 15,
+        bp: 40,
         type: 'Normal',
         pp: 20
     },
     'Blizzard': {
-        bp: 120,
+        bp: 115,
         type: 'Ice',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -81,9 +81,9 @@ var MOVES_RBY = {
         pp: 20
     },
     'Clamp': {
-        bp: 35,
+        bp: 65,
         type: 'Water',
-        pp: 10
+        pp: 20
     },
     'Crabhammer': {
         bp: 90,
@@ -112,10 +112,20 @@ var MOVES_RBY = {
         hasSecondaryEffect: true,
         pp: 25
     },
+    'Constrict': {
+        bp: 50,
+        type: 'Normal',
+        pp: 35
+    },
     'Counter': {
         bp: 0,
         type: 'Fighting',
         pp: 20
+    },
+        'Cut': {
+        bp: 70,
+        type: 'Steel',
+        pp: 25
     },
     'Defense Curl': {
         bp: 0,
@@ -123,7 +133,7 @@ var MOVES_RBY = {
         pp: 40
     },
     'Dig': {
-        bp: 60,
+        bp: 80,
         type: 'Ground',
         makesContact: true,
         pp: 10
@@ -150,7 +160,7 @@ var MOVES_RBY = {
         pp: 30
     },
     'Double-Edge': {
-        bp: 100,
+        bp: 120,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
@@ -163,7 +173,7 @@ var MOVES_RBY = {
         category: 'Physical',
         makesContact: true,
         isMultiHit: true,
-        pp: 15
+        pp: 10
     },
     'Double Team': {
         bp: 0,
@@ -225,7 +235,7 @@ var MOVES_RBY = {
         pp: 5
     },
     'Fire Blast': {
-        bp: 120,
+        bp: 115,
         type: 'Fire',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -241,9 +251,9 @@ var MOVES_RBY = {
         pp: 15
     },
     'Fire Spin': {
-        bp: 15,
+        bp: 70,
         type: 'Fire',
-        pp: 15
+        pp: 20
     },
     'Fissure': {
         bp: 0,
@@ -251,7 +261,7 @@ var MOVES_RBY = {
         pp: 5
     },
     'Flamethrower': {
-        bp: 95,
+        bp: 85,
         type: 'Fire',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -263,7 +273,7 @@ var MOVES_RBY = {
         pp: 20
     },
     'Fly': {
-        bp: 70,
+        bp: 80,
         type: 'Flying',
         category: 'Physical',
         makesContact: true,
@@ -303,7 +313,7 @@ var MOVES_RBY = {
     'Growth': {
         bp: 0,
         type: 'Normal',
-        pp: 20
+        pp: 40
     },
     'Guillotine': {
         bp: 0,
@@ -333,6 +343,11 @@ var MOVES_RBY = {
         makesContact: true,
         hasRecoil: true,
         pp: 10
+    },
+    'Horn Attack': {
+        bp: 65,
+        type: 'Normal',
+        pp: 25
     },
     'Horn Drill': {
         bp: 0,
@@ -366,7 +381,7 @@ var MOVES_RBY = {
         pp: 20
     },
     'Ice Beam': {
-        bp: 95,
+        bp: 85,
         type: 'Ice',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -382,12 +397,12 @@ var MOVES_RBY = {
         pp: 15
     },
     'Jump Kick': {
-        bp: 70,
+        bp: 75,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
         hasRecoil: true,
-        pp: 10
+        pp: 25
     },
     'Karate Chop': {
         bp: 50,
@@ -395,6 +410,12 @@ var MOVES_RBY = {
         category: 'Physical',
         makesContact: true,
         pp: 25
+    },
+    'Kinesis': {
+        bp: 40,
+        type: 'Psychic',
+        category: 'Special',
+        pp: 30
     },
     'Leech Life': {
         bp: 20,
@@ -416,7 +437,7 @@ var MOVES_RBY = {
         pp: 30
     },
     'Lick': {
-        bp: 30,
+        bp: 20,
         type: 'Ghost',
         category: 'Physical',
         makesContact: true,
@@ -443,7 +464,7 @@ var MOVES_RBY = {
         type: 'Grass',
         givesHealth: true,
         percentHealed: 0.5,
-        pp: 15
+        pp: 10
     },
     'Mega Kick': {
         bp: 120,
@@ -470,7 +491,7 @@ var MOVES_RBY = {
     'Minimize': {
         bp: 0,
         type: 'Normal',
-        pp: 10
+        pp: 20
     },
     'Mirror Move': {
         bp: 0,
@@ -488,15 +509,27 @@ var MOVES_RBY = {
         category: 'Special',
         pp: 15
     },
+    'Pay Day': {
+        bp: 40,
+        type: 'Normal',
+        category: 'Physical',
+        pp: 20
+    },
+    'Peck': {
+        bp: 35,
+        type: 'Flying',
+        category: 'Physical',
+        pp: 35
+    },
     'Petal Dance': {
-        bp: 70,
+        bp: 90,
         type: 'Grass',
         category: 'Special',
         makesContact: true,
         pp: 20
     },
     'Pin Missile': {
-        bp: 14,
+        bp: 20,
         type: 'Bug',
         category: 'Physical',
         isMultiHit: true,
@@ -507,6 +540,24 @@ var MOVES_RBY = {
         type: 'Poison',
         category: 'Physical',
         hasSecondaryEffect: true,
+        pp: 35
+    },
+    'Poison Powder': {
+        bp: 0,
+        type: 'Poison',
+        pp: 35
+    },
+    'Poison Sting': {
+        bp: 35,
+        type: 'Poison',
+        category: 'Physical',
+        hasSecondaryEffect: true,
+        pp: 35
+    },
+    'Pound': {
+        bp: 40,
+        type: 'Normal',
+        category: 'Physical',
         pp: 35
     },
     'Psybeam': {
@@ -537,6 +588,11 @@ var MOVES_RBY = {
         hasPriority: true,
         pp: 30
     },
+    'Rage': {
+        bp: 20,
+        type: 'Normal',
+        pp: 20
+    },
     'Razor Leaf': {
         bp: 55,
         type: 'Grass',
@@ -545,7 +601,7 @@ var MOVES_RBY = {
         pp: 25
     },
     'Razor Wind': {
-        bp: 80,
+        bp: 90,
         type: 'Normal',
         category: 'Special',
         pp: 10
@@ -553,7 +609,7 @@ var MOVES_RBY = {
     'Recover': {
         bp: 0,
         type: 'Normal',
-        pp: 10
+        pp: 5
     },
     'Reflect': {
         bp: 0,
@@ -589,7 +645,7 @@ var MOVES_RBY = {
         type: 'Fighting',
         category: 'Physical',
         hasSecondaryEffect: true,
-        pp: 15
+        pp: 20
     },
     'Sand Attack': {
         bp: 0,
@@ -614,7 +670,7 @@ var MOVES_RBY = {
         pp: 20
     },
     'Self-Destruct': {
-        bp: 130,
+        bp: 200,
         type: 'Normal',
         category: 'Physical',
         isSpread: true,
@@ -637,7 +693,7 @@ var MOVES_RBY = {
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        pp: 10
+        pp: 15
     },
     'Slam': {
         bp: 80,
@@ -662,9 +718,9 @@ var MOVES_RBY = {
         pp: 20
     },
     'Smog': {
-        bp: 20,
+        bp: 50,
         type: 'Poison',
-        pp: 20
+        pp: 25
     },
     'Smokescreen': {
         bp: 0,
@@ -674,7 +730,7 @@ var MOVES_RBY = {
     'Soft-Boiled': {
         bp: 0,
         type: 'Normal',
-        pp: 10
+        pp: 5
     },
     'Sonic Boom': {
         bp: 0,
@@ -682,10 +738,10 @@ var MOVES_RBY = {
         pp: 20
     },
     'Spike Cannon': {
-        bp: 15,
+        bp: 25,
         type: 'Normal',
         isMultiHit: true,
-        pp: 15
+        pp: 20
     },
     'Spore': {
         bp: 0,
@@ -738,7 +794,7 @@ var MOVES_RBY = {
         pp: 20
     },
     'Surf': {
-        bp: 95,
+        bp: 80,
         type: 'Water',
         category: 'Special',
         isSpread: true,
@@ -754,7 +810,7 @@ var MOVES_RBY = {
     'Swords Dance': {
         bp: 0,
         type: 'Normal',
-        pp: 20
+        pp: 30
     },
     'Tackle': {
         bp: 35,
@@ -775,26 +831,38 @@ var MOVES_RBY = {
         hasRecoil: 25,
         pp: 20
     },
+    'Teleport': {
+        bp: 0,
+        type: 'Psychic',
+        pp: 20
+    },
     'Thrash': {
         bp: 90,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        pp: 10
+        pp: 20
     },
     'Thunder': {
-        bp: 120,
+        bp: 115,
         type: 'Electric',
         category: 'Special',
         hasSecondaryEffect: true,
         pp: 10
     },
     'Thunderbolt': {
-        bp: 95,
+        bp: 85,
         type: 'Electric',
         category: 'Special',
         hasSecondaryEffect: true,
         pp: 15
+    },
+    'Thundershock': {
+        bp: 40,
+        type: 'Electric',
+        category: 'Special',
+        hasSecondaryEffect: true,
+        pp: 30
     },
     'Thunder Punch': {
         bp: 75,
@@ -839,6 +907,11 @@ var MOVES_RBY = {
         makesContact: true,
         pp: 30
     },
+        'Vine Whip': {
+        bp: 35,
+        type: 'Grass',
+        pp: 10
+    },
     'Water Gun': {
         bp: 40,
         type: 'Water',
@@ -846,21 +919,21 @@ var MOVES_RBY = {
         pp: 25
     },
     'Waterfall': {
-        bp: 80,
+        bp: 100,
         type: 'Water',
         category: 'Physical',
         makesContact: true,
         pp: 15
     },
     'Wing Attack': {
-        bp: 35,
+        bp: 60,
         type: 'Flying',
         category: 'Physical',
         makesContact: true,
         pp: 35
     },
     'Wrap': {
-        bp: 15,
+        bp: 35,
         type: 'Normal',
         pp: 20
     },
@@ -1350,7 +1423,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Normal',
         pp: 10
     },
-    'Self-Destruct': {bp: 200},
     'Shadow Ball': {
         bp: 80,
         type: 'Ghost',
