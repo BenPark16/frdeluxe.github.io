@@ -233,7 +233,7 @@ var POKEDEX_RBY = {
 			"df": 5,
 			"sa": 15,
 			"sd": 65,
-			"sp": 30
+			"sp": 30,
 		},
 		"w": 24.4,
 		"canEvolve": true
@@ -243,7 +243,7 @@ var POKEDEX_RBY = {
 		"t2": "Flying",
 		"bs": {
 			"hp": 78,
-			"at": 84,
+			"at": 89,
 			"df": 78,
 			"sa": 109,
 			"sd": 85,
@@ -309,13 +309,13 @@ var POKEDEX_RBY = {
 	},
 	"Cloyster": {
 		"t1": "Water",
-		"t2": "Ice",
+		"t2": "Steel",
 		"bs": {
-			"hp": 50,
-			"at": 95,
+			"hp": 70,
+			"at": 100,
 			"df": 180,
 			"sa": 85,
-			"sd": 45,
+			"sd": 60,
 			"sp": 70,
 			"sl": 85
 		},
@@ -340,11 +340,11 @@ var POKEDEX_RBY = {
 		"t2": "Ice",
 		"bs": {
 			"hp": 90,
-			"at": 70,
-			"df": 80,
-			"sa": 70,
-			"sd": 95,
-			"sp": 70,
+			"at": 80,
+			"df": 85,
+			"sa": 85,
+			"sd": 100,
+			"sp": 75,
 			"sl": 95
 		},
 		"w": 120.0
@@ -363,14 +363,30 @@ var POKEDEX_RBY = {
 		"w": 0.8,
 		"canEvolve": true
 	},
+		"Diglett-A": {
+		"t1": "Ground",
+		"t2": "Steel",
+		"bs": {
+			"hp": 10,
+			"at": 55,
+			"df": 25,
+			"sa": 35,
+			"sd": 45,
+			"sp": 95,
+			"sl": 45
+		},
+		"w": 0.8,
+		"canEvolve": true
+	},
 	"Ditto": {
 		"t1": "Normal",
+		"t2": "Ghost",
 		"bs": {
-			"hp": 48,
-			"at": 48,
-			"df": 48,
-			"sa": 48,
-			"sd": 48,
+			"hp": 62,
+			"at": 67,
+			"df": 96,
+			"sa": 72,
+			"sd": 86,
 			"sp": 48,
 			"sl": 48
 		},
