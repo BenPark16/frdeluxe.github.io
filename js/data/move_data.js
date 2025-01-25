@@ -201,7 +201,7 @@ var MOVES_RBY = {
         pp: 15
     },
     'Dragon Breath': {
-        bp: 60,
+        bp: 70,
         type: 'Dragon',
         category: 'Special',
         hasSecondaryEffect: true,
@@ -253,6 +253,12 @@ var MOVES_RBY = {
         category: 'Physical',
         isSpread: true,
         pp: 5
+    },
+    'False Swipe': {
+        bp: 40,
+        type: 'Normal',
+        category: 'Physical',
+        pp: 40
     },
     'Fire Blast': {
         bp: 115,
@@ -522,6 +528,11 @@ var MOVES_RBY = {
         bp: 0,
         type: 'Ice',
         pp: 30
+    },
+    'Morning Sun': {
+        bp: 0,
+        type: 'Normal',
+        pp: 5
     },
     'Night Shade': {
         bp: 0,
@@ -1036,7 +1047,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Ground',
         category: 'Physical',
         isMultiHit: true,
-        pp: 10
+        pp: 15
     },
     'Charm': {
         bp: 0,
@@ -1134,14 +1145,13 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 40
     },
     'Frustration': {
-        bp: 102,
-        type: 'Normal',
-        category: 'Physical',
-        makesContact: true,
+        bp: 85,
+        type: 'Dark',
+        category: 'Special',
         pp: 20
     },
     'Fury Cutter': {
-        bp: 10,
+        bp: 20,
         type: 'Bug',
         category: 'Physical',
         makesContact: true,
@@ -1154,7 +1164,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 10
     },
     'Giga Drain': {
-        bp: 60,
+        bp: 65,
         type: 'Grass',
         category: 'Special',
         givesHealth: true,
@@ -1374,7 +1384,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
     },
     'Pain Split': {
         bp: 0,
-        type: 'Flying',
+        type: 'Normal',
         pp: 20
     },
     'Perish Song': {
@@ -1405,7 +1415,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 5
     },
     'Rapid Spin': {
-        bp: 20,
+        bp: 50,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
@@ -1520,7 +1530,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 10
     },
     'Steel Wing': {
-        bp: 70,
+        bp: 85,
         type: 'Steel',
         category: 'Physical',
         makesContact: true,
