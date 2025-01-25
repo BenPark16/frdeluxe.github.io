@@ -5,6 +5,58 @@ var MOVES_RBY = {
         category: 'Physical',
         pp: 0
     },
+        'Absorb': {
+        bp: 20,
+        type: 'Grass',
+        pp: 20
+    },
+    'Acid': {
+        bp: 40,
+        type: 'Poison',
+        pp: 30
+    },
+    'Acid Armor': {
+        bp: 0,
+        type: 'Poison',
+        pp: 40
+    },
+    'Agility': {
+        bp: 0,
+        type: 'Psychic',
+        pp: 30
+    },
+    'Amnesia': {
+        bp: 0,
+        type: 'Psychic',
+        pp: 20
+    },
+    'Aurora Beam': {
+        bp: 65,
+        type: 'Ice',
+        category: 'Special',
+        hasSecondaryEffect: true,
+        pp: 20
+    },
+    'Barrage': {
+        bp: 15,
+        type: 'Normal',
+        pp: 20
+    },
+    'Barrier': {
+        bp: 0,
+        type: 'Psychic',
+        pp: 30
+    },
+    'Bide': {
+        bp: 0,
+        type: 'Normal',
+        pp: 10
+    },
+    'Bind': {
+        bp: 40,
+        type: 'Normal',
+        pp: 20
+    },
     'Blizzard': {
         bp: 115,
         type: 'Ice',
