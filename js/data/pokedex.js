@@ -79,7 +79,7 @@ var POKEDEX_RBY = {
 			"sp": 95,
 			"sl": 95
 		},
-		"w": 155.0
+		"w": 168.0
 	},
 	"Articuno": {
 		"t1": "Ice",
@@ -108,7 +108,7 @@ var POKEDEX_RBY = {
 			"sp": 95,
 			"sl": 115
 		},
-		"w": 55.4,
+		"w": 50.9,
 		"ab": "Pressure"
 	},
 	"Garticuno": {
@@ -123,7 +123,7 @@ var POKEDEX_RBY = {
 			"sp": 95,
 			"sl": 130
 		},
-		"w": 55.4,
+		"w": 50.9,
 		"ab": "Pressure"
 	},
 	"Beedrill": {
@@ -215,7 +215,7 @@ var POKEDEX_RBY = {
 	"Chansey": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 250,
+			"hp": 240,
 			"at": 5,
 			"df": 5,
 			"sa": 35,
@@ -224,6 +224,19 @@ var POKEDEX_RBY = {
 			"sl": 105
 		},
 		"w": 34.6
+	},
+	"Happiny": {
+		"t1": "Normal",
+		"bs": {
+			"hp": 100,
+			"at": 5,
+			"df": 5,
+			"sa": 15,
+			"sd": 65,
+			"sp": 30
+		},
+		"w": 24.4,
+		"canEvolve": true
 	},
 	"Charizard": {
 		"t1": "Fire",
