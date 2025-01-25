@@ -37,10 +37,9 @@ var MOVES_RBY = {
         hasSecondaryEffect: true,
         pp: 20
     },
-    'Barrage: {
+    'Barrage': {
         bp: 15,
-        type: 'Grass',
-        category: 'Special',
+        type: 'Normal',
         pp: 20
     },
     'Barrier': {
