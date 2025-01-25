@@ -18,7 +18,7 @@ var MOVES_RBY = {
     'Acid Armor': {
         bp: 0,
         type: 'Poison',
-        pp: 20
+        pp: 40
     },
     'Agility': {
         bp: 0,
@@ -35,6 +35,12 @@ var MOVES_RBY = {
         type: 'Ice',
         category: 'Special',
         hasSecondaryEffect: true,
+        pp: 20
+    },
+    'Barrage: {
+        bp: 15,
+        type: 'Grass',
+        category: 'Special',
         pp: 20
     },
     'Barrier': {
@@ -75,6 +81,11 @@ var MOVES_RBY = {
         hasSecondaryEffect: true,
         pp: 20
     },
+    'Bubble': {
+        bp: 30,
+        type: 'Water',
+        pp: 30
+    },
     'Bubble Beam': {
         bp: 65,
         type: 'Water',
@@ -86,7 +97,7 @@ var MOVES_RBY = {
         pp: 20
     },
     'Crabhammer': {
-        bp: 90,
+        bp: 120,
         type: 'Water',
         category: 'Physical',
         makesContact: true,
@@ -164,7 +175,7 @@ var MOVES_RBY = {
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        hasRecoil: true,
+        hasRecoil: 33,
         pp: 15
     },
     'Double Slap': {
@@ -228,7 +239,7 @@ var MOVES_RBY = {
         pp: 25
     },
     'Explosion': {
-        bp: 170,
+        bp: 250,
         type: 'Normal',
         category: 'Physical',
         isSpread: true,
@@ -322,7 +333,7 @@ var MOVES_RBY = {
     },
     'Gust': {
         bp: 40,
-        type: 'Normal',
+        type: 'Flying',
         category: 'Special',
         pp: 35
     },
@@ -418,13 +429,13 @@ var MOVES_RBY = {
         pp: 30
     },
     'Leech Life': {
-        bp: 20,
+        bp: 40,
         type: 'Bug',
         category: 'Physical',
         makesContact: true,
         givesHealth: true,
         percentHealed: 0.5,
-        pp: 10
+        pp: 20
     },
     'Leech Seed': {
         bp: 0,
@@ -457,7 +468,7 @@ var MOVES_RBY = {
     'Meditate': {
         bp: 0,
         type: 'Psychic',
-        pp: 40
+        pp: 10
     },
     'Mega Drain': {
         bp: 40,
@@ -542,6 +553,11 @@ var MOVES_RBY = {
         hasSecondaryEffect: true,
         pp: 35
     },
+    'Poison Gas': {
+        bp: 0,
+        type: 'Poison',
+        pp: 40
+    },
     'Poison Powder': {
         bp: 0,
         type: 'Poison',
@@ -597,7 +613,6 @@ var MOVES_RBY = {
         bp: 55,
         type: 'Grass',
         category: 'Physical',
-        alwaysCrit: true,
         pp: 25
     },
     'Razor Wind': {
@@ -703,7 +718,6 @@ var MOVES_RBY = {
     'Slash': {
         bp: 70,
         type: 'Normal',
-        alwaysCrit: true,
         makesContact: true,
         pp: 20
     },
@@ -737,6 +751,11 @@ var MOVES_RBY = {
         type: 'Normal',
         pp: 20
     },
+    'Splash': {
+        bp: 0,
+        type: 'Normal',
+        pp: 40
+    },       
     'Spike Cannon': {
         bp: 25,
         type: 'Normal',
@@ -907,7 +926,7 @@ var MOVES_RBY = {
         makesContact: true,
         pp: 30
     },
-        'Vine Whip': {
+    'Vine Whip': {
         bp: 35,
         type: 'Grass',
         pp: 10
@@ -1035,8 +1054,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Fighting',
         pp: 5
     },
-    'Dig': {bp: 60},
-    'Double-Edge': {bp: 120},
     'Dynamic Punch': {
         bp: 100,
         type: 'Fighting',
@@ -1056,7 +1073,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Normal',
         pp: 10
     },
-    'Explosion': {bp: 250},
     'Extreme Speed': {
         bp: 80,
         type: 'Normal',
@@ -1120,7 +1136,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         percentHealed: 0.5,
         pp: 10
     },
-    'Gust': {type: 'Flying'},
     'Headbutt': {
         bp: 70,
         type: 'Normal',
@@ -1371,7 +1386,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         makesContact: true,
         pp: 40
     },
-    'Razor Leaf': {alwaysCrit: false},
     'Return': {
         bp: 102,
         type: 'Normal',
@@ -1431,7 +1445,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         isBullet: true,
         pp: 15
     },
-    'Slash': {alwaysCrit: false},
     'Sleep Talk': {
         bp: 0,
         type: 'Normal',
@@ -1490,8 +1503,9 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 25
     },
     'Struggle': {
+        bp: 40,
         type: 'None',
-        hasRecoil: 25
+        hasRecoil: 50
     },
     'Sunny Day': {
         bp: 0,
@@ -1525,7 +1539,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         makesContact: true,
         pp: 25
     },
-    'Tri Attack': {hasSecondaryEffect: true},
     'Triple Kick': {
         bp: 60,
         type: 'Fighting',
@@ -1552,7 +1565,6 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         category: 'Special',
         pp: 15
     },
-    'Wing Attack': {bp: 60},
     'Zap Cannon': {
         bp: 100,
         type: 'Electric',
@@ -1596,7 +1608,6 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         hasSecondaryEffect: true,
         pp: 15
     },
-
     'Blast Burn': {
         bp: 150,
         type: 'Fire',
@@ -1706,7 +1717,6 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         type: 'Dragon',
         pp: 20
     },
-    'Double-Edge': {hasRecoil: 33},
     'Endeavor': {
         bp: 0,
         type: 'Normal',
