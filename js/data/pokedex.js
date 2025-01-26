@@ -2484,13 +2484,27 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 59.0
 	},
+	"Electrode-H": {
+		"t1": "Electric",
+		"t2": "Grass",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 90,
+			"sd": 80,
+			"sp": 140,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Elekid": {
 		"t1": "Electric",
 		"bs": {
-			"hp": 45,
+			"hp": 50,
 			"at": 63,
-			"df": 37,
-			"sa": 65,
+			"df": 42,
+			"sa": 70,
 			"sd": 55,
 			"sp": 95
 		},
@@ -2522,6 +2536,47 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 110
 		},
 		"w": 26.5
+	},
+	"Exeggutor-A": {
+		"t1": "Grass",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 95,
+			"at": 105,
+			"df": 95,
+			"sa": 125,
+			"sd": 80,
+			"sp": 45,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Exeggutor-Anpc": {
+		"t1": "Grass",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 100,
+			"at": 105,
+			"df": 95,
+			"sa": 125,
+			"sd": 85,
+			"sp": 45,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Farfetchd-G": {
+		"t1": "Fighting",
+		"bs": {
+			"hp": 52,
+			"at": 95,
+			"df": 55,
+			"sa": 58,
+			"sd": 62,
+			"sp": 55,
+			"sl": 60
+		},
+		"w": 59.0
 	},
 	"Feraligatr": {
 		"t1": "Water",
@@ -2574,6 +2629,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 32.5
 	},
+	"Geodude-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 40,
+			"at": 80,
+			"df": 100,
+			"sa": 50,
+			"sd": 30,
+			"sp": 20,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Girafarig": {
 		"t1": "Normal",
 		"t2": "Psychic",
@@ -2586,6 +2655,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 85
 		},
 		"w": 41.5
+	},
+	"Glaceon": {
+		"t1": "Ice",
+		"bs": {
+			"hp": 80,
+			"at": 60,
+			"df": 110,
+			"sa": 130,
+			"sd": 95,
+			"sp": 80,
+			"sl": 60
+		},
+		"w": 59.0
 	},
 	"Gligar": {
 		"t1": "Ground",
@@ -2600,6 +2682,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 64.8
 	},
+	"Golem-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 80,
+			"at": 110,
+			"df": 130,
+			"sa": 90,
+			"sd": 95,
+			"sp": 65,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Granbull": {
 		"t1": "Normal",
 		"bs": {
@@ -2611,6 +2707,75 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 45
 		},
 		"w": 48.7
+	},
+	"Graveler-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 55,
+			"at": 95,
+			"df": 115,
+			"sa": 70,
+			"sd": 45,
+			"sp": 35,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Grimer-A": {
+		"t1": "Poison",
+		"t2": "Dark",
+		"bs": {
+			"hp": 80,
+			"at": 80,
+			"df": 50,
+			"sa": 40,
+			"sd": 50,
+			"sp": 25,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Growlithe-H": {
+		"t1": "Fire",
+		"t2": "Rock",
+		"bs": {
+			"hp": 60,
+			"at": 75,
+			"df": 45,
+			"sa": 65,
+			"sd": 50,
+			"sp": 55,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Happiny": {
+		"t1": "Normal",
+		"bs": {
+			"hp": 100,
+			"at": 5,
+			"df": 5,
+			"sa": 15,
+			"sd": 65,
+			"sp": 30,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Harcanine": {
+		"t1": "Fire",
+		"t2": "Rock",
+		"bs": {
+			"hp": 95,
+			"at": 115,
+			"df": 80,
+			"sa": 95,
+			"sd": 80,
+			"sp": 95,
+			"sl": 60
+		},
+		"w": 59.0
 	},
 	"Heracross": {
 		"t1": "Bug",
