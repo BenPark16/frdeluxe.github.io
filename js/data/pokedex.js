@@ -16,10 +16,6 @@ var POKEDEX_RBY = {
 };
 
 var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
-	"Magneton": {
-		"t2": "Steel",
-		"gender": "genderless"
-	},
 	"Aipom": {
 		"t1": "Normal",
 		"bs": {
