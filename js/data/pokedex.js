@@ -2142,6 +2142,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Steel",
 		"gender": "genderless"
 	},
+	"Abra": {
+		"t1": "Psychic",
+		"bs": {
+			"hp": 25,
+			"at": 20,
+			"df": 15,
+			"sa": 105,
+			"sd": 55,
+			"sp": 90,
+			"sl": 105
+		},
+		"w": 19.5,
+		"canEvolve": true
+	},
 	"Aipom": {
 		"t1": "Normal",
 		"bs": {
