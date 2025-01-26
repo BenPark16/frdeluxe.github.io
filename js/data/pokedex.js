@@ -2235,6 +2235,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 59.0
 	},
+	"Articuno-Knpc": {
+		"t1": "Ice",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 85,
+			"df": 105,
+			"sa": 100,
+			"sd": 130,
+			"sp": 85,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Azumarill": {
 		"t1": "Water",
 		"bs": {
@@ -2275,11 +2289,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Blissey": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 255,
+			"hp": 240,
 			"at": 10,
 			"df": 10,
-			"sa": 75,
-			"sd": 135,
+			"sa": 65,
+			"sd": 120,
 			"sp": 55
 		},
 		"w": 46.8
@@ -2404,6 +2418,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 16.0
 	},
+	"Diglett-A": {
+		"t1": "Ground",
+		"t2": "Steel",
+		"bs": {
+			"hp": 10,
+			"at": 55,
+			"df": 25,
+			"sa": 35,
+			"sd": 45,
+			"sp": 95,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Donphan": {
 		"t1": "Ground",
 		"bs": {
@@ -2416,6 +2444,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 120.0
 	},
+	"Dugtrio-A": {
+		"t1": "Ground",
+		"t2": "Steel",
+		"bs": {
+			"hp": 55,
+			"at": 90,
+			"df": 69,
+			"sa": 50,
+			"sd": 80,
+			"sp": 110,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Dunsparce": {
 		"t1": "Normal",
 		"bs": {
@@ -2427,6 +2469,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 45
 		},
 		"w": 14.0
+	},
+	"Electivire": {
+		"t1": "Electric",
+		"t2": "Fighting",
+		"bs": {
+			"hp": 75,
+			"at": 123,
+			"df": 67,
+			"sa": 100,
+			"sd": 85,
+			"sp": 95,
+			"sl": 60
+		},
+		"w": 59.0
 	},
 	"Elekid": {
 		"t1": "Electric",
