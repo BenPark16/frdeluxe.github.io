@@ -18,9 +18,9 @@ var POKEDEX_RBY = {
 		"t2": "Flying",
 		"bs": {
 			"hp": 80,
-			"at": 105,
-			"df": 65,
-			"sa": 60,
+			"at": 110,
+			"df": 80,
+			"sa": 70,
 			"sd": 75,
 			"sp": 130,
 			"sl": 60
@@ -33,8 +33,8 @@ var POKEDEX_RBY = {
 			"hp": 55,
 			"at": 50,
 			"df": 45,
-			"sa": 135,
-			"sd": 85,
+			"sa": 125,
+			"sd": 80,
 			"sp": 120,
 			"sl": 135
 		},
@@ -42,13 +42,14 @@ var POKEDEX_RBY = {
 	},
 	"Arbok": {
 		"t1": "Poison",
+		"t2": "Dark",
 		"bs": {
-			"hp": 60,
-			"at": 85,
+			"hp": 75,
+			"at": 105,
 			"df": 69,
-			"sa": 65,
+			"sa": 90,
 			"sd": 79,
-			"sp": 80,
+			"sp": 85,
 			"sl": 65
 		},
 		"w": 65.0
@@ -72,10 +73,10 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 90,
 			"at": 85,
-			"df": 100,
+			"df": 95,
 			"sa": 95,
-			"sd": 125,
-			"sp": 85,
+			"sd": 115,
+			"sp": 80,
 			"sl": 125
 		},
 		"w": 55.4,
@@ -86,11 +87,11 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 65,
-			"at": 80,
-			"df": 40,
+			"at": 95,
+			"df": 55,
 			"sa": 45,
 			"sd": 80,
-			"sp": 75,
+			"sp": 100,
 			"sl": 45
 		},
 		"w": 29.5
@@ -101,9 +102,9 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 50,
 			"at": 75,
-			"df": 35,
+			"df": 45,
 			"sa": 70,
-			"sd": 30,
+			"sd": 40,
 			"sp": 40,
 			"sl": 70
 		},
@@ -114,9 +115,9 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"bs": {
 			"hp": 79,
-			"at": 83,
+			"at": 85,
 			"df": 100,
-			"sa": 85,
+			"sa": 88,
 			"sd": 105,
 			"sp": 78,
 			"sl": 85
@@ -140,15 +141,15 @@ var POKEDEX_RBY = {
 		"canEvolve": true
 	},
 	"Butterfree": {
-		"t1": "Bug",
+		"t1": "Psychic",
 		"t2": "Flying",
 		"bs": {
-			"hp": 60,
-			"at": 45,
-			"df": 50,
-			"sa": 80,
+			"hp": 70,
+			"at": 80,
+			"df": 65,
+			"sa": 90,
 			"sd": 80,
-			"sp": 70,
+			"sp": 85,
 			"sl": 80
 		},
 		"w": 32.0
@@ -170,7 +171,7 @@ var POKEDEX_RBY = {
 	"Chansey": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 250,
+			"hp": 240,
 			"at": 5,
 			"df": 5,
 			"sa": 35,
@@ -185,7 +186,7 @@ var POKEDEX_RBY = {
 		"t2": "Flying",
 		"bs": {
 			"hp": 78,
-			"at": 84,
+			"at": 89,
 			"df": 78,
 			"sa": 109,
 			"sd": 85,
@@ -251,13 +252,13 @@ var POKEDEX_RBY = {
 	},
 	"Cloyster": {
 		"t1": "Water",
-		"t2": "Ice",
+		"t2": "Steel",
 		"bs": {
-			"hp": 50,
-			"at": 95,
+			"hp": 70,
+			"at": 100,
 			"df": 180,
 			"sa": 85,
-			"sd": 45,
+			"sd": 60,
 			"sp": 70,
 			"sl": 85
 		},
@@ -282,11 +283,11 @@ var POKEDEX_RBY = {
 		"t2": "Ice",
 		"bs": {
 			"hp": 90,
-			"at": 70,
-			"df": 80,
-			"sa": 70,
-			"sd": 95,
-			"sp": 70,
+			"at": 80,
+			"df": 85,
+			"sa": 85,
+			"sd": 100,
+			"sp": 75,
 			"sl": 95
 		},
 		"w": 120.0
@@ -308,18 +309,18 @@ var POKEDEX_RBY = {
 	"Ditto": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 48,
-			"at": 48,
-			"df": 48,
-			"sa": 48,
-			"sd": 48,
+			"hp": 62,
+			"at": 67,
+			"df": 96,
+			"sa": 72,
+			"sd": 86,
 			"sp": 48,
 			"sl": 48
 		},
 		"w": 4.0
 	},
 	"Dodrio": {
-		"t1": "Normal",
+		"t1": "Fighting",
 		"t2": "Flying",
 		"bs": {
 			"hp": 60,
@@ -350,11 +351,11 @@ var POKEDEX_RBY = {
 	"Dragonair": {
 		"t1": "Dragon",
 		"bs": {
-			"hp": 61,
-			"at": 84,
-			"df": 65,
-			"sa": 70,
-			"sd": 70,
+			"hp": 76,
+			"at": 94,
+			"df": 70,
+			"sa": 85,
+			"sd": 75,
 			"sp": 70,
 			"sl": 70
 		},
@@ -394,9 +395,9 @@ var POKEDEX_RBY = {
 		"t1": "Psychic",
 		"bs": {
 			"hp": 60,
-			"at": 48,
+			"at": 53,
 			"df": 45,
-			"sa": 43,
+			"sa": 68,
 			"sd": 90,
 			"sp": 42,
 			"sl": 90
@@ -407,8 +408,8 @@ var POKEDEX_RBY = {
 	"Dugtrio": {
 		"t1": "Ground",
 		"bs": {
-			"hp": 35,
-			"at": 80,
+			"hp": 40,
+			"at": 105,
 			"df": 50,
 			"sa": 50,
 			"sd": 70,
@@ -435,12 +436,12 @@ var POKEDEX_RBY = {
 	"Ekans": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 35,
-			"at": 60,
+			"hp": 45,
+			"at": 65,
 			"df": 44,
-			"sa": 40,
+			"sa": 50,
 			"sd": 54,
-			"sp": 55,
+			"sp": 60,
 			"sl": 40
 		},
 		"w": 6.9,
@@ -461,11 +462,12 @@ var POKEDEX_RBY = {
 	},
 	"Electrode": {
 		"t1": "Electric",
+		"t2": "Dark",
 		"bs": {
-			"hp": 60,
-			"at": 50,
+			"hp": 70,
+			"at": 70,
 			"df": 70,
-			"sa": 80,
+			"sa": 90,
 			"sd": 80,
 			"sp": 140,
 			"sl": 80
@@ -478,7 +480,7 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 60,
 			"at": 40,
-			"df": 80,
+			"df": 75,
 			"sa": 60,
 			"sd": 45,
 			"sp": 40,
@@ -505,23 +507,23 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 52,
-			"at": 65,
-			"df": 55,
+			"hp": 72,
+			"at": 60,
+			"df": 70,
 			"sa": 58,
-			"sd": 62,
-			"sp": 60,
+			"sd": 72,
+			"sp": 87,
 			"sl": 58
 		},
 		"w": 15.0
 	},
 	"Fearow": {
-		"t1": "Normal",
+		"t1": "Ground",
 		"t2": "Flying",
 		"bs": {
 			"hp": 65,
 			"at": 90,
-			"df": 65,
+			"df": 75,
 			"sa": 61,
 			"sd": 61,
 			"sp": 100,
@@ -532,12 +534,12 @@ var POKEDEX_RBY = {
 	"Flareon": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 65,
-			"at": 130,
-			"df": 60,
+			"hp": 80,
+			"at": 120,
+			"df": 65,
 			"sa": 95,
 			"sd": 110,
-			"sp": 65,
+			"sp": 75,
 			"sl": 110
 		},
 		"w": 25.0
@@ -563,9 +565,9 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 60,
-			"at": 65,
+			"at": 70,
 			"df": 60,
-			"sa": 130,
+			"sa": 118,
 			"sd": 75,
 			"sp": 110,
 			"sl": 130
@@ -619,13 +621,14 @@ var POKEDEX_RBY = {
 	},
 	"Goldeen": {
 		"t1": "Water",
+		"t2": "Ground",
 		"bs": {
-			"hp": 45,
+			"hp": 50,
 			"at": 67,
 			"df": 60,
-			"sa": 35,
+			"sa": 50,
 			"sd": 50,
-			"sp": 63,
+			"sp": 68,
 			"sl": 50
 		},
 		"w": 15.0,
@@ -635,11 +638,11 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"bs": {
 			"hp": 80,
-			"at": 82,
-			"df": 78,
+			"at": 92,
+			"df": 83,
 			"sa": 95,
 			"sd": 80,
-			"sp": 85,
+			"sp": 90,
 			"sl": 80
 		},
 		"w": 76.6
@@ -690,12 +693,12 @@ var POKEDEX_RBY = {
 	"Growlithe": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 55,
-			"at": 70,
+			"hp": 60,
+			"at": 75,
 			"df": 45,
-			"sa": 70,
+			"sa": 65,
 			"sd": 50,
-			"sp": 60,
+			"sp": 55,
 			"sl": 50
 		},
 		"w": 19.0,
@@ -705,11 +708,11 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"t2": "Flying",
 		"bs": {
-			"hp": 95,
-			"at": 125,
+			"hp": 90,
+			"at": 120,
 			"df": 79,
-			"sa": 60,
-			"sd": 100,
+			"sa": 65,
+			"sd": 95,
 			"sp": 81,
 			"sl": 100
 		},
@@ -733,11 +736,12 @@ var POKEDEX_RBY = {
 	},
 	"Hitmonchan": {
 		"t1": "Fighting",
+		"t2": "Rock",
 		"bs": {
-			"hp": 50,
+			"hp": 65,
 			"at": 105,
-			"df": 79,
-			"sa": 35,
+			"df": 94,
+			"sa": 75,
 			"sd": 110,
 			"sp": 76,
 			"sl": 35
@@ -746,13 +750,14 @@ var POKEDEX_RBY = {
 	},
 	"Hitmonlee": {
 		"t1": "Fighting",
+		"t2": "Dark",
 		"bs": {
-			"hp": 50,
+			"hp": 55,
 			"at": 120,
 			"df": 53,
-			"sa": 35,
+			"sa": 95,
 			"sd": 110,
-			"sp": 87,
+			"sp": 92,
 			"sl": 35
 		},
 		"w": 49.8
@@ -773,11 +778,12 @@ var POKEDEX_RBY = {
 	},
 	"Hypno": {
 		"t1": "Psychic",
+		"t2": "Dark",
 		"bs": {
 			"hp": 85,
-			"at": 73,
-			"df": 70,
-			"sa": 73,
+			"at": 78,
+			"df": 85,
+			"sa": 93,
 			"sd": 115,
 			"sp": 67,
 			"sl": 115
@@ -803,11 +809,11 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"bs": {
 			"hp": 115,
-			"at": 45,
-			"df": 20,
-			"sa": 45,
-			"sd": 25,
-			"sp": 20,
+			"at": 60,
+			"df": 30,
+			"sa": 65,
+			"sd": 35,
+			"sp": 50,
 			"sl": 25
 		},
 		"w": 5.5,
@@ -817,7 +823,7 @@ var POKEDEX_RBY = {
 		"t1": "Electric",
 		"bs": {
 			"hp": 65,
-			"at": 65,
+			"at": 85,
 			"df": 60,
 			"sa": 110,
 			"sd": 95,
@@ -844,12 +850,12 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 30,
+			"hp": 35,
 			"at": 80,
 			"df": 90,
-			"sa": 55,
+			"sa": 65,
 			"sd": 45,
-			"sp": 55,
+			"sp": 75,
 			"sl": 45
 		},
 		"w": 11.5,
@@ -859,12 +865,12 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 60,
+			"hp": 65,
 			"at": 115,
-			"df": 105,
-			"sa": 65,
+			"df": 100,
+			"sa": 85,
 			"sd": 70,
-			"sp": 80,
+			"sp": 105,
 			"sl": 70
 		},
 		"w": 40.5
@@ -913,14 +919,15 @@ var POKEDEX_RBY = {
 		"w": 80.0
 	},
 	"Kingler": {
-		"t1": "Water",
+		"t1": "Normal",
+		"t2": "Water",
 		"bs": {
-			"hp": 55,
+			"hp": 75,
 			"at": 130,
-			"df": 115,
-			"sa": 50,
-			"sd": 50,
-			"sp": 75,
+			"df": 120,
+			"sa": 70,
+			"sd": 65,
+			"sp": 82,
 			"sl": 50
 		},
 		"w": 60.0
@@ -928,10 +935,10 @@ var POKEDEX_RBY = {
 	"Koffing": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 40,
-			"at": 65,
+			"hp": 50,
+			"at": 70,
 			"df": 95,
-			"sa": 60,
+			"sa": 75,
 			"sd": 45,
 			"sp": 35,
 			"sl": 60
@@ -941,13 +948,14 @@ var POKEDEX_RBY = {
 		"canEvolve": true
 	},
 	"Krabby": {
-		"t1": "Water",
+		"t1": "Normal",
+		"t2": "Water",
 		"bs": {
-			"hp": 30,
+			"hp": 40,
 			"at": 105,
 			"df": 90,
-			"sa": 25,
-			"sd": 25,
+			"sa": 55,
+			"sd": 45,
 			"sp": 50,
 			"sl": 25
 		},
@@ -1015,9 +1023,9 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 70,
 			"at": 80,
-			"df": 50,
+			"df": 55,
 			"sa": 35,
-			"sd": 35,
+			"sd": 45,
 			"sp": 35,
 			"sl": 35
 		},
@@ -1054,12 +1062,13 @@ var POKEDEX_RBY = {
 	},
 	"Magnemite": {
 		"t1": "Electric",
+		"t2": "Steel",
 		"bs": {
 			"hp": 25,
 			"at": 35,
-			"df": 70,
-			"sa": 95,
-			"sd": 55,
+			"df": 65,
+			"sa": 75,
+			"sd": 45,
 			"sp": 45,
 			"sl": 95
 		},
@@ -1068,6 +1077,7 @@ var POKEDEX_RBY = {
 	},
 	"Magneton": {
 		"t1": "Electric",
+		"t2": "Steel",
 		"bs": {
 			"hp": 50,
 			"at": 60,
@@ -1153,12 +1163,12 @@ var POKEDEX_RBY = {
 	"Mewtwo": {
 		"t1": "Psychic",
 		"bs": {
-			"hp": 106,
-			"at": 110,
-			"df": 90,
-			"sa": 154,
-			"sd": 90,
-			"sp": 130,
+			"hp": 96,
+			"at": 105,
+			"df": 85,
+			"sa": 129,
+			"sd": 85,
+			"sp": 115,
 			"sl": 154
 		},
 		"w": 122.0
@@ -1168,9 +1178,9 @@ var POKEDEX_RBY = {
 		"t2": "Flying",
 		"bs": {
 			"hp": 90,
-			"at": 100,
+			"at": 80,
 			"df": 90,
-			"sa": 125,
+			"sa": 120,
 			"sd": 85,
 			"sp": 90,
 			"sl": 125
@@ -1180,11 +1190,12 @@ var POKEDEX_RBY = {
 	},
 	"Mr. Mime": {
 		"t1": "Psychic",
+		"t2": "Ghost",
 		"bs": {
-			"hp": 40,
-			"at": 45,
+			"hp": 50,
+			"at": 75,
 			"df": 65,
-			"sa": 100,
+			"sa": 90,
 			"sd": 120,
 			"sp": 90,
 			"sl": 100
@@ -1194,10 +1205,10 @@ var POKEDEX_RBY = {
 	"Muk": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 105,
+			"hp": 110,
 			"at": 105,
-			"df": 75,
-			"sa": 65,
+			"df": 80,
+			"sa": 70,
 			"sd": 100,
 			"sp": 50,
 			"sl": 65
@@ -1296,8 +1307,8 @@ var POKEDEX_RBY = {
 			"hp": 73,
 			"at": 76,
 			"df": 75,
-			"sa": 81,
-			"sd": 100,
+			"sa": 91,
+			"sd": 110,
 			"sp": 100,
 			"sl": 100
 		},
@@ -1322,8 +1333,8 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 35,
-			"at": 40,
+			"hp": 50,
+			"at": 55,
 			"df": 100,
 			"sa": 90,
 			"sd": 55,
@@ -1337,12 +1348,12 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 70,
-			"at": 60,
+			"hp": 75,
+			"at": 90,
 			"df": 125,
 			"sa": 115,
 			"sd": 70,
-			"sp": 55,
+			"sp": 65,
 			"sl": 115
 		},
 		"w": 35.0
@@ -1351,8 +1362,8 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Ground",
 		"bs": {
-			"hp": 35,
-			"at": 45,
+			"hp": 55,
+			"at": 65,
 			"df": 160,
 			"sa": 30,
 			"sd": 45,
@@ -1366,12 +1377,12 @@ var POKEDEX_RBY = {
 		"t1": "Bug",
 		"t2": "Grass",
 		"bs": {
-			"hp": 35,
+			"hp": 60,
 			"at": 70,
-			"df": 55,
-			"sa": 45,
+			"df": 45,
+			"sa": 65,
 			"sd": 55,
-			"sp": 25,
+			"sp": 60,
 			"sl": 55
 		},
 		"w": 5.4,
@@ -1381,12 +1392,12 @@ var POKEDEX_RBY = {
 		"t1": "Bug",
 		"t2": "Grass",
 		"bs": {
-			"hp": 60,
-			"at": 95,
+			"hp": 90,
+			"at": 105,
 			"df": 80,
-			"sa": 60,
-			"sd": 80,
-			"sp": 30,
+			"sa": 90,
+			"sd": 120,
+			"sp": 70,
 			"sl": 80
 		},
 		"w": 29.5
@@ -1394,10 +1405,10 @@ var POKEDEX_RBY = {
 	"Persian": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 65,
-			"at": 70,
+			"hp": 75,
+			"at": 80,
 			"df": 60,
-			"sa": 65,
+			"sa": 70,
 			"sd": 65,
 			"sp": 115,
 			"sl": 65
@@ -1408,12 +1419,12 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 83,
-			"at": 80,
-			"df": 75,
+			"hp": 88,
+			"at": 93,
+			"df": 85,
 			"sa": 70,
-			"sd": 70,
-			"sp": 91,
+			"sd": 75,
+			"sp": 111,
 			"sl": 70
 		},
 		"w": 39.5
@@ -1422,12 +1433,12 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 63,
-			"at": 60,
-			"df": 55,
-			"sa": 50,
+			"hp": 68,
+			"at": 65,
+			"df": 60,
+			"sa": 55,
 			"sd": 50,
-			"sp": 71,
+			"sp": 81,
 			"sl": 50
 		},
 		"w": 30.0,
@@ -1437,9 +1448,9 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 40,
-			"at": 45,
-			"df": 40,
+			"hp": 45,
+			"at": 50,
+			"df": 45,
 			"sa": 35,
 			"sd": 35,
 			"sp": 56,
@@ -1465,7 +1476,7 @@ var POKEDEX_RBY = {
 	"Pinsir": {
 		"t1": "Bug",
 		"bs": {
-			"hp": 65,
+			"hp": 75,
 			"at": 125,
 			"df": 100,
 			"sa": 55,
@@ -1478,10 +1489,10 @@ var POKEDEX_RBY = {
 	"Poliwag": {
 		"t1": "Water",
 		"bs": {
-			"hp": 40,
+			"hp": 45,
 			"at": 50,
-			"df": 40,
-			"sa": 40,
+			"df": 50,
+			"sa": 45,
 			"sd": 40,
 			"sp": 90,
 			"sl": 40
@@ -1495,7 +1506,7 @@ var POKEDEX_RBY = {
 			"hp": 65,
 			"at": 65,
 			"df": 65,
-			"sa": 50,
+			"sa": 65,
 			"sd": 50,
 			"sp": 90,
 			"sl": 50
@@ -1508,9 +1519,9 @@ var POKEDEX_RBY = {
 		"t2": "Fighting",
 		"bs": {
 			"hp": 90,
-			"at": 85,
+			"at": 90,
 			"df": 95,
-			"sa": 70,
+			"sa": 80,
 			"sd": 90,
 			"sp": 70,
 			"sl": 70
@@ -1521,9 +1532,9 @@ var POKEDEX_RBY = {
 	"Ponyta": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 50,
+			"hp": 60,
 			"at": 85,
-			"df": 55,
+			"df": 60,
 			"sa": 65,
 			"sd": 65,
 			"sp": 90,
@@ -1550,10 +1561,10 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 65,
 			"at": 105,
-			"df": 60,
-			"sa": 60,
+			"df": 70,
+			"sa": 65,
 			"sd": 70,
-			"sp": 95,
+			"sp": 110,
 			"sl": 60
 		},
 		"w": 32.0
@@ -1561,7 +1572,7 @@ var POKEDEX_RBY = {
 	"Psyduck": {
 		"t1": "Water",
 		"bs": {
-			"hp": 50,
+			"hp": 55,
 			"at": 52,
 			"df": 48,
 			"sa": 65,
@@ -1588,12 +1599,12 @@ var POKEDEX_RBY = {
 	"Rapidash": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 65,
+			"hp": 75,
 			"at": 100,
-			"df": 70,
-			"sa": 80,
+			"df": 75,
+			"sa": 85,
 			"sd": 80,
-			"sp": 105,
+			"sp": 115,
 			"sl": 80
 		},
 		"w": 95.0
@@ -1602,9 +1613,9 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"bs": {
 			"hp": 55,
-			"at": 81,
+			"at": 85,
 			"df": 60,
-			"sa": 50,
+			"sa": 60,
 			"sd": 70,
 			"sp": 97,
 			"sl": 50
@@ -1669,7 +1680,8 @@ var POKEDEX_RBY = {
 		"canEvolve": true
 	},
 	"Sandslash": {
-		"t1": "Ground",
+		"t1": "Normal",
+		"t2": "Ground",
 		"bs": {
 			"hp": 75,
 			"at": 100,
@@ -1710,13 +1722,14 @@ var POKEDEX_RBY = {
 	},
 	"Seaking": {
 		"t1": "Water",
+		"t2": "Ground",
 		"bs": {
 			"hp": 80,
-			"at": 92,
-			"df": 65,
-			"sa": 65,
+			"at": 102,
+			"df": 85,
+			"sa": 95,
 			"sd": 80,
-			"sp": 68,
+			"sp": 83,
 			"sl": 80
 		},
 		"w": 39.0
@@ -1738,10 +1751,10 @@ var POKEDEX_RBY = {
 	"Shellder": {
 		"t1": "Water",
 		"bs": {
-			"hp": 30,
+			"hp": 40,
 			"at": 65,
 			"df": 100,
-			"sa": 45,
+			"sa": 55,
 			"sd": 25,
 			"sp": 40,
 			"sl": 45
@@ -1768,9 +1781,9 @@ var POKEDEX_RBY = {
 		"t2": "Psychic",
 		"bs": {
 			"hp": 90,
-			"at": 65,
+			"at": 55,
 			"df": 65,
-			"sa": 40,
+			"sa": 65,
 			"sd": 40,
 			"sp": 15,
 			"sl": 40
@@ -1781,11 +1794,11 @@ var POKEDEX_RBY = {
 	"Snorlax": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 160,
-			"at": 110,
+			"hp": 130,
+			"at": 105,
 			"df": 65,
 			"sa": 65,
-			"sd": 110,
+			"sd": 105,
 			"sp": 30,
 			"sl": 65
 		},
@@ -1796,12 +1809,12 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 40,
-			"at": 60,
-			"df": 30,
+			"hp": 45,
+			"at": 65,
+			"df": 35,
 			"sa": 31,
-			"sd": 31,
-			"sp": 70,
+			"sd": 36,
+			"sp": 75,
 			"sl": 31
 		},
 		"w": 2.0,
@@ -1826,11 +1839,11 @@ var POKEDEX_RBY = {
 		"t2": "Psychic",
 		"bs": {
 			"hp": 60,
-			"at": 75,
-			"df": 85,
-			"sa": 100,
-			"sd": 85,
-			"sp": 115,
+			"at": 74,
+			"df": 80,
+			"sa": 90,
+			"sd": 80,
+			"sp": 111,
 			"sl": 100
 		},
 		"w": 80.0,
@@ -1855,8 +1868,8 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 65,
 			"at": 55,
-			"df": 115,
-			"sa": 100,
+			"df": 105,
+			"sa": 90,
 			"sd": 40,
 			"sp": 60,
 			"sl": 100
@@ -1910,7 +1923,7 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"bs": {
 			"hp": 130,
-			"at": 65,
+			"at": 85,
 			"df": 60,
 			"sa": 110,
 			"sd": 95,
@@ -1923,11 +1936,11 @@ var POKEDEX_RBY = {
 		"t1": "Bug",
 		"t2": "Poison",
 		"bs": {
-			"hp": 70,
-			"at": 65,
-			"df": 60,
+			"hp": 80,
+			"at": 70,
+			"df": 110,
 			"sa": 90,
-			"sd": 75,
+			"sd": 100,
 			"sp": 90,
 			"sl": 90
 		},
@@ -1938,11 +1951,11 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 60,
-			"at": 55,
-			"df": 50,
-			"sa": 40,
+			"at": 65,
+			"df": 80,
+			"sa": 50,
 			"sd": 55,
-			"sp": 45,
+			"sp": 50,
 			"sl": 40
 		},
 		"w": 30.0,
@@ -1953,7 +1966,7 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 80,
-			"at": 82,
+			"at": 87,
 			"df": 83,
 			"sa": 100,
 			"sd": 100,
@@ -1967,12 +1980,12 @@ var POKEDEX_RBY = {
 		"t1": "Grass",
 		"t2": "Poison",
 		"bs": {
-			"hp": 80,
-			"at": 105,
+			"hp": 100,
+			"at": 110,
 			"df": 65,
-			"sa": 100,
+			"sa": 95,
 			"sd": 60,
-			"sp": 70,
+			"sp": 80,
 			"sl": 100
 		},
 		"w": 15.5
@@ -1984,7 +1997,7 @@ var POKEDEX_RBY = {
 			"hp": 75,
 			"at": 80,
 			"df": 85,
-			"sa": 100,
+			"sa": 105,
 			"sd": 90,
 			"sp": 50,
 			"sl": 100
@@ -1993,11 +2006,12 @@ var POKEDEX_RBY = {
 	},
 	"Voltorb": {
 		"t1": "Electric",
+		"t2": "Dark",
 		"bs": {
 			"hp": 40,
-			"at": 30,
+			"at": 45,
 			"df": 50,
-			"sa": 55,
+			"sa": 65,
 			"sd": 55,
 			"sp": 100,
 			"sl": 55
@@ -2056,7 +2070,7 @@ var POKEDEX_RBY = {
 			"at": 90,
 			"df": 50,
 			"sa": 85,
-			"sd": 45,
+			"sd": 50,
 			"sp": 55,
 			"sl": 85
 		},
@@ -2066,10 +2080,10 @@ var POKEDEX_RBY = {
 	"Weezing": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 65,
-			"at": 90,
+			"hp": 75,
+			"at": 95,
 			"df": 120,
-			"sa": 85,
+			"sa": 100,
 			"sd": 70,
 			"sp": 60,
 			"sl": 85
@@ -2080,12 +2094,12 @@ var POKEDEX_RBY = {
 	"Wigglytuff": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 140,
-			"at": 70,
-			"df": 45,
-			"sa": 75,
-			"sd": 50,
-			"sp": 45,
+			"hp": 130,
+			"at": 85,
+			"df": 80,
+			"sa": 95,
+			"sd": 60,
+			"sp": 65,
 			"sl": 50
 		},
 		"w": 12.0
@@ -2094,12 +2108,12 @@ var POKEDEX_RBY = {
 		"t1": "Electric",
 		"t2": "Flying",
 		"bs": {
-			"hp": 90,
-			"at": 90,
+			"hp": 85,
+			"at": 85,
 			"df": 85,
-			"sa": 125,
+			"sa": 115,
 			"sd": 90,
-			"sp": 100,
+			"sp": 95,
 			"sl": 125
 		},
 		"w": 52.6,
@@ -2109,18 +2123,18 @@ var POKEDEX_RBY = {
 		"t1": "Poison",
 		"t2": "Flying",
 		"bs": {
-			"hp": 40,
-			"at": 45,
-			"df": 35,
-			"sa": 30,
-			"sd": 40,
+			"hp": 45,
+			"at": 55,
+			"df": 40,
+			"sa": 35,
+			"sd": 45,
 			"sp": 55,
 			"sl": 40
 		},
 		"w": 7.5,
 		"canEvolve": true
 	}
-};
+});
 
 var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Articuno": {"gender": "genderless"},
@@ -2141,20 +2155,6 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Magneton": {
 		"t2": "Steel",
 		"gender": "genderless"
-	},
-	"Abra": {
-		"t1": "Psychic",
-		"bs": {
-			"hp": 25,
-			"at": 20,
-			"df": 15,
-			"sa": 105,
-			"sd": 55,
-			"sp": 90,
-			"sl": 105
-		},
-		"w": 19.5,
-		"canEvolve": true
 	},
 	"Aipom": {
 		"t1": "Normal",
