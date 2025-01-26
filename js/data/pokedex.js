@@ -6209,18 +6209,6 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
 		"w": 106.6,
 		"ab": "Pressure"
 	},
-	"Electivire": {
-		"t1": "Electric",
-		"bs": {
-			"hp": 75,
-			"at": 123,
-			"df": 67,
-			"sa": 95,
-			"sd": 85,
-			"sp": 95
-		},
-		"w": 138.6
-	},
 	"Empoleon": {
 		"t1": "Water",
 		"t2": "Steel",
@@ -6366,18 +6354,6 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
 		},
 		"w": 650.0,
 		"ab": "Levitate"
-	},
-	"Glaceon": {
-		"t1": "Ice",
-		"bs": {
-			"hp": 65,
-			"at": 60,
-			"df": 110,
-			"sa": 130,
-			"sd": 95,
-			"sp": 65
-		},
-		"w": 25.9
 	},
 	"Glameow": {
 		"t1": "Normal",
@@ -6535,18 +6511,6 @@ var POKEDEX_DPP = $.extend(true, {}, POKEDEX_ADV, {
 			"sp": 105
 		},
 		"w": 10.6
-	},
-	"Leafeon": {
-		"t1": "Grass",
-		"bs": {
-			"hp": 65,
-			"at": 110,
-			"df": 130,
-			"sa": 60,
-			"sd": 65,
-			"sp": 95
-		},
-		"w": 25.5
 	},
 	"Lickilicky": {
 		"t1": "Normal",
