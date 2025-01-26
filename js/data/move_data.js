@@ -30,6 +30,14 @@ var MOVES_RBY = {
         type: 'Psychic',
         pp: 20
     },
+    'Arm Thrust': {
+        bp: 15,
+        type: 'Fighting',
+        category: 'Physical',
+        makesContact: true,
+        isMultiHit: true,
+        pp: 20
+    },
     'Aurora Beam': {
         bp: 65,
         type: 'Ice',
@@ -46,6 +54,11 @@ var MOVES_RBY = {
         bp: 0,
         type: 'Psychic',
         pp: 30
+    },
+    'Beat Up': {
+        bp: 10,
+        type: 'Dark',
+        pp: 10
     },
     'Bide': {
         bp: 0,
@@ -88,6 +101,11 @@ var MOVES_RBY = {
     'Bubble Beam': {
         bp: 65,
         type: 'Water',
+        pp: 20
+    },
+    'Camouflage': {
+        bp: 0,
+        type: 'Normal',
         pp: 20
     },
     'Clamp': {
@@ -146,6 +164,13 @@ var MOVES_RBY = {
         bp: 70,
         type: 'Steel',
         pp: 25
+    },
+    'D. Iron Bash': {
+        bp: 90,
+        type: 'Steel',
+        category: 'Physical',
+        makesContact: true,
+        pp: 10
     },
     'Defense Curl': {
         bp: 0,
@@ -213,6 +238,11 @@ var MOVES_RBY = {
         category: 'Special',
         pp: 10
     },
+    'Dragon Hammer': {
+        bp: 90,
+        type: 'Dragon',
+        pp: 15
+    },
     'Dream Eater': {
         bp: 100,
         type: 'Psychic',
@@ -259,6 +289,12 @@ var MOVES_RBY = {
         type: 'Normal',
         category: 'Physical',
         pp: 40
+    },
+    'Fiery Wrath': {
+        bp: 85,
+        type: 'Dark',
+        category: 'Special',
+        pp: 10
     },
     'Fire Blast': {
         bp: 115,
@@ -309,6 +345,11 @@ var MOVES_RBY = {
         bp: 0,
         type: 'Normal',
         pp: 30
+    },
+    'Frozen Glare': {
+        bp: 80,
+        type: 'Psychic',
+        pp: 10
     },
     'Fury Attack': {
         bp: 15,
@@ -381,7 +422,7 @@ var MOVES_RBY = {
         pp: 5
     },
     'Hydro Pump': {
-        bp: 120,
+        bp: 150,
         type: 'Water',
         category: 'Special',
         pp: 5
@@ -534,6 +575,18 @@ var MOVES_RBY = {
         type: 'Normal',
         pp: 5
     },
+    'Mud Sport': {
+        bp: 0,
+        type: 'Ground',
+        pp: 25
+    },
+    'Nature Power': {
+        bp: 80,
+        type: 'Normal',
+        category: 'Special',
+        hasSecondaryEffect: true,
+        pp: 20
+    },
     'Night Shade': {
         bp: 0,
         type: 'Ghost',
@@ -567,11 +620,11 @@ var MOVES_RBY = {
         pp: 20
     },
     'Poison Fang': {
-        bp: 15,
+        bp: 60,
         type: 'Poison',
         category: 'Physical',
         hasSecondaryEffect: true,
-        pp: 35
+        pp: 30
     },
     'Poison Gas': {
         bp: 0,
@@ -905,6 +958,12 @@ var MOVES_RBY = {
         hasSecondaryEffect: true,
         pp: 10
     },
+    'Thunder Kick': {
+        bp: 80,
+        type: 'Electric',
+        category: 'Physical',
+        pp: 10
+    },
     'Thunderbolt': {
         bp: 85,
         type: 'Electric',
@@ -973,6 +1032,11 @@ var MOVES_RBY = {
         category: 'Special',
         pp: 25
     },
+    'Water Sport': {
+        bp: 0,
+        type: 'Water',
+        pp: 25
+    },
     'Waterfall': {
         bp: 100,
         type: 'Water',
@@ -986,6 +1050,11 @@ var MOVES_RBY = {
         category: 'Physical',
         makesContact: true,
         pp: 35
+    },
+    'Wish': {
+        bp: 0,
+        type: 'Psychic',
+        pp: 5
     },
     'Wrap': {
         bp: 35,
@@ -1016,7 +1085,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         type: 'Rock',
         category: 'Special',
         hasSecondaryEffect: true,
-        pp: 5
+        pp: 10
     },
     'Attract': {
         bp: 0,
@@ -1161,7 +1230,7 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         bp: 80,
         type: 'Psychic',
         category: 'Special',
-        pp: 10
+        pp: 15
     },
     'Giga Drain': {
         bp: 65,
@@ -1436,8 +1505,8 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 15
     },
     'Rock Smash': {
-        bp: 20,
-        type: 'Fighting',
+        bp: 65,
+        type: 'Ground',
         category: 'Physical',
         makesContact: true,
         hasSecondaryEffect: true,
@@ -1595,10 +1664,10 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
         pp: 10
     },
     'Whirlpool': {
-        bp: 15,
+        bp: 55,
         type: 'Water',
         category: 'Special',
-        pp: 15
+        pp: 20
     },
     'Zap Cannon': {
         bp: 100,
@@ -1612,11 +1681,11 @@ var MOVES_GSC = $.extend(true, {}, MOVES_RBY, {
 
 var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
     'Aerial Ace': {
-        bp: 60,
+        bp: 70,
         type: 'Flying',
         category: 'Physical',
         makesContact: true,
-        pp: 20
+        pp: 25
     },
     'Air Cutter': {
         bp: 55,
@@ -1636,7 +1705,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Astonish': {
-        bp: 30,
+        bp: 35,
         type: 'Ghost',
         category: 'Physical',
         makesContact: true,
@@ -1678,11 +1747,11 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 5
     },
     'Brick Break': {
-        bp: 75,
+        bp: 60,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
-        pp: 15
+        pp: 10
     },
     'Bulk Up': {
         bp: 0,
@@ -1690,7 +1759,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Bullet Seed': {
-        bp: 10,
+        bp: 15,
         type: 'Grass',
         category: 'Physical',
         isMultiHit: true,
@@ -1713,11 +1782,11 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Covet': {
-        bp: 40,
+        bp: 55,
         type: 'Normal',
         category: 'Physical',
         makesContact: true,
-        pp: 25
+        pp: 40
     },
     'Crush Claw': {
         bp: 75,
@@ -1771,7 +1840,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         type: 'Psychic',
         category: 'Special',
         hasSecondaryEffect: true,
-        pp: 20
+        pp: 30
     },
     'Facade': {
         bp: 70,
@@ -1878,7 +1947,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Icicle Spear': {
-        bp: 10,
+        bp: 15,
         type: 'Ice',
         category: 'Physical',
         isMultiHit: true,
@@ -1907,7 +1976,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Leaf Blade': {
-        bp: 70,
+        bp: 75,
         type: 'Grass',
         category: 'Physical',
         makesContact: true,
@@ -1928,7 +1997,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Magical Leaf': {
-        bp: 60,
+        bp: 65,
         type: 'Grass',
         category: 'Special',
         pp: 20
@@ -2010,7 +2079,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 15
     },
     'Poison Tail': {
-        bp: 50,
+        bp: 75,
         type: 'Poison',
         category: 'Physical',
         makesContact: true,
@@ -2040,7 +2109,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Revenge': {
-        bp: 120,
+        bp: 60,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
@@ -2063,13 +2132,13 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
     'Role Play': {
         bp: 0,
         type: 'Psychic',
-        pp: 15
+        pp: 10
     },
     'Sand Tomb': {
-        bp: 15,
+        bp: 40,
         type: 'Ground',
         category: 'Physical',
-        pp: 15
+        pp: 20
     },
     'Secret Power': {
         bp: 70,
@@ -2079,7 +2148,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 20
     },
     'Shadow Punch': {
-        bp: 60,
+        bp: 75,
         type: 'Ghost',
         category: 'Physical',
         makesContact: true,
@@ -2106,11 +2175,11 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 15
     },
     'Silver Wind': {
-        bp: 60,
+        bp: 65,
         type: 'Bug',
         category: 'Special',
         hasSecondaryEffect: true,
-        pp: 5
+        pp: 10
     },
     'Skill Swap': {
         bp: 0,
@@ -2128,7 +2197,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
     'Slack Off': {
         bp: 0,
         type: 'Normal',
-        pp: 10
+        pp: 5
     },
     'Smelling Salts': {
         bp: 60,
@@ -2143,14 +2212,14 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 10
     },
     'Spit Up': {
-        bp: 0,
+        bp: 100,
         type: 'Normal',
         pp: 10
     },
     'Stockpile': {
         bp: 0,
         type: 'Normal',
-        pp: 20
+        pp: 10
     },
     'Superpower': {
         bp: 120,
@@ -2196,7 +2265,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 10
     },
     'Uproar': {
-        bp: 50,
+        bp: 70,
         type: 'Normal',
         category: 'Special',
         pp: 10
@@ -2226,7 +2295,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 5
     },
     'Weather Ball': {
-        bp: 50,
+        bp: 75,
         type: 'Normal',
         category: 'Special',
         isBullet: true,
