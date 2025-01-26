@@ -2180,6 +2180,20 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 61.5
 	},
+	"Anhililape": {
+		"t1": "Fighting",
+		"t2": "Ghost",
+		"bs": {
+			"hp": 110,
+			"at": 115,
+			"df": 75,
+			"sa": 50,
+			"sd": 85,
+			"sp": 65,
+			"sl": 60
+		},
+		"w": 59.0
+	},
 	"Ariados": {
 		"t1": "Bug",
 		"t2": "Poison",
@@ -2192,6 +2206,34 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 40
 		},
 		"w": 33.5
+	},
+	"Articuno-G": {
+		"t1": "Psychic",
+		"t2": "Flying",
+		"bs": {
+			"hp": 85,
+			"at": 80,
+			"df": 85,
+			"sa": 115,
+			"sd": 95,
+			"sp": 95,
+			"sl": 60
+		},
+		"w": 59.0
+	},
+	"Articuno-Gnpc": {
+		"t1": "Psychic",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 85,
+			"df": 90,
+			"sa": 130,
+			"sd": 105,
+			"sp": 95,
+			"sl": 60
+		},
+		"w": 59.0
 	},
 	"Azumarill": {
 		"t1": "Water",
