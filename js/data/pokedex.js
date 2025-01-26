@@ -576,19 +576,6 @@ var POKEDEX_RBY = {
 		},
 		"w": 30.0
 	},
-	"Elekid": {
-		"t1": "Electric",
-		"bs": {
-			"hp": 50,
-			"at": 63,
-			"df": 42,
-			"sa": 70,
-			"sd": 55,
-			"sp": 95,
-			"sl": 85
-		},
-		"w": 23.5
-	},
 	"Electivire": {
 		"t1": "Electric",
 		"bs": {
