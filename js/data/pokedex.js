@@ -13,8 +13,36 @@ var POKEDEX_RBY = {
 		"w": 19.5,
 		"canEvolve": true
 	},
-};
-
+	"Bulbasaur": {
+		"t1": "Grass",
+		"t2": "Poison",
+		"bs": {
+			"hp": 25,
+			"at": 20,
+			"df": 15,
+			"sa": 105,
+			"sd": 55,
+			"sp": 90,
+			"sl": 105
+			},
+		"w": 19.5,
+		"canEvolve": true
+	};
+	"Alakazam": {
+		"t1": "Psychic",
+		"bs": {
+			"hp": 25,
+			"at": 20,
+			"df": 15,
+			"sa": 105,
+			"sd": 55,
+			"sp": 90,
+			"sl": 105
+			},
+		"w": 19.5,
+		"canEvolve": true
+	};
+});
 var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Aipom": {
 		"t1": "Normal",
