@@ -2134,7 +2134,7 @@ var POKEDEX_RBY = {
 		"w": 7.5,
 		"canEvolve": true
 	}
-});
+};
 
 var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Articuno": {"gender": "genderless"},
