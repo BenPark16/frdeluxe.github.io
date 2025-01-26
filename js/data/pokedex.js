@@ -363,7 +363,7 @@ var POKEDEX_RBY = {
 		"w": 0.8,
 		"canEvolve": true
 	},
-		"Diglett-A": {
+	"Diglett-A": {
 		"t1": "Ground",
 		"t2": "Steel",
 		"bs": {
