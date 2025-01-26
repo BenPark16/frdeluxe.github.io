@@ -393,7 +393,7 @@ var POKEDEX_RBY = {
 		"w": 4.0
 	},
 	"Dodrio": {
-		"t1": "Normal",
+		"t1": "Fighting",
 		"t2": "Flying",
 		"bs": {
 			"hp": 60,
@@ -424,11 +424,11 @@ var POKEDEX_RBY = {
 	"Dragonair": {
 		"t1": "Dragon",
 		"bs": {
-			"hp": 61,
-			"at": 84,
-			"df": 65,
-			"sa": 70,
-			"sd": 70,
+			"hp": 76,
+			"at": 94,
+			"df": 70,
+			"sa": 85,
+			"sd": 75,
 			"sp": 70,
 			"sl": 70
 		},
@@ -468,9 +468,9 @@ var POKEDEX_RBY = {
 		"t1": "Psychic",
 		"bs": {
 			"hp": 60,
-			"at": 48,
+			"at": 53,
 			"df": 45,
-			"sa": 43,
+			"sa": 68,
 			"sd": 90,
 			"sp": 42,
 			"sl": 90
@@ -481,15 +481,30 @@ var POKEDEX_RBY = {
 	"Dugtrio": {
 		"t1": "Ground",
 		"bs": {
-			"hp": 35,
-			"at": 80,
+			"hp": 55,
+			"at": 90,
+			"df": 69,
+			"sa": 50,
+			"sd": 80,
+			"sp": 110,
+			"sl": 70
+		},
+		"w": 33.3,
+		"ab": "Sand Force"
+	},
+	"Dugtrio-A": {
+		"t1": "Ground",
+		"t2": "Steel",
+		"bs": {
+			"hp": 40,
+			"at": 105,
 			"df": 50,
 			"sa": 50,
 			"sd": 70,
 			"sp": 120,
 			"sl": 70
 		},
-		"w": 33.3,
+		"w": 66.6,
 		"ab": "Sand Force"
 	},
 	"Eevee": {
@@ -506,18 +521,46 @@ var POKEDEX_RBY = {
 		"w": 6.5,
 		"canEvolve": true
 	},
+	"Leafeon": {
+		"t1": "Grass",
+		"bs": {
+			"hp": 65,
+			"at": 120,
+			"df": 130,
+			"sa": 80,
+			"sd": 65,
+			"sp": 95,
+			"sl": 65
+		},
+		"w": 25.5,
+		"canEvolve": true
+	},
+	"Glaceon": {
+		"t1": "Ice",
+		"bs": {
+			"hp": 80,
+			"at": 60,
+			"df": 110,
+			"sa": 130,
+			"sd": 95,
+			"sp": 80,
+			"sl": 65
+		},
+		"w": 25.9,
+		"canEvolve": true
+	},
 	"Ekans": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 35,
-			"at": 60,
+			"hp": 45,
+			"at": 65,
 			"df": 44,
-			"sa": 40,
+			"sa": 50,
 			"sd": 54,
-			"sp": 55,
+			"sp": 60,
 			"sl": 40
 		},
-		"w": 6.9,
+		"w": 6.9
 		"canEvolve": true
 	},
 	"Electabuzz": {
@@ -531,20 +574,60 @@ var POKEDEX_RBY = {
 			"sp": 105,
 			"sl": 85
 		},
-		"w": 30.0,
+		"w": 30.0
+	},
+	"Elekid": {
+		"t1": "Electric",
+		"bs": {
+			"hp": 50,
+			"at": 63,
+			"df": 42,
+			"sa": 70,
+			"sd": 55,
+			"sp": 95,
+			"sl": 85
+		},
+		"w": 23.5
+	},
+	"Electivire": {
+		"t1": "Electric",
+		"bs": {
+			"hp": 75,
+			"at": 123,
+			"df": 67,
+			"sa": 100,
+			"sd": 85,
+			"sp": 95,
+			"sl": 85
+		},
+		"w": 138.6
 	},
 	"Electrode": {
 		"t1": "Electric",
 		"bs": {
-			"hp": 60,
-			"at": 50,
+			"hp": 70,
+			"at": 70,
 			"df": 70,
-			"sa": 80,
+			"sa": 90,
 			"sd": 80,
 			"sp": 140,
 			"sl": 80
 		},
 		"w": 66.6
+	},
+	"Electrode-H": {
+		"t1": "Electric",
+		"t2": "Grass",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 90,
+			"sd": 80,
+			"sp": 140,
+			"sl": 80
+		},
+		"w": 71.0
 	},
 	"Exeggcute": {
 		"t1": "Grass",
@@ -552,7 +635,7 @@ var POKEDEX_RBY = {
 		"bs": {
 			"hp": 60,
 			"at": 40,
-			"df": 80,
+			"df": 75,
 			"sa": 60,
 			"sd": 45,
 			"sp": 40,
@@ -575,27 +658,81 @@ var POKEDEX_RBY = {
 		},
 		"w": 120.0
 	},
+	"Exeggutor-A": {
+		"t1": "Grass",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 95,
+			"at": 105,
+			"df": 95,
+			"sa": 125,
+			"sd": 80,
+			"sp": 45,
+			"sl": 125
+		},
+		"w": 415.6
+	},
+	"Exeggutor-A-npc": {
+		"t1": "Grass",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 100,
+			"at": 105,
+			"df": 95,
+			"sa": 125,
+			"sd": 85,
+			"sp": 45,
+			"sl": 125
+		},
+		"w": 415.6
+	},
 	"Farfetch'd": {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
-			"hp": 52,
-			"at": 65,
-			"df": 55,
+			"hp": 72,
+			"at": 60,
+			"df": 70,
 			"sa": 58,
-			"sd": 62,
-			"sp": 60,
+			"sd": 72,
+			"sp": 87,
 			"sl": 58
 		},
 		"w": 15.0
 	},
+	"FarfetchdG": {
+		"t1": "Fighting",
+		"bs": {
+			"hp": 52,
+			"at": 95,
+			"df": 55,
+			"sa": 58,
+			"sd": 62,
+			"sp": 55,
+			"sl": 58
+		},
+		"w": 42.0
+	},
+	"Sirfetch'd": {
+		"t1": "Fighting",
+		"bs": {
+			"hp": 62,
+			"at": 135,
+			"df": 95,
+			"sa": 68,
+			"sd": 82,
+			"sp": 65,
+			"sl": 58
+		},
+		"w": 117.0
+	},
 	"Fearow": {
-		"t1": "Normal",
+		"t1": "Ground",
 		"t2": "Flying",
 		"bs": {
 			"hp": 65,
 			"at": 90,
-			"df": 65,
+			"df": 75,
 			"sa": 61,
 			"sd": 61,
 			"sp": 100,
@@ -606,12 +743,12 @@ var POKEDEX_RBY = {
 	"Flareon": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 65,
-			"at": 130,
-			"df": 60,
+			"hp": 80,
+			"at": 120,
+			"df": 65,
 			"sa": 95,
 			"sd": 110,
-			"sp": 65,
+			"sp": 75,
 			"sl": 110
 		},
 		"w": 25.0
@@ -637,9 +774,9 @@ var POKEDEX_RBY = {
 		"t2": "Poison",
 		"bs": {
 			"hp": 60,
-			"at": 65,
+			"at": 70,
 			"df": 60,
-			"sa": 130,
+			"sa": 118,
 			"sd": 75,
 			"sp": 110,
 			"sl": 130
@@ -660,6 +797,21 @@ var POKEDEX_RBY = {
 			"sl": 30
 		},
 		"w": 20.0,
+		"canEvolve": true
+	},
+	"Geodude-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 40,
+			"at": 80,
+			"df": 100,
+			"sa": 50,
+			"sd": 30,
+			"sp": 20,
+			"sl": 30
+		},
+		"w": 20.3,
 		"canEvolve": true
 	},
 	"Gloom": {
@@ -693,13 +845,14 @@ var POKEDEX_RBY = {
 	},
 	"Goldeen": {
 		"t1": "Water",
+		"t2": "Ground",
 		"bs": {
-			"hp": 45,
+			"hp": 50,
 			"at": 67,
 			"df": 60,
-			"sa": 35,
+			"sa": 50,
 			"sd": 50,
-			"sp": 63,
+			"sp": 68,
 			"sl": 50
 		},
 		"w": 15.0,
@@ -709,11 +862,11 @@ var POKEDEX_RBY = {
 		"t1": "Water",
 		"bs": {
 			"hp": 80,
-			"at": 82,
-			"df": 78,
+			"at": 92,
+			"df": 83,
 			"sa": 95,
 			"sd": 80,
-			"sp": 85,
+			"sp": 90,
 			"sl": 80
 		},
 		"w": 76.6
@@ -728,6 +881,20 @@ var POKEDEX_RBY = {
 			"sa": 55,
 			"sd": 65,
 			"sp": 45,
+			"sl": 55
+		},
+		"w": 300.0
+	},
+	"Golem-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 80,
+			"at": 110,
+			"df": 130,
+			"sa": 90,
+			"sd": 95,
+			"sp": 65,
 			"sl": 55
 		},
 		"w": 300.0
@@ -747,6 +914,21 @@ var POKEDEX_RBY = {
 		"w": 105.0,
 		"canEvolve": true
 	},
+	"Graveler-A": {
+		"t1": "Rock",
+		"t2": "Electric",
+		"bs": {
+			"hp": 55,
+			"at": 95,
+			"df": 115,
+			"sa": 70,
+			"sd": 45,
+			"sp": 35,
+			"sl": 45
+		},
+		"w": 110.0,
+		"canEvolve": true
+	},
 	"Grimer": {
 		"t1": "Poison",
 		"bs": {
@@ -761,29 +943,59 @@ var POKEDEX_RBY = {
 		"w": 30.0,
 		"canEvolve": true
 	},
+	"Grimer-A": {
+		"t1": "Poison",
+		"t2": "Dark",
+		"bs": {
+			"hp": 80,
+			"at": 80,
+			"df": 50,
+			"sa": 40,
+			"sd": 50,
+			"sp": 25,
+			"sl": 40
+		},
+		"w": 42.0,
+		"canEvolve": true
+	},
 	"Growlithe": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 55,
+			"hp": 60,
 			"at": 70,
 			"df": 45,
-			"sa": 70,
+			"sa": 65,
 			"sd": 50,
-			"sp": 60,
+			"sp": 55,
 			"sl": 50
 		},
 		"w": 19.0,
+		"canEvolve": true
+	},
+	"Growlithe-H": {
+		"t1": "Fire",
+		"t2": "Rock",
+		"bs": {
+			"hp": 60,
+			"at": 75,
+			"df": 45,
+			"sa": 65,
+			"sd": 50,
+			"sp": 55,
+			"sl": 50
+		},
+		"w": 22.7,
 		"canEvolve": true
 	},
 	"Gyarados": {
 		"t1": "Water",
 		"t2": "Flying",
 		"bs": {
-			"hp": 95,
-			"at": 125,
+			"hp": 90,
+			"at": 120,
 			"df": 79,
-			"sa": 60,
-			"sd": 100,
+			"sa": 65,
+			"sd": 95,
 			"sp": 81,
 			"sl": 100
 		},
@@ -807,11 +1019,12 @@ var POKEDEX_RBY = {
 	},
 	"Hitmonchan": {
 		"t1": "Fighting",
+		"t2": "Rock",
 		"bs": {
-			"hp": 50,
+			"hp": 65,
 			"at": 105,
-			"df": 79,
-			"sa": 35,
+			"df": 94,
+			"sa": 75,
 			"sd": 110,
 			"sp": 76,
 			"sl": 35
@@ -820,13 +1033,14 @@ var POKEDEX_RBY = {
 	},
 	"Hitmonlee": {
 		"t1": "Fighting",
+		"t2": "Dark",
 		"bs": {
 			"hp": 50,
 			"at": 120,
 			"df": 53,
-			"sa": 35,
+			"sa": 95,
 			"sd": 110,
-			"sp": 87,
+			"sp": 92,
 			"sl": 35
 		},
 		"w": 49.8
@@ -847,11 +1061,12 @@ var POKEDEX_RBY = {
 	},
 	"Hypno": {
 		"t1": "Psychic",
+		"t2": "Dark",
 		"bs": {
 			"hp": 85,
-			"at": 73,
-			"df": 70,
-			"sa": 73,
+			"at": 78,
+			"df": 85,
+			"sa": 93,
 			"sd": 115,
 			"sp": 67,
 			"sl": 115
@@ -877,11 +1092,11 @@ var POKEDEX_RBY = {
 		"t1": "Normal",
 		"bs": {
 			"hp": 115,
-			"at": 45,
-			"df": 20,
-			"sa": 45,
-			"sd": 25,
-			"sp": 20,
+			"at": 60,
+			"df": 30,
+			"sa": 65,
+			"sd": 35,
+			"sp": 50,
 			"sl": 25
 		},
 		"w": 5.5,
@@ -891,7 +1106,7 @@ var POKEDEX_RBY = {
 		"t1": "Electric",
 		"bs": {
 			"hp": 65,
-			"at": 65,
+			"at": 85,
 			"df": 60,
 			"sa": 110,
 			"sd": 95,
@@ -918,12 +1133,12 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 30,
+			"hp": 35,
 			"at": 80,
 			"df": 90,
-			"sa": 55,
+			"sa": 65,
 			"sd": 45,
-			"sp": 55,
+			"sp": 75,
 			"sl": 45
 		},
 		"w": 11.5,
@@ -933,12 +1148,12 @@ var POKEDEX_RBY = {
 		"t1": "Rock",
 		"t2": "Water",
 		"bs": {
-			"hp": 60,
+			"hp": 65,
 			"at": 115,
-			"df": 105,
-			"sa": 65,
+			"df": 100,
+			"sa": 85,
 			"sd": 70,
-			"sp": 80,
+			"sp": 105,
 			"sl": 70
 		},
 		"w": 40.5
@@ -987,14 +1202,15 @@ var POKEDEX_RBY = {
 		"w": 80.0
 	},
 	"Kingler": {
-		"t1": "Water",
+		"t1": "Normal",
+		"t2": "Water",
 		"bs": {
-			"hp": 55,
+			"hp": 75,
 			"at": 130,
-			"df": 115,
-			"sa": 50,
-			"sd": 50,
-			"sp": 75,
+			"df": 120,
+			"sa": 70,
+			"sd": 65,
+			"sp": 82,
 			"sl": 50
 		},
 		"w": 60.0
@@ -1002,10 +1218,10 @@ var POKEDEX_RBY = {
 	"Koffing": {
 		"t1": "Poison",
 		"bs": {
-			"hp": 40,
-			"at": 65,
+			"hp": 50,
+			"at": 70,
 			"df": 95,
-			"sa": 60,
+			"sa": 75,
 			"sd": 45,
 			"sp": 35,
 			"sl": 60
@@ -1015,13 +1231,14 @@ var POKEDEX_RBY = {
 		"canEvolve": true
 	},
 	"Krabby": {
-		"t1": "Water",
+		"t1": "Normal",
+		"t2": "Water",
 		"bs": {
-			"hp": 30,
+			"hp": 40,
 			"at": 105,
 			"df": 90,
-			"sa": 25,
-			"sd": 25,
+			"sa": 55,
+			"sd": 45,
 			"sp": 50,
 			"sl": 25
 		},
