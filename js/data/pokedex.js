@@ -3702,7 +3702,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 118.0,
 		"ab": "Technician"
 	},
-	"Screamtail: {
+	"Screamtail": {
 		"t1": "Normal",
 		"t2": "Psychic",
 		"bs": {
