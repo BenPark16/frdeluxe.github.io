@@ -2791,13 +2791,14 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 54.0
 	},
 	"Hitmontop": {
-		"t1": "Fighting",
+		"t1": "Fire",
+		"t2": "Fighting",
 		"bs": {
-			"hp": 50,
-			"at": 95,
-			"df": 95,
-			"sa": 35,
-			"sd": 110,
+			"hp": 65,
+			"at": 100,
+			"df": 100,
+			"sa": 90,
+			"sd": 100,
 			"sp": 70
 		},
 		"w": 48.0
@@ -2910,6 +2911,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 152.0
 	},
+	"Kleavor": {
+		"t1": "Bug",
+		"t2": "Rock",
+		"bs": {
+			"hp": 70,
+			"at": 135,
+			"df": 95,
+			"sa": 45,
+			"sd": 70,
+			"sp": 85
+		},
+		"w": 152.0
+	},
 	"Lanturn": {
 		"t1": "Water",
 		"t2": "Electric",
@@ -2936,6 +2950,18 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 72.0,
 		"canEvolve": true
+	},
+	"Leafeon": {
+		"t1": "Grass",
+		"bs": {
+			"hp": 65,
+			"at": 120,
+			"df": 130,
+			"sa": 80,
+			"sd": 65,
+			"sp": 95
+		},
+		"w": 152.0
 	},
 	"Ledian": {
 		"t1": "Bug",
@@ -2964,6 +2990,18 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 10.8,
 		"canEvolve": true
 	},
+	"Lickilicky": {
+		"t1": "Normal",
+		"bs": {
+			"hp": 110,
+			"at": 90,
+			"df": 95,
+			"sa": 85,
+			"sd": 95,
+			"sp": 50
+		},
+		"w": 152.0
+	},
 	"Lugia": {
 		"t1": "Psychic",
 		"t2": "Flying",
@@ -2981,11 +3019,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Magby": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 45,
+			"hp": 50,
 			"at": 75,
 			"df": 37,
 			"sa": 70,
-			"sd": 55,
+			"sd": 60,
 			"sp": 83
 		},
 		"w": 21.4,
@@ -3003,6 +3041,31 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 30
 		},
 		"w": 55.0
+	},
+	"Magmortar": {
+		"t1": "Fire",
+		"bs": {
+			"hp": 75,
+			"at": 95,
+			"df": 67,
+			"sa": 125,
+			"sd": 95,
+			"sp": 85
+		},
+		"w": 152.0
+	},
+	"Magnezone": {
+		"t1": "Electric",
+		"t2": "Steel",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 115,
+			"sa": 130,
+			"sd": 90,
+			"sp": 60
+		},
+		"w": 152.0
 	},
 	"Mantine": {
 		"t1": "Water",
@@ -3043,6 +3106,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 8.5,
 		"canEvolve": true
 	},
+	"Marowak-A": {
+		"t1": "Fire",
+		"t2": "Ghost",
+		"bs": {
+			"hp": 65,
+			"at": 105,
+			"df": 110,
+			"sa": 105,
+			"sd": 80,
+			"sp": 45
+		},
+		"w": 152.0
+	},
 	"Meganium": {
 		"t1": "Grass",
 		"bs": {
@@ -3056,6 +3132,55 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 100.5,
 		"ab": "Overgrow"
 	},
+	"Melmetal": {
+		"t1": "Steel",
+		"bs": {
+			"hp": 105,
+			"at": 123,
+			"df": 113,
+			"sa": 80,
+			"sd": 65,
+			"sp": 34
+		},
+		"w": 152.0
+	},
+	"Meltan": {
+		"t1": "Steel",
+		"bs": {
+			"hp": 46,
+			"at": 65,
+			"df": 65,
+			"sa": 55,
+			"sd": 35,
+			"sp": 34
+		},
+		"w": 152.0
+	},
+	"Meowth-A": {
+		"t1": "Steel",
+		"bs": {
+			"hp": 40,
+			"at": 40,
+			"df": 35,
+			"sa": 50,
+			"sd": 40,
+			"sp": 90
+		},
+		"w": 152.0
+	},
+	"Meowth-G": {
+		"t1": "Water",
+		"t2": "Dragon",
+		"bs": {
+			"hp": 40,
+			"at": 60,
+			"df": 50,
+			"sa": 40,
+			"sd": 40,
+			"sp": 40
+		},
+		"w": 152.0
+	},
 	"Miltank": {
 		"t1": "Normal",
 		"bs": {
@@ -3067,6 +3192,18 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 100
 		},
 		"w": 75.5
+	},
+	"Mime Jr.": {
+		"t1": "Psychic",
+		"bs": {
+			"hp": 35,
+			"at": 25,
+			"df": 50,
+			"sa": 75,
+			"sd": 90,
+			"sp": 65
+		},
+		"w": 152.0
 	},
 	"Misdreavus": {
 		"t1": "Ghost",
@@ -3080,6 +3217,96 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 1.0,
 		"ab": "Levitate"
+	},
+	"Moltres-G": {
+		"t1": "Dark",
+		"t2": "Flying",
+		"bs": {
+			"hp": 90,
+			"at": 80,
+			"df": 90,
+			"sa": 90,
+			"sd": 115,
+			"sp": 90
+		},
+		"w": 152.0
+	},
+	"Moltres-Gnpc": {
+		"t1": "Dark",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 85,
+			"df": 90,
+			"sa": 105,
+			"sd": 130,
+			"sp": 90
+		},
+		"w": 152.0
+	},
+	"Moltres-Knpc": {
+		"t1": "Fire",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 100,
+			"df": 95,
+			"sa": 130,
+			"sd": 90,
+			"sp": 90
+		},
+		"w": 152.0
+	},
+	"Mr. Mime-G": {
+		"t1": "Ice",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 50,
+			"at": 60,
+			"df": 65,
+			"sa": 90,
+			"sd": 90,
+			"sp": 100
+		},
+		"w": 152.0
+	},
+	"Mr. Rime": {
+		"t1": "Ice",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 120,
+			"at": 80,
+			"df": 80,
+			"sa": 110,
+			"sd": 100,
+			"sp": 85
+		},
+		"w": 152.0
+	},
+	"Muk-A": {
+		"t1": "Poison",
+		"t2": "Dark",
+		"bs": {
+			"hp": 105,
+			"at": 105,
+			"df": 75,
+			"sa": 65,
+			"sd": 100,
+			"sp": 50
+		},
+		"w": 152.0
+	},
+	"Munchlax": {
+		"t1": "Normal",
+		"bs": {
+			"hp": 135,
+			"at": 85,
+			"df": 40,
+			"sa": 40,
+			"sd": 85,
+			"sp": 5
+		},
+		"w": 152.0
 	},
 	"Murkrow": {
 		"t1": "Dark",
@@ -3108,6 +3335,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 2.0,
 		"canEvolve": true
 	},
+	"Ninetales-A": {
+		"t1": "Ice",
+		"t2": "Fire",
+		"bs": {
+			"hp": 73,
+			"at": 67,
+			"df": 75,
+			"sa": 82,
+			"sd": 100,
+			"sp": 109
+		},
+		"w": 152.0
+	},
 	"Noctowl": {
 		"t1": "Normal",
 		"t2": "Flying",
@@ -3132,6 +3372,30 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 45
 		},
 		"w": 28.5
+	},
+	"Perrserker": {
+		"t1": "Steel",
+		"bs": {
+			"hp": 70,
+			"at": 110,
+			"df": 100,
+			"sa": 50,
+			"sd": 60,
+			"sp": 50
+		},
+		"w": 152.0
+	},
+	"Persian-A": {
+		"t1": "Dark",
+		"bs": {
+			"hp": 65,
+			"at": 65,
+			"df": 110,
+			"sa": 85,
+			"sd": 65,
+			"sp": 115
+		},
+		"w": 152.0
 	},
 	"Phanpy": {
 		"t1": "Ground",
@@ -3188,18 +3452,43 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Politoed": {
 		"t1": "Water",
 		"bs": {
-			"hp": 90,
+			"hp": 95,
 			"at": 75,
-			"df": 75,
-			"sa": 90,
+			"df": 85,
+			"sa": 100,
 			"sd": 100,
 			"sp": 70
 		},
 		"w": 33.9
 	},
+	"Ponyta-G": {
+		"t1": "Fire",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 50,
+			"at": 75,
+			"df": 55,
+			"sa": 75,
+			"sd": 65,
+			"sp": 90
+		},
+		"w": 152.0
+	},
 	"Porygon": {
 		"canEvolve": true,
 		"gender": "genderless"
+	},
+	"Porygon-Z": {
+		"t1": "Normal",
+		"bs": {
+			"hp": 85,
+			"at": 85,
+			"df": 70,
+			"sa": 135,
+			"sd": 75,
+			"sp": 90
+		},
+		"w": 152.0
 	},
 	"Porygon2": {
 		"t1": "Normal",
@@ -3267,6 +3556,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 85
 		},
 		"w": 3.9
+	},
+	"Raichu-A": {
+		"t1": "Electric",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 60,
+			"at": 85,
+			"df": 50,
+			"sa": 90,
+			"sd": 85,
+			"sp": 100
+		},
+		"w": 152.0
 	},
 	"Raikou": {
 		"t1": "Electric",
