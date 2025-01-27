@@ -3584,6 +3584,45 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"ab": "Pressure",
 		"gender": "genderless"
 	},
+	"Rapidash-G": {
+		"t1": "Fire",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 65,
+			"at": 90,
+			"df": 70,
+			"sa": 90,
+			"sd": 80,
+			"sp": 110
+		},
+		"w": 118.0
+	},
+	"Raticate-A": {
+		"t1": "Normal",
+		"t2": "Dark",
+		"bs": {
+			"hp": 55,
+			"at": 91,
+			"df": 60,
+			"sa": 90,
+			"sd": 70,
+			"sp": 97
+		},
+		"w": 118.0
+	},
+	"Rattata-A": {
+		"t1": "Normal",
+		"t2": "Dark",
+		"bs": {
+			"hp": 30,
+			"at": 66,
+			"df": 35,
+			"sa": 50,
+			"sd": 35,
+			"sp": 72
+		},
+		"w": 118.0
+	},
 	"Remoraid": {
 		"t1": "Water",
 		"bs": {
@@ -3596,6 +3635,58 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 12.0,
 		"canEvolve": true
+	},
+	"Rhyperior": {
+		"t1": "Ground",
+		"t2": "Rock",
+		"bs": {
+			"hp": 115,
+			"at": 140,
+			"df": 130,
+			"sa": 55,
+			"sd": 55,
+			"sp": 40
+		},
+		"w": 118.0
+	},
+	"S. Shocks": {
+		"t1": "Electric",
+		"t2": "Ground",
+		"bs": {
+			"hp": 85,
+			"at": 91,
+			"df": 97,
+			"sa": 85,
+			"sd": 101,
+			"sp": 121
+		},
+		"w": 118.0
+	},
+	"Sandshrew-A": {
+		"t1": "Ice",
+		"t2": "Steel",
+		"bs": {
+			"hp": 50,
+			"at": 75,
+			"df": 90,
+			"sa": 60,
+			"sd": 35,
+			"sp": 40
+		},
+		"w": 118.0
+	},
+	"Sandslash-A": {
+		"t1": "Ice",
+		"t2": "Steel",
+		"bs": {
+			"hp": 75,
+			"at": 100,
+			"df": 120,
+			"sa": 90,
+			"sd": 85,
+			"sp": 60
+		},
+		"w": 118.0
 	},
 	"Scizor": {
 		"t1": "Bug",
@@ -3610,6 +3701,19 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 118.0,
 		"ab": "Technician"
+	},
+	"Screamtail: {
+		"t1": "Normal",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 105,
+			"at": 80,
+			"df": 94,
+			"sa": 85,
+			"sd": 105,
+			"sp": 111
+		},
+		"w": 118.0
 	},
 	"Sentret": {
 		"t1": "Normal",
