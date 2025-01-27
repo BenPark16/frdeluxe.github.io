@@ -3741,6 +3741,17 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 20.5
 	},
+	"Sirfetch'd": {
+		"t1": "Fighting",
+		"bs": {
+			"hp": 62,
+			"at": 135,
+			"df": 95,
+			"sa": 68,
+			"sd": 82,
+			"sp": 65
+		},
+		"w": 20.5
 	"Skarmory": {
 		"t1": "Steel",
 		"t2": "Flying",
@@ -3768,6 +3779,18 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 1.0,
 		"canEvolve": true
 	},
+	"Slowbro-G": {
+		"t1": "Poison",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 95,
+			"at": 110,
+			"df": 95,
+			"sa": 100,
+			"sd": 70,
+			"sp": 30
+		},
+		"w": 20.5
 	"Slowking": {
 		"t1": "Water",
 		"t2": "Psychic",
@@ -3778,6 +3801,31 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sa": 100,
 			"sd": 110,
 			"sp": 30
+		},
+		"w": 79.5
+	},
+	"Slowking-G": {
+		"t1": "Poison",
+		"t2": "Psychic",
+		"bs": {
+			"hp": 95,
+			"at": 75,
+			"df": 80,
+			"sa": 105,
+			"sd": 110,
+			"sp": 30
+		},
+		"w": 79.5
+	},
+	"Slowpoke-G": {
+		"t1": "Psychic",
+		"bs": {
+			"hp": 90,
+			"at": 65,
+			"df": 65,
+			"sa": 70,
+			"sd": 50,
+			"sp": 15
 		},
 		"w": 79.5
 	},
@@ -3810,12 +3858,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Ice",
 		"t2": "Psychic",
 		"bs": {
-			"hp": 45,
-			"at": 30,
-			"df": 15,
+			"hp": 55,
+			"at": 55,
+			"df": 35,
 			"sa": 85,
 			"sd": 65,
-			"sp": 65
+			"sp": 80
 		},
 		"w": 6.0,
 		"canEvolve": true
@@ -3952,6 +4000,56 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 6.5,
 		"canEvolve": true
 	},
+	"Tangrowth": {
+		"t1": "Grass",
+		"bs": {
+			"hp": 100,
+			"at": 100,
+			"df": 125,
+			"sa": 110,
+			"sd": 50,
+			"sp": 50
+		},
+		"w": 79.5
+	},
+	"Tauros-P": {
+		"t1": "Fighting",
+		"bs": {
+			"hp": 75,
+			"at": 110,
+			"df": 95,
+			"sa": 30,
+			"sd": 70,
+			"sp": 100
+		},
+		"w": 79.5
+	},
+	"Tauros-P-A": {
+		"t1": "Fighting",
+		"t2": "Water",
+		"bs": {
+			"hp": 70,
+			"at": 100,
+			"df": 70,
+			"sa": 90,
+			"sd": 65,
+			"sp": 105
+		},
+		"w": 79.5
+	},
+	"Tauros-P-B": {
+		"t1": "Fighting",
+		"t2": "Fire",
+		"bs": {
+			"hp": 70,
+			"at": 100,
+			"df": 70,
+			"sa": 90,
+			"sd": 65,
+			"sp": 105
+		},
+		"w": 79.5
+	},
 	"Teddiursa": {
 		"t1": "Normal",
 		"bs": {
@@ -3964,6 +4062,32 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		},
 		"w": 8.8,
 		"canEvolve": true
+	},
+	"Toedscool": {
+		"t1": "Ground",
+		"t2": "Grass",
+		"bs": {
+			"hp": 40,
+			"at": 55,
+			"df": 35,
+			"sa": 65,
+			"sd": 100,
+			"sp": 70
+		},
+		"w": 79.5
+	},
+	"Toedscruel": {
+		"t1": "Ground",
+		"t2": "Grass",
+		"bs": {
+			"hp": 480,
+			"at": 85,
+			"df": 65,
+			"sa": 95,
+			"sd": 120,
+			"sp": 100
+		},
+		"w": 79.5
 	},
 	"Togepi": {
 		"t1": "Normal",
@@ -4034,12 +4158,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Tyrogue": {
 		"t1": "Fighting",
 		"bs": {
-			"hp": 35,
-			"at": 35,
-			"df": 35,
-			"sa": 35,
-			"sd": 35,
-			"sp": 35
+			"hp": 45,
+			"at": 45,
+			"df": 45,
+			"sa": 45,
+			"sd": 45,
+			"sp": 45
 		},
 		"w": 21.0,
 		"canEvolve": true
@@ -4083,6 +4207,57 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 125.8,
 		"ab": "Guts"
 	},
+	"Voltorb-H": {
+		"t1": "Electric",
+		"t2": "Grass",
+		"bs": {
+			"hp": 40,
+			"at": 45,
+			"df": 50,
+			"sa": 65,
+			"sd": 55,
+			"sp": 100
+		},
+		"w": 79.5
+	},
+	"Vulpix-A": {
+		"t1": "Ice",
+		"t2": "Fire",
+		"bs": {
+			"hp": 38,
+			"at": 41,
+			"df": 40,
+			"sa": 50,
+			"sd": 65,
+			"sp": 65
+		},
+		"w": 79.5
+	},
+	"Weezing-G": {
+		"t1": "Electric",
+		"t2": "Poison",
+		"bs": {
+			"hp": 65,
+			"at": 90,
+			"df": 120,
+			"sa": 85,
+			"sd": 70,
+			"sp": 60
+		},
+		"w": 79.5
+	},
+	"Wiglett": {
+		"t1": "Water",
+		"bs": {
+			"hp": 25,
+			"at": 40,
+			"df": 30,
+			"sa": 60,
+			"sd": 25,
+			"sp": 95
+		},
+		"w": 79.5
+	},
 	"Wobbuffet": {
 		"t1": "Psychic",
 		"bs": {
@@ -4109,6 +4284,18 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"w": 8.5,
 		"canEvolve": true
 	},
+	"Wugtrio": {
+		"t1": "Water",
+		"bs": {
+			"hp": 50,
+			"at": 100,
+			"df": 50,
+			"sa": 90,
+			"sd": 70,
+			"sp": 120
+		},
+		"w": 79.5
+	},
 	"Xatu": {
 		"t1": "Psychic",
 		"t2": "Flying",
@@ -4134,6 +4321,32 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 95
 		},
 		"w": 38.0
+	},
+	"Zapdos-G": {
+		"t1": "Fighting",
+		"t2": "Flying",
+		"bs": {
+			"hp": 80,
+			"at": 120,
+			"df": 90,
+			"sa": 75,
+			"sd": 90,
+			"sp": 95
+		},
+		"w": 79.5
+	},
+	"Zapdos-Gnpc": {
+		"t1": "Fighting",
+		"t2": "Flying",
+		"bs": {
+			"hp": 95,
+			"at": 130,
+			"df": 95,
+			"sa": 85,
+			"sd": 95,
+			"sp": 100
+		},
+		"w": 79.5
 	},
 });
 
