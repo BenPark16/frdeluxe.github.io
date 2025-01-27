@@ -1990,7 +1990,7 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
         pp: 5
     },
     'Low Kick': {
-        bp: 1,
+        bp: 40,
         type: 'Fighting',
         category: 'Physical',
         makesContact: true,
