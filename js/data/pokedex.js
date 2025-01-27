@@ -3429,8 +3429,8 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"bs": {
 			"hp": 100,
 			"at": 100,
-			"df": 80,
-			"sa": 60,
+			"df": 120,
+			"sa": 110,
 			"sd": 60,
 			"sp": 50
 		},
@@ -3752,6 +3752,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 65
 		},
 		"w": 20.5
+	},
 	"Skarmory": {
 		"t1": "Steel",
 		"t2": "Flying",
@@ -3791,6 +3792,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 30
 		},
 		"w": 20.5
+	},
 	"Slowking": {
 		"t1": "Water",
 		"t2": "Psychic",
@@ -3992,9 +3994,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"bs": {
 			"hp": 50,
 			"at": 50,
-			"df": 40,
-			"sa": 30,
-			"sd": 30,
+			"df": 50,
+			"sa": 50,
+			"sd": 50,
 			"sp": 50
 		},
 		"w": 6.5,
