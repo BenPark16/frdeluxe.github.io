@@ -926,7 +926,7 @@ $(".notation").change(function () {
 });
 
 function clearField() {
-	$("#doubles-format").prop("checked", true);
+	$("#doubles-format").prop("checked", false);
 	$("#clear").prop("checked", true);
 	$("#gscClear").prop("checked", true);
 	$("#gravity").prop("checked", false);
