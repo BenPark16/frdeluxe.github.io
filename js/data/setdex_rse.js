@@ -9,6 +9,7 @@ var SETDEX_ADV = {
                 "sd": 5,
                 "sp": 5
             },
+            "ability": "Natural Cure",
             "item": "Bright Powder",
             "level": 65,
             "moves": [
@@ -17,7 +18,7 @@ var SETDEX_ADV = {
                 "Future Sight",
                 "Quick Attack"
             ],
-            "nature": "Adamant"
+            "nature": "Hardy"
         },
         "Absol-2 [353]": {
             "evs": {
