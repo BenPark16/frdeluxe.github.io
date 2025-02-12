@@ -11,7 +11,7 @@ var SETDEX_ADV = {
             },
             "ability": "Natural Cure",
             "item": "Bright Powder",
-            "level": "65",
+            "level": 65,
             "moves": [
                 "Bite",
                 "Razor Wind",
