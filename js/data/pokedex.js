@@ -2158,22 +2158,24 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Aipom": {
 		"t1": "Normal",
+		"t2": "Fighting",
 		"bs": {
-			"hp": 55,
-			"at": 70,
-			"df": 55,
-			"sa": 40,
-			"sd": 55,
-			"sp": 85
+			"hp": 75,
+			"at": 100,
+			"df": 66,
+			"sa": 60,
+			"sd": 66,
+			"sp": 115
 		},
 		"w": 11.5
 	},
 	"Ampharos": {
 		"t1": "Electric",
+		"t2": "Normal",
 		"bs": {
 			"hp": 90,
-			"at": 75,
-			"df": 75,
+			"at": 100,
+			"df": 85,
 			"sa": 115,
 			"sd": 90,
 			"sp": 55
@@ -2199,11 +2201,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Poison",
 		"bs": {
 			"hp": 70,
-			"at": 90,
+			"at": 115,
 			"df": 70,
-			"sa": 60,
-			"sd": 60,
-			"sp": 40
+			"sa": 70,
+			"sd": 70,
+			"sp": 115
 		},
 		"w": 33.5
 	},
@@ -2251,11 +2253,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Azumarill": {
 		"t1": "Water",
+		"t2": "Normal",
 		"bs": {
 			"hp": 100,
 			"at": 50,
 			"df": 80,
-			"sa": 50,
+			"sa": 100,
 			"sd": 80,
 			"sp": 50
 		},
@@ -2276,13 +2279,14 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Bellossom": {
 		"t1": "Grass",
+		"t2": "Fire",
 		"bs": {
 			"hp": 75,
 			"at": 80,
 			"df": 85,
-			"sa": 90,
+			"sa": 95,
 			"sd": 100,
-			"sp": 50
+			"sp": 65
 		},
 		"w": 5.8
 	},
@@ -2357,11 +2361,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"t2": "Rock",
 		"bs": {
-			"hp": 55,
-			"at": 55,
-			"df": 85,
+			"hp": 65,
+			"at": 65,
+			"df": 150,
 			"sa": 65,
-			"sd": 85,
+			"sd": 150,
 			"sp": 35
 		},
 		"w": 5.0
@@ -2383,9 +2387,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"bs": {
 			"hp": 65,
-			"at": 80,
+			"at": 60,
 			"df": 80,
-			"sa": 59,
+			"sa": 80,
 			"sd": 63,
 			"sp": 58
 		},
@@ -2409,12 +2413,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Ice",
 		"t2": "Flying",
 		"bs": {
-			"hp": 45,
-			"at": 55,
-			"df": 45,
-			"sa": 65,
-			"sd": 45,
-			"sp": 75
+			"hp": 55,
+			"at": 115,
+			"df": 55,
+			"sa": 115,
+			"sd": 55,
+			"sp": 95
 		},
 		"w": 16.0
 	},
@@ -2439,7 +2443,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"at": 120,
 			"df": 120,
 			"sa": 60,
-			"sd": 60,
+			"sd": 50,
 			"sp": 50
 		},
 		"w": 120.0
@@ -2461,12 +2465,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Dunsparce": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 100,
-			"at": 70,
-			"df": 70,
-			"sa": 65,
-			"sd": 65,
-			"sp": 45
+			"hp": 125,
+			"at": 100,
+			"df": 80,
+			"sa": 85,
+			"sd": 75,
+			"sp": 55
 		},
 		"w": 14.0
 	},
@@ -2522,7 +2526,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 100
 		},
 		"w": 198.0,
-		"ab": "Pressure",
+		"ab": "Inner Focus",
 		"gender": "genderless"
 	},
 	"Espeon": {
@@ -2580,12 +2584,13 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Feraligatr": {
 		"t1": "Water",
+		"t2": "Dark",
 		"bs": {
 			"hp": 85,
-			"at": 105,
+			"at": 90,
 			"df": 100,
-			"sa": 79,
-			"sd": 83,
+			"sa": 105,
+			"sd": 75,
 			"sp": 78
 		},
 		"w": 88.8,
@@ -2593,9 +2598,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Flaaffy": {
 		"t1": "Electric",
+		"t2": "Normal",
 		"bs": {
 			"hp": 70,
-			"at": 55,
+			"at": 80,
 			"df": 55,
 			"sa": 80,
 			"sd": 60,
@@ -2609,10 +2615,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Steel",
 		"bs": {
 			"hp": 75,
-			"at": 90,
+			"at": 110,
 			"df": 140,
 			"sa": 60,
-			"sd": 60,
+			"sd": 90,
 			"sp": 40
 		},
 		"w": 125.8
@@ -2621,11 +2627,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 85,
-			"at": 76,
+			"at": 90,
 			"df": 64,
 			"sa": 45,
 			"sd": 55,
-			"sp": 90
+			"sp": 100
 		},
 		"w": 32.5
 	},
@@ -2647,12 +2653,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"t2": "Psychic",
 		"bs": {
-			"hp": 70,
-			"at": 80,
+			"hp": 120,
+			"at": 90,
 			"df": 65,
 			"sa": 90,
 			"sd": 65,
-			"sp": 85
+			"sp": 90
 		},
 		"w": 41.5
 	},
@@ -2673,12 +2679,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Ground",
 		"t2": "Flying",
 		"bs": {
-			"hp": 65,
-			"at": 75,
-			"df": 105,
-			"sa": 35,
-			"sd": 65,
-			"sp": 85
+			"hp": 75,
+			"at": 95,
+			"df": 125,
+			"sa": 45,
+			"sd": 75,
+			"sp": 95
 		},
 		"w": 64.8
 	},
@@ -2699,10 +2705,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Granbull": {
 		"t1": "Normal",
 		"bs": {
-			"hp": 90,
-			"at": 120,
+			"hp": 100,
+			"at": 130,
 			"df": 75,
-			"sa": 60,
+			"sa": 90,
 			"sd": 60,
 			"sp": 45
 		},
@@ -2807,12 +2813,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Fire",
 		"t2": "Flying",
 		"bs": {
-			"hp": 106,
-			"at": 130,
-			"df": 90,
-			"sa": 110,
-			"sd": 154,
-			"sp": 90
+			"hp": 96,
+			"at": 115,
+			"df": 85,
+			"sa": 105,
+			"sd": 129,
+			"sp": 85
 		},
 		"w": 199.0,
 		"gender": "genderless"
@@ -2822,9 +2828,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Flying",
 		"bs": {
 			"hp": 60,
-			"at": 30,
+			"at": 50,
 			"df": 30,
-			"sa": 36,
+			"sa": 50,
 			"sd": 56,
 			"sp": 50
 		},
@@ -2837,9 +2843,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"bs": {
 			"hp": 35,
 			"at": 35,
-			"df": 40,
+			"df": 70,
 			"sa": 35,
-			"sd": 55,
+			"sd": 85,
 			"sp": 50
 		},
 		"w": 0.5,
@@ -2889,12 +2895,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Grass",
 		"t2": "Flying",
 		"bs": {
-			"hp": 75,
+			"hp": 60,
 			"at": 55,
-			"df": 70,
+			"df": 125,
 			"sa": 55,
-			"sd": 85,
-			"sp": 110
+			"sd": 130,
+			"sp": 100
 		},
 		"w": 3.0
 	},
@@ -2931,7 +2937,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"hp": 125,
 			"at": 58,
 			"df": 58,
-			"sa": 76,
+			"sa": 100,
 			"sd": 76,
 			"sp": 67
 		},
@@ -2967,12 +2973,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Bug",
 		"t2": "Flying",
 		"bs": {
-			"hp": 55,
-			"at": 35,
-			"df": 50,
-			"sa": 55,
-			"sd": 110,
-			"sp": 85
+			"hp": 70,
+			"at": 115,
+			"df": 70,
+			"sa": 70,
+			"sd": 115,
+			"sp": 100
 		},
 		"w": 35.6
 	},
@@ -2980,12 +2986,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Bug",
 		"t2": "Flying",
 		"bs": {
-			"hp": 40,
-			"at": 20,
-			"df": 30,
-			"sa": 40,
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 70,
 			"sd": 80,
-			"sp": 55
+			"sp": 75
 		},
 		"w": 10.8,
 		"canEvolve": true
@@ -3006,12 +3012,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Psychic",
 		"t2": "Flying",
 		"bs": {
-			"hp": 106,
-			"at": 90,
-			"df": 130,
-			"sa": 90,
-			"sd": 154,
-			"sp": 110
+			"hp": 96,
+			"at": 85,
+			"df": 115,
+			"sa": 85,
+			"sd": 129,
+			"sp": 105
 		},
 		"w": 216.0,
 		"gender": "genderless"
@@ -3033,12 +3039,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Fire",
 		"t2": "Rock",
 		"bs": {
-			"hp": 50,
-			"at": 50,
+			"hp": 60,
+			"at": 90,
 			"df": 120,
-			"sa": 80,
-			"sd": 80,
-			"sp": 30
+			"sa": 90,
+			"sd": 120,
+			"sp": 60
 		},
 		"w": 55.0
 	},
@@ -3071,8 +3077,8 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"t2": "Flying",
 		"bs": {
-			"hp": 65,
-			"at": 40,
+			"hp": 85,
+			"at": 80,
 			"df": 70,
 			"sa": 80,
 			"sd": 140,
@@ -3082,9 +3088,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Mareep": {
 		"t1": "Electric",
+		"t2": "Normal",
 		"bs": {
 			"hp": 55,
-			"at": 40,
+			"at": 65,
 			"df": 40,
 			"sa": 65,
 			"sd": 45,
@@ -3095,11 +3102,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Marill": {
 		"t1": "Water",
+		"t2": "Normal",
 		"bs": {
 			"hp": 70,
 			"at": 20,
 			"df": 50,
-			"sa": 20,
+			"sa": 70,
 			"sd": 50,
 			"sp": 40
 		},
@@ -3121,11 +3129,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Meganium": {
 		"t1": "Grass",
+		"t2": "Psychic",
 		"bs": {
 			"hp": 80,
 			"at": 82,
 			"df": 100,
-			"sa": 83,
+			"sa": 90,
 			"sd": 100,
 			"sp": 80
 		},
@@ -3185,13 +3194,14 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 95,
-			"at": 80,
+			"at": 90,
 			"df": 105,
 			"sa": 40,
 			"sd": 70,
 			"sp": 100
 		},
-		"w": 75.5
+		"w": 75.5,
+		"ab": "Levitate"
 	},
 	"Mime Jr.": {
 		"t1": "Psychic",
@@ -3209,10 +3219,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Ghost",
 		"bs": {
 			"hp": 60,
-			"at": 60,
+			"at": 90,
 			"df": 60,
-			"sa": 85,
-			"sd": 85,
+			"sa": 105,
+			"sd": 105,
 			"sp": 85
 		},
 		"w": 1.0,
@@ -3312,11 +3322,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Dark",
 		"t2": "Flying",
 		"bs": {
-			"hp": 60,
-			"at": 85,
-			"df": 42,
-			"sa": 85,
-			"sd": 42,
+			"hp": 65,
+			"at": 108,
+			"df": 70,
+			"sa": 108,
+			"sd": 70,
 			"sp": 91
 		},
 		"w": 2.1
@@ -3327,7 +3337,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"bs": {
 			"hp": 40,
 			"at": 50,
-			"df": 45,
+			"df": 35,
 			"sa": 70,
 			"sd": 45,
 			"sp": 70
@@ -3353,9 +3363,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Flying",
 		"bs": {
 			"hp": 100,
-			"at": 50,
+			"at": 100,
 			"df": 50,
-			"sa": 76,
+			"sa": 100,
 			"sd": 96,
 			"sp": 70
 		},
@@ -3365,9 +3375,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"bs": {
 			"hp": 75,
-			"at": 105,
+			"at": 115,
 			"df": 75,
-			"sa": 105,
+			"sa": 115,
 			"sd": 75,
 			"sp": 45
 		},
@@ -3427,9 +3437,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Ice",
 		"t2": "Ground",
 		"bs": {
-			"hp": 100,
-			"at": 100,
-			"df": 120,
+			"hp": 120,
+			"at": 110,
+			"df": 80,
 			"sa": 110,
 			"sd": 60,
 			"sp": 50
@@ -3440,10 +3450,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Bug",
 		"bs": {
 			"hp": 50,
-			"at": 65,
+			"at": 75,
 			"df": 90,
 			"sa": 35,
-			"sd": 35,
+			"sd": 60,
 			"sp": 15
 		},
 		"w": 7.2,
@@ -3508,9 +3518,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Ground",
 		"bs": {
 			"hp": 70,
-			"at": 84,
+			"at": 94,
 			"df": 70,
-			"sa": 65,
+			"sa": 70,
 			"sd": 70,
 			"sp": 51
 		},
@@ -3523,11 +3533,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Ground",
 		"bs": {
 			"hp": 95,
-			"at": 85,
+			"at": 100,
 			"df": 85,
-			"sa": 65,
+			"sa": 100,
 			"sd": 65,
-			"sp": 35
+			"sp": 60
 		},
 		"w": 75.0
 	},
@@ -3548,11 +3558,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"t2": "Poison",
 		"bs": {
-			"hp": 65,
-			"at": 95,
-			"df": 75,
-			"sa": 55,
-			"sd": 55,
+			"hp": 85,
+			"at": 115,
+			"df": 85,
+			"sa": 95,
+			"sd": 65,
 			"sp": 85
 		},
 		"w": 3.9
@@ -3581,7 +3591,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 115
 		},
 		"w": 178.0,
-		"ab": "Pressure",
+		"ab": "Inner Focus",
 		"gender": "genderless"
 	},
 	"Rapidash-G": {
@@ -3626,11 +3636,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Remoraid": {
 		"t1": "Water",
 		"bs": {
-			"hp": 35,
+			"hp": 45,
 			"at": 65,
-			"df": 35,
+			"df": 45,
 			"sa": 65,
-			"sd": 35,
+			"sd": 45,
 			"sp": 65
 		},
 		"w": 12.0,
@@ -3719,10 +3729,10 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 35,
-			"at": 46,
+			"at": 50,
 			"df": 34,
 			"sa": 35,
-			"sd": 45,
+			"sd": 50,
 			"sp": 20
 		},
 		"w": 6.0,
@@ -3757,8 +3767,8 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Steel",
 		"t2": "Flying",
 		"bs": {
-			"hp": 65,
-			"at": 80,
+			"hp": 85,
+			"at": 100,
 			"df": 140,
 			"sa": 40,
 			"sd": 70,
@@ -3772,9 +3782,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"bs": {
 			"hp": 55,
 			"at": 45,
-			"df": 50,
+			"df": 100,
 			"sa": 45,
-			"sd": 65,
+			"sd": 115,
 			"sp": 80
 		},
 		"w": 1.0,
@@ -3834,12 +3844,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Slugma": {
 		"t1": "Fire",
 		"bs": {
-			"hp": 40,
-			"at": 40,
-			"df": 40,
+			"hp": 50,
+			"at": 50,
+			"df": 50,
 			"sa": 70,
-			"sd": 40,
-			"sp": 20
+			"sd": 50,
+			"sp": 50
 		},
 		"w": 35.0,
 		"canEvolve": true
@@ -3848,11 +3858,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 55,
-			"at": 20,
+			"at": 80,
 			"df": 35,
 			"sa": 20,
 			"sd": 45,
-			"sp": 75
+			"sp": 90
 		},
 		"w": 58.0
 	},
@@ -3875,9 +3885,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Ice",
 		"bs": {
 			"hp": 55,
-			"at": 95,
-			"df": 55,
-			"sa": 35,
+			"at": 105,
+			"df": 70,
+			"sa": 105,
 			"sd": 75,
 			"sp": 115
 		},
@@ -3888,7 +3898,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 60,
-			"at": 80,
+			"at": 100,
 			"df": 50,
 			"sa": 40,
 			"sd": 40,
@@ -3901,25 +3911,26 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Bug",
 		"t2": "Poison",
 		"bs": {
-			"hp": 40,
-			"at": 60,
-			"df": 40,
-			"sa": 40,
-			"sd": 40,
-			"sp": 30
+			"hp": 70,
+			"at": 80,
+			"df": 70,
+			"sa": 70,
+			"sd": 70,
+			"sp": 75
 		},
 		"w": 8.5,
 		"canEvolve": true
 	},
 	"Stantler": {
 		"t1": "Normal",
+		"t2": "Psychic",
 		"bs": {
 			"hp": 73,
 			"at": 95,
 			"df": 62,
-			"sa": 85,
+			"sa": 105,
 			"sd": 65,
-			"sp": 85
+			"sp": 105
 		},
 		"w": 71.2
 	},
@@ -3940,12 +3951,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Sudowoodo": {
 		"t1": "Rock",
 		"bs": {
-			"hp": 70,
+			"hp": 120,
 			"at": 100,
 			"df": 115,
 			"sa": 30,
 			"sd": 65,
-			"sp": 30
+			"sp": 70
 		},
 		"w": 38.0
 	},
@@ -3960,30 +3971,31 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 85
 		},
 		"w": 187.0,
-		"ab": "Pressure",
+		"ab": "Inner Focus",
 		"gender": "genderless"
 	},
 	"Sunflora": {
 		"t1": "Grass",
+		"t2": "Fire",
 		"bs": {
 			"hp": 75,
 			"at": 75,
-			"df": 55,
+			"df": 80,
 			"sa": 105,
 			"sd": 85,
-			"sp": 30
+			"sp": 80
 		},
 		"w": 8.5
 	},
 	"Sunkern": {
 		"t1": "Grass",
 		"bs": {
-			"hp": 30,
-			"at": 30,
-			"df": 30,
-			"sa": 30,
-			"sd": 30,
-			"sp": 30
+			"hp": 60,
+			"at": 60,
+			"df": 60,
+			"sa": 60,
+			"sd": 60,
+			"sp": 60
 		},
 		"w": 1.8,
 		"canEvolve": true
@@ -4095,9 +4107,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Normal",
 		"bs": {
 			"hp": 35,
-			"at": 20,
+			"at": 50,
 			"df": 65,
-			"sa": 40,
+			"sa": 50,
 			"sd": 65,
 			"sp": 20
 		},
@@ -4109,11 +4121,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Flying",
 		"bs": {
 			"hp": 55,
-			"at": 40,
+			"at": 110,
 			"df": 85,
-			"sa": 80,
+			"sa": 105,
 			"sd": 105,
-			"sp": 40
+			"sp": 50
 		},
 		"w": 3.2
 	},
@@ -4121,9 +4133,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Water",
 		"bs": {
 			"hp": 50,
-			"at": 65,
+			"at": 44,
 			"df": 64,
-			"sa": 44,
+			"sa": 65,
 			"sd": 48,
 			"sp": 43
 		},
@@ -4132,6 +4144,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Typhlosion": {
 		"t1": "Fire",
+		"t2": "Electric",
 		"bs": {
 			"hp": 78,
 			"at": 84,
@@ -4155,7 +4168,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 61
 		},
 		"w": 202.0,
-		"ab": "Sand Stream"
+		"ab": "Intimidate"
 	},
 	"Tyrogue": {
 		"t1": "Fighting",
@@ -4185,12 +4198,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	"Unown": {
 		"t1": "Psychic",
 		"bs": {
-			"hp": 48,
-			"at": 72,
-			"df": 48,
-			"sa": 72,
-			"sd": 48,
-			"sp": 48
+			"hp": 90,
+			"at": 90,
+			"df": 90,
+			"sa": 90,
+			"sd": 90,
+			"sp": 90
 		},
 		"w": 5.0,
 		"ab": "Levitate",
@@ -4198,6 +4211,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 	},
 	"Ursaring": {
 		"t1": "Normal",
+		"t2": "Ground",
 		"bs": {
 			"hp": 90,
 			"at": 130,
@@ -4277,11 +4291,11 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Ground",
 		"bs": {
 			"hp": 55,
-			"at": 45,
+			"at": 60,
 			"df": 45,
-			"sa": 25,
+			"sa": 60,
 			"sd": 25,
-			"sp": 15
+			"sp": 50
 		},
 		"w": 8.5,
 		"canEvolve": true
@@ -4303,9 +4317,9 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t2": "Flying",
 		"bs": {
 			"hp": 65,
-			"at": 75,
+			"at": 105,
 			"df": 70,
-			"sa": 95,
+			"sa": 115,
 			"sd": 70,
 			"sp": 95
 		},
@@ -4315,12 +4329,12 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 		"t1": "Bug",
 		"t2": "Flying",
 		"bs": {
-			"hp": 65,
-			"at": 65,
-			"df": 45,
-			"sa": 75,
-			"sd": 45,
-			"sp": 95
+			"hp": 86,
+			"at": 96,
+			"df": 86,
+			"sa": 116,
+			"sd": 46,
+			"sp": 86
 		},
 		"w": 38.0
 	},
@@ -4762,11 +4776,11 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
 		"t1": "Psychic",
 		"bs": {
 			"hp": 50,
-			"at": 180,
+			"at": 130,
 			"df": 20,
-			"sa": 180,
+			"sa": 130,
 			"sd": 20,
-			"sp": 150
+			"sp": 110
 		},
 		"w": 60.8,
 		"ab": "Pressure",
