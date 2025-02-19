@@ -37,7 +37,6 @@ if (!Array.prototype.indexOf) {
 // input field validation
 var bounds = {
 	"level": [0, 100],
-	"leveloverride": [0, 100],
 	"base": [1, 255],
 	"evs": [0, 252],
 	"ivs": [0, 31],
