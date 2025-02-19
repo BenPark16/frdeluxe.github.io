@@ -37,6 +37,7 @@ if (!Array.prototype.indexOf) {
 // input field validation
 var bounds = {
 	"level": [0, 100],
+	"leveloverride": [0, 100],
 	"base": [1, 255],
 	"evs": [0, 252],
 	"ivs": [0, 31],
@@ -448,6 +449,8 @@ $(".set-selector").change(function () {
 
 		if (pokemonName in setdex && setName in setdex[pokemonName]) {
 			var set = setdex[pokemonName][setName];
+			//pokeObj.find(".level").val(50);
+			pokeObj.find(".level").val(this.leveloverride);
 			pokeObj.find(".hp .evs").val((set.evs && set.evs.hp !== undefined) ? set.evs.hp : 0);
 			// pokeObj.find(".hp .ivs").val((set.ivs && set.ivs.hp !== undefined) ? set.ivs.hp : 31);
 			pokeObj.find(".hp .ivs").val((set.ivs && set.ivs.hp !== undefined) ? set.ivs.hp : ivsoverride);
