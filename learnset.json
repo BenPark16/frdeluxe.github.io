@@ -1,0 +1,6469 @@
+{
+	"BULBASAUR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[4, "GROWL"],
+			[7, "LEECH SEED"],
+			[10, "VINE WHIP"],
+			[15, "POISONPOWDER"],
+			[15, "SLEEP POWDER"],
+			[20, "RAZOR LEAF"],
+			[25, "SWEET SCENT"],
+			[32, "GROWTH"],
+			[39, "SYNTHESIS"],
+			[46, "SOLARBEAM"]
+		]
+	},
+	"IVYSAUR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "LEECH SEED"],
+			[4, "GROWL"],
+			[7, "LEECH SEED"],
+			[10, "VINE WHIP"],
+			[15, "POISONPOWDER"],
+			[15, "SLEEP POWDER"],
+			[22, "RAZOR LEAF"],
+			[29, "SWEET SCENT"],
+			[38, "GROWTH"],
+			[47, "SYNTHESIS"],
+			[56, "SOLARBEAM"]
+		]
+	},
+	"VENUSAUR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "AROMATHERAPY"],
+			[1, "LEECH SEED"],
+			[1, "VINE WHIP"],
+			[4, "GROWL"],
+			[7, "LEECH SEED"],
+			[10, "VINE WHIP"],
+			[15, "POISONPOWDER"],
+			[15, "SLEEP POWDER"],
+			[22, "RAZOR LEAF"],
+			[29, "SWEET SCENT"],
+			[41, "GROWTH"],
+			[53, "SYNTHESIS"],
+			[62, "SWORDS DANCE"]
+		]
+	},
+	"CHARMANDER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[7, "EMBER"],
+			[13, "METAL CLAW"],
+			[19, "FLAME WHEEL"],
+			[25, "SMOKESCREEN"],
+			[31, "FLAMETHROWER"],
+			[37, "SLASH"],
+			[43, "DRAGON RAGE"],
+			[49, "FIRE SPIN"]
+		]
+	},
+	"CHARMELEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "SCARY FACE"],
+			[7, "EMBER"],
+			[13, "METAL CLAW"],
+			[20, "FLAME WHEEL"],
+			[27, "SMOKESCREEN"],
+			[34, "FLAMETHROWER"],
+			[41, "SLASH"],
+			[48, "DRAGON RAGE"],
+			[55, "FIRE SPIN"]
+		]
+	},
+	"CHARIZARD":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HEAT WAVE"],
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "EMBER"],
+			[1, "SCARY FACE"],
+			[1, "SLASH"],
+			[1, "METAL CLAW"],
+			[7, "EMBER"],
+			[13, "METAL CLAW"],
+			[20, "FLAME WHEEL"],
+			[36, "WING ATTACK"],
+			[34, "FLAMETHROWER"],
+			[36, "WING ATTACK"],
+			[44, "DRILL PECK"],
+			[54, "DRAGON CLAW"],
+			[64, "HEAT WAVE"]
+		]
+	},
+	"SQUIRTLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[4, "TAIL WHIP"],
+			[7, "BUBBLE"],
+			[10, "WITHDRAW"],
+			[13, "WATER GUN"],
+			[18, "BITE"],
+			[23, "RAPID SPIN"],
+			[28, "PROTECT"],
+			[33, "RAIN DANCE"],
+			[40, "SKULL BASH"],
+			[47, "HYDRO PUMP"]
+		]
+	},
+	"WARTORTLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "BUBBLE"],
+			[4, "TAIL WHIP"],
+			[7, "BUBBLE"],
+			[10, "WITHDRAW"],
+			[13, "WATER GUN"],
+			[19, "BITE"],
+			[25, "RAPID SPIN"],
+			[31, "PROTECT"],
+			[37, "RAIN DANCE"],
+			[45, "SKULL BASH"],
+			[53, "HYDRO PUMP"]
+		]
+	},
+	"BLASTOISE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "MUDDY WATER"],
+			[1, "BUBBLE"],
+			[1, "WITHDRAW"],
+			[4, "TAIL WHIP"],
+			[7, "BUBBLE"],
+			[10, "WITHDRAW"],
+			[13, "WATER GUN"],
+			[19, "BITE"],
+			[25, "RAPID SPIN"],
+			[31, "PROTECT"],
+			[42, "RAIN DANCE"],
+			[55, "HYDRO PUMP"],
+			[62, "ICY WIND"]
+		]
+	},
+	"CATERPIE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "STRING SHOT"]
+		]
+	},
+	"METAPOD":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HARDEN"],
+			[7, "HARDEN"]
+		]
+	},
+	"BUTTERFREE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONFUSION"],
+			[10, "GUST"],
+			[13, "POISONPOWDER"],
+			[14, "STUN SPORE"],
+			[20, "CONFUSION"],
+			[23, "SUPERSONIC"],
+			[28, "WING ATTACK"],
+			[34, "PSYBEAM"],
+			[40, "SLEEP POWDER"],
+			[47, "SILVER WIND"],
+			[55, "SAFEGUARD"]
+		]
+	},
+	"WEEDLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[1, "STRING SHOT"]
+		]
+	},
+	"KAKUNA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HARDEN"],
+			[7, "HARDEN"]
+		]
+	},
+	"BEEDRILL":
+	{
+		"Level-Up Learnset":
+		[
+			[10, "FURY ATTACK"],
+			[15, "FOCUS ENERGY"],
+			[20, "TWINEEDLE"],
+			[25, "SLUDGE"],
+			[30, "MOONLIGHT"],
+			[35, "SLUDGE BOMB"],
+			[40, "AGILITY"],
+			[45, "ENDEAVOR"],
+			[50, "SWORDS DANCE"]
+		]
+	},
+	"PIDGEY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "GUST"],
+			[9, "SAND-ATTACK"],
+			[13, "QUICK ATTACK"],
+			[19, "WHIRLWIND"],
+			[25, "WING ATTACK"],
+			[31, "FEATHERDANCE"],
+			[39, "AGILITY"],
+			[47, "MIRROR MOVE"]
+		]
+	},
+	"PIDGEOTTO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SAND-ATTACK"],
+			[1, "GUST"],
+			[5, "SAND-ATTACK"],
+			[9, "GUST"],
+			[13, "QUICK ATTACK"],
+			[20, "WING ATTACK"],
+			[27, "WHIRLWIND"],
+			[34, "FEATHERDANCE"],
+			[43, "AGILITY"],
+			[52, "MIRROR MOVE"]
+		]
+	},
+	"PIDGEOT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "MORNING SUN"],
+			[5, "SAND-ATTACK"],
+			[9, "GUST"],
+			[13, "QUICK ATTACK"],
+			[20, "WING ATTACK"],
+			[27, "WHIRLWIND"],
+			[34, "FEATHERDANCE"],
+			[40, "DRILL PECK"],
+			[48, "DOUBLE-EDGE"],
+			[55, "EXTREMESPEED"],
+			[62, "MIRROR MOVE"]
+		]
+	},
+	"RATTATA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[7, "QUICK ATTACK"],
+			[10, "BITE"],
+			[13, "HYPER FANG"],
+			[19, "CRUNCH"],
+			[21, "FOCUS ENERGY"],
+			[27, "PURSUIT"],
+			[34, "SUPER FANG"],
+			[41, "ENDEAVOR"]
+		]
+	},
+	"RATICATE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[7, "QUICK ATTACK"],
+			[13, "HYPER FANG"],
+			[20, "SCARY FACE"],
+			[30, "PURSUIT"],
+			[40, "SUPER FANG"],
+			[50, "ENDEAVOR"]
+		]
+	},
+	"SPEAROW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[7, "LEER"],
+			[13, "FURY ATTACK"],
+			[19, "MUD-SLAP"],
+			[25, "AERIAL ACE"],
+			[31, "MIRROR MOVE"],
+			[37, "DRILL PECK"],
+			[43, "AGILITY"]
+		]
+	},
+	"FEAROW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[1, "FURY ATTACK"],
+			[7, "LEER"],
+			[13, "FURY ATTACK"],
+			[19, "MUD-SLAP"],
+			[22, "MUD SHOT"],
+			[29, "MAGNITUDE"],
+			[35, "MIRROR MOVE"],
+			[40, "DRILL PECK"],
+			[47, "EARTHQUAKE"],
+			[53, "AGILITY"]
+		]
+	},
+	"EKANS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[1, "LEER"],
+			[5, "BITE"],
+			[10, "BITE"],
+			[15, "POISON FANG"],
+			[20, "GLARE"],
+			[25, "POISON TAIL"],
+			[32, "CRUNCH"],
+			[37, "STOCKPILE"],
+			[37, "SPIT UP"],
+			[44, "SWALLOW"]
+		]
+	},
+	"ARBOK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[1, "LEER"],
+			[1, "POISON STING"],
+			[8, "BITE"],
+			[15, "POISON FANG"],
+			[20, "GLARE"],
+			[25, "POISON TAIL"],
+			[30, "CRUNCH"],
+			[35, "SCREECH"],
+			[40, "STOCKPILE"],
+			[46, "AGILITY"],
+			[51, "SLUDGE BOMB"],
+			[57, "HAZE"]
+		]
+	},
+	"PIKACHU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERSHOCK"],
+			[1, "GROWL"],
+			[6, "TAIL WHIP"],
+			[8, "THUNDER WAVE"],
+			[11, "QUICK ATTACK"],
+			[15, "DOUBLE TEAM"],
+			[15, "THUNDERSHOCK"],
+			[20, "SLAM"],
+			[26, "THUNDERBOLT"],
+			[33, "VOLT TACKLE"],
+			[41, "AGILITY"],
+			[50, "LIGHT SCREEN"]
+		]
+	},
+	"RAICHU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "VOLT TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[1, "THUNDERBOLT"]
+		]
+	},
+	"SANDSHREW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "SAND TOMB"],
+			[6, "DEFENSE CURL"],
+			[11, "SAND-ATTACK"],
+			[17, "FALSE SWIPE"],
+			[22, "SLASH"],
+			[30, "SWIFT"],
+			[37, "EARTHQUAKE"],
+			[53, "SANDSTORM"]
+		]
+	},
+	"SANDSLASH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "SAND TOMB"],
+			[1, "SAND-ATTACK"],
+			[6, "DEFENSE CURL"],
+			[11, "SAND-ATTACK"],
+			[17, "FALSE SWIPE"],
+			[22, "SLASH"],
+			[33, "MAGNITUDE"],
+			[42, "EARTHQUAKE"],
+			[52, "RAPID SPIN"],
+			[62, "SPIKES"]
+		]
+	},
+	"NIDORAN-F":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "SCRATCH"],
+			[4, "POISON STING"],
+			[8, "TAIL WHIP"],
+			[12, "DOUBLE KICK"],
+			[17, "SWIFT"],
+			[20, "BITE"],
+			[23, "HELPING HAND"],
+			[30, "FLATTER"],
+			[40, "CRUNCH"]
+		]
+	},
+	"NIDORINA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "POISON STING"],
+			[8, "TAIL WHIP"],
+			[12, "DOUBLE KICK"],
+			[18, "FURY SWIPES"],
+			[22, "BITE"],
+			[26, "HELPING HAND"],
+			[43, "FLATTER"],
+			[53, "CRUNCH"]
+		]
+	},
+	"NIDOQUEEN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "TAIL WHIP"],
+			[1, "DOUBLE KICK"],
+			[1, "POISON STING"],
+			[22, "BODY SLAM"],
+			[43, "SUPERPOWER"]
+		]
+	},
+	"NIDORAN-M":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "LEER"],
+			[4, "POISON STING"],
+			[8, "FOCUS ENERGY"],
+			[12, "DOUBLE KICK"],
+			[17, "FURY ATTACK"],
+			[20, "HORN ATTACK"],
+			[23, "HELPING HAND"],
+			[30, "SWAGGER"],
+			[40, "HORN DRILL"]
+		]
+	},
+	"NIDORINO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "POISON STING"],
+			[1, "LEER"],
+			[8, "FOCUS ENERGY"],
+			[12, "DOUBLE KICK"],
+			[18, "FURY ATTACK"],
+			[22, "HORN ATTACK"],
+			[26, "HELPING HAND"],
+			[43, "SWAGGER"],
+			[53, "HORN DRILL"]
+		]
+	},
+	"NIDOKING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "FOCUS ENERGY"],
+			[1, "DOUBLE KICK"],
+			[1, "POISON STING"],
+			[22, "THRASH"],
+			[43, "MEGAHORN"]
+		]
+	},
+	"CLEFAIRY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "GROWL"],
+			[5, "ENCORE"],
+			[9, "SING"],
+			[13, "DOUBLESLAP"],
+			[17, "FOLLOW ME"],
+			[21, "MINIMIZE"],
+			[25, "DIZZY PUNCH"],
+			[29, "METRONOME"],
+			[33, "COSMIC POWER"],
+			[37, "MOONLIGHT"],
+			[41, "LIGHT SCREEN"],
+			[45, "METEOR MASH"]
+		]
+	},
+	"CLEFABLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SING"],
+			[1, "DOUBLESLAP"],
+			[1, "MINIMIZE"],
+			[1, "METRONOME"]
+		]
+	},
+	"VULPIX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[5, "TAIL WHIP"],
+			[9, "ROAR"],
+			[13, "QUICK ATTACK"],
+			[17, "WILL-O-WISP"],
+			[21, "CONFUSE RAY"],
+			[25, "IMPRISON"],
+			[29, "FLAMETHROWER"],
+			[33, "SAFEGUARD"],
+			[37, "GRUDGE"],
+			[41, "FIRE SPIN"]
+		]
+	},
+	"NINETALES":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[1, "QUICK ATTACK"],
+			[1, "CONFUSE RAY"],
+			[1, "SAFEGUARD"],
+			[45, "FIRE SPIN"]
+		]
+	},
+	"JIGGLYPUFF":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "DEFENSE CURL"],
+			[6, "DOUBLESLAP"],
+			[10, "SING"],
+			[14, "DOUBLESLAP"],
+			[19, "DISABLE"],
+			[25, "REST"],
+			[30, "BODY SLAM"],
+			[35, "MIMIC"],
+			[40, "HYPER VOICE"],
+			[45, "DOUBLE-EDGE"]
+		]
+	},
+	"WIGGLYTUFF":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SING"],
+			[1, "DISABLE"],
+			[1, "DEFENSE CURL"],
+			[1, "DOUBLESLAP"],
+			[25, "DIZZY PUNCH"],
+			[35, "SLACK OFF"]
+		]
+	},
+	"ZUBAT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GUST"],
+			[1, "LEECH LIFE"],
+			[6, "ASTONISH"],
+			[11, "SUPERSONIC"],
+			[16, "WING ATTACK"],
+			[21, "BITE"],
+			[26, "CONFUSE RAY"],
+			[31, "POISON FANG"],
+			[36, "MEAN LOOK"],
+			[41, "TOXIC"],
+			[46, "HAZE"]
+		]
+	},
+	"GOLBAT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCREECH"],
+			[1, "LEECH LIFE"],
+			[1, "ASTONISH"],
+			[1, "SUPERSONIC"],
+			[6, "ASTONISH"],
+			[11, "SUPERSONIC"],
+			[16, "BITE"],
+			[21, "WING ATTACK"],
+			[28, "CONFUSE RAY"],
+			[35, "POISON FANG"],
+			[42, "MEAN LOOK"],
+			[49, "TOXIC"],
+			[56, "HAZE"]
+		]
+	},
+	"ODDISH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[5, "SWEET SCENT"],
+			[10, "POISONPOWDER"],
+			[14, "MEGA DRAIN"],
+			[16, "STUN SPORE"],
+			[18, "SLEEP POWDER"],
+			[23, "ACID"],
+			[32, "MOONLIGHT"],
+			[39, "PETAL DANCE"]
+		]
+	},
+	"GLOOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[1, "POISONPOWDER"],
+			[7, "SWEET SCENT"],
+			[10, "POISONPOWDER"],
+			[14, "MEGA DRAIN"],
+			[16, "STUN SPORE"],
+			[18, "SLEEP POWDER"],
+			[24, "SLUDGE"],
+			[35, "MOONLIGHT"],
+			[44, "PETAL DANCE"]
+		]
+	},
+	"VILEPLUME":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MOONLIGHT"],
+			[1, "AROMATHERAPY"],
+			[1, "STUN SPORE"],
+			[1, "MEGA DRAIN"],
+			[44, "PETAL DANCE"]
+		]
+	},
+	"PARAS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEECH LIFE"],
+			[5, "ABSORB"],
+			[7, "STUN SPORE"],
+			[13, "POISONPOWDER"],
+			[16, "MEGA DRAIN"],
+			[20, "PIN MISSILE"],
+			[25, "SLASH"],
+			[31, "GIGA DRAIN"],
+			[37, "SPORE"],
+			[43, "GROWTH"]
+		]
+	},
+	"PARASECT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "STUN SPORE"],
+			[1, "POISONPOWDER"],
+			[7, "STUN SPORE"],
+			[13, "POISONPOWDER"],
+			[19, "PIN MISSILE"],
+			[25, "SLASH"],
+			[30, "GIGA DRAIN"],
+			[35, "SIGNAL BEAM"],
+			[40, "SYNTHESIS"],
+			[45, "AROMATHERAPY"],
+			[50, "SPORE"],
+			[55, "SWORDS DANCE"],
+			[60, "GROWTH"]
+		]
+	},
+	"VENONAT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DISABLE"],
+			[1, "LEECH LIFE"],
+			[6, "SUPERSONIC"],
+			[10, "NIGHT SHADE"],
+			[14, "CONFUSION"],
+			[20, "POISONPOWDER"],
+			[22, "STUN SPORE"],
+			[25, "STUN SPORE"],
+			[28, "SLEEP POWDER"],
+			[33, "PSYBEAM"],
+			[40, "POUND"]
+		]
+	},
+	"VENOMOTH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "NIGHT SHADE"],
+			[1, "TACKLE"],
+			[1, "DISABLE"],
+			[1, "LEECH LIFE"],
+			[9, "SUPERSONIC"],
+			[17, "CONFUSION"],
+			[20, "SILVER WIND"],
+			[22, "STUN SPORE"],
+			[25, "TOXIC"],
+			[28, "SLEEP POWDER"],
+			[31, "PSYBEAM"],
+			[35, "MOONLIGHT"],
+			[40, "TOXIC"],
+			[47, "PROTECT"],
+			[52, "PSYCHIC"]
+		]
+	},
+	"DIGLETT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SAND-ATTACK"],
+			[1, "SCRATCH"],
+			[5, "GROWL"],
+			[9, "MAGNITUDE"],
+			[17, "DIG"],
+			[21, "FURY SWIPES"],
+			[25, "MUD-SLAP"],
+			[33, "SLASH"],
+			[41, "EARTHQUAKE"],
+			[49, "FISSURE"]
+		]
+	},
+	"DUGTRIO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TRI ATTACK"],
+			[1, "SCRATCH"],
+			[1, "SAND-ATTACK"],
+			[1, "GROWL"],
+			[5, "GROWL"],
+			[9, "MAGNITUDE"],
+			[17, "DIG"],
+			[21, "FURY SWIPES"],
+			[25, "MUD-SLAP"],
+			[26, "SAND TOMB"],
+			[38, "SLASH"],
+			[51, "EARTHQUAKE"],
+			[64, "FISSURE"]
+		]
+	},
+	"MEOWTH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[10, "BITE"],
+			[18, "PAY DAY"],
+			[25, "FAINT ATTACK"],
+			[31, "SCREECH"],
+			[36, "FURY SWIPES"],
+			[40, "SLASH"],
+			[43, "FAKE OUT"],
+			[45, "SWAGGER"]
+		]
+	},
+	"PERSIAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HYPNOSIS"],
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "BITE"],
+			[16, "PAY DAY"],
+			[25, "FAINT ATTACK"],
+			[30, "SLASH"],
+			[38, "FAKE OUT"],
+			[45, "HYPNOSIS"],
+			[49, "SCREECH"],
+			[55, "DOUBLE-EDGE"],
+			[61, "SWAGGER"]
+		]
+	},
+	"PSYDUCK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "SCRATCH"],
+			[5, "TAIL WHIP"],
+			[10, "CONFUSION"],
+			[16, "WATER PULSE"],
+			[23, "SCREECH"],
+			[31, "PSYCH UP"],
+			[40, "FURY SWIPES"],
+			[50, "HYDRO PUMP"]
+		]
+	},
+	"GOLDUCK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "SCRATCH"],
+			[1, "TAIL WHIP"],
+			[1, "DISABLE"],
+			[5, "TAIL WHIP"],
+			[10, "CONFUSION"],
+			[16, "WATER PULSE"],
+			[23, "SCREECH"],
+			[31, "PSYCH UP"],
+			[44, "CROSS CHOP"],
+			[58, "HYDRO PUMP"]
+		]
+	},
+	"MANKEY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[6, "LOW KICK"],
+			[11, "KARATE CHOP"],
+			[16, "FURY SWIPES"],
+			[21, "FOCUS ENERGY"],
+			[26, "SEISMIC TOSS"],
+			[31, "CROSS CHOP"],
+			[36, "SWAGGER"],
+			[41, "SCREECH"],
+			[46, "THRASH"]
+		]
+	},
+	"PRIMEAPE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[1, "LOW KICK"],
+			[1, "RAGE"],
+			[6, "LOW KICK"],
+			[11, "KARATE CHOP"],
+			[16, "FURY SWIPES"],
+			[21, "FOCUS ENERGY"],
+			[26, "SEISMIC TOSS"],
+			[28, "RAGE"],
+			[35, "CROSS CHOP"],
+			[44, "SWAGGER"],
+			[53, "SCREECH"],
+			[62, "THRASH"]
+		]
+	},
+	"GROWLITHE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "ROAR"],
+			[7, "EMBER"],
+			[13, "LEER"],
+			[19, "FLAME WHEEL"],
+			[25, "TAKE DOWN"],
+			[31, "FIRE SPIN"],
+			[37, "HELPING HAND"],
+			[43, "AGILITY"],
+			[49, "FLAMETHROWER"]
+		]
+	},
+	"ARCANINE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "ROAR"],
+			[1, "EMBER"],
+			[1, "ODOR SLEUTH"],
+			[49, "EXTREMESPEED"]
+		]
+	},
+	"POLIWAG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[5, "HYPNOSIS"],
+			[9, "WATER GUN"],
+			[19, "DOUBLESLAP"],
+			[25, "RAIN DANCE"],
+			[31, "BODY SLAM"],
+			[37, "BELLY DRUM"],
+			[43, "HYDRO PUMP"]
+		]
+	},
+	"POLIWHIRL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "HYPNOSIS"],
+			[1, "WATER GUN"],
+			[7, "HYPNOSIS"],
+			[13, "WATER GUN"],
+			[19, "DOUBLESLAP"],
+			[27, "RAIN DANCE"],
+			[35, "BODY SLAM"],
+			[43, "BELLY DRUM"],
+			[51, "HYDRO PUMP"]
+		]
+	},
+	"POLIWRATH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "HYPNOSIS"],
+			[1, "DOUBLESLAP"],
+			[1, "SUBMISSION"],
+			[35, "SUBMISSION"],
+			[51, "MIND READER"]
+		]
+	},
+	"ABRA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TELEPORT"],
+			[16, "CONFUSION"]
+		]
+	},
+	"KADABRA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TELEPORT"],
+			[1, "KINESIS"],
+			[1, "CONFUSION"],
+			[16, "CONFUSION"],
+			[18, "DISABLE"],
+			[21, "PSYBEAM"],
+			[23, "REFLECT"],
+			[25, "RECOVER"],
+			[30, "FUTURE SIGHT"],
+			[33, "ROLE PLAY"],
+			[36, "PSYCHIC"],
+			[43, "TRICK"]
+		]
+	},
+	"ALAKAZAM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TELEPORT"],
+			[1, "KINESIS"],
+			[1, "CONFUSION"],
+			[16, "CONFUSION"],
+			[18, "DISABLE"],
+			[21, "PSYBEAM"],
+			[23, "REFLECT"],
+			[25, "RECOVER"],
+			[30, "FUTURE SIGHT"],
+			[33, "CALM MIND"],
+			[36, "PSYCHIC"],
+			[43, "TRICK"]
+		]
+	},
+	"MACHOP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LOW KICK"],
+			[1, "LEER"],
+			[7, "FOCUS ENERGY"],
+			[13, "KARATE CHOP"],
+			[19, "SEISMIC TOSS"],
+			[22, "FORESIGHT"],
+			[25, "REVENGE"],
+			[31, "VITAL THROW"],
+			[37, "SUBMISSION"],
+			[40, "CROSS CHOP"],
+			[43, "SCARY FACE"],
+			[49, "DYNAMICPUNCH"]
+		]
+	},
+	"MACHOKE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LOW KICK"],
+			[1, "LEER"],
+			[1, "FOCUS ENERGY"],
+			[7, "FOCUS ENERGY"],
+			[13, "KARATE CHOP"],
+			[19, "SEISMIC TOSS"],
+			[22, "FORESIGHT"],
+			[25, "REVENGE"],
+			[33, "VITAL THROW"],
+			[41, "SUBMISSION"],
+			[46, "CROSS CHOP"],
+			[51, "SCARY FACE"],
+			[59, "DYNAMICPUNCH"]
+		]
+	},
+	"MACHAMP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LOW KICK"],
+			[1, "LEER"],
+			[1, "FOCUS ENERGY"],
+			[7, "FOCUS ENERGY"],
+			[13, "KARATE CHOP"],
+			[19, "SEISMIC TOSS"],
+			[22, "FORESIGHT"],
+			[25, "REVENGE"],
+			[33, "VITAL THROW"],
+			[41, "SUBMISSION"],
+			[46, "CROSS CHOP"],
+			[51, "SCARY FACE"],
+			[59, "DYNAMICPUNCH"]
+		]
+	},
+	"BELLSPROUT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "VINE WHIP"],
+			[3, "ACID"],
+			[6, "GROWTH"],
+			[11, "WRAP"],
+			[15, "SLEEP POWDER"],
+			[15, "POISONPOWDER"],
+			[15, "STUN SPORE"],
+			[21, "RAZOR LEAF"],
+			[32, "MAGICAL LEAF"],
+			[45, "SLAM"]
+		]
+	},
+	"WEEPINBELL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "VINE WHIP"],
+			[1, "GROWTH"],
+			[1, "WRAP"],
+			[6, "ACID"],
+			[15, "SLEEP POWDER"],
+			[15, "POISONPOWDER"],
+			[15, "STUN SPORE"],
+			[21, "RAZOR LEAF"],
+			[27, "SLUDGE"],
+			[33, "MAGICAL LEAF"],
+			[42, "SWEET SCENT"],
+			[54, "SLAM"]
+		]
+	},
+	"VICTREEBEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "STOCKPILE"],
+			[1, "SYNTHESIS"],
+			[1, "SLUDGE"],
+			[1, "GIGA DRAIN"],
+			[26, "SLEEP POWDER"],
+			[33, "SWORDS DANCE"],
+			[41, "LEAF BLADE"]
+		]
+	},
+	"TENTACOOL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[6, "SUPERSONIC"],
+			[12, "CONSTRICT"],
+			[19, "ACID"],
+			[25, "BUBBLEBEAM"],
+			[30, "WRAP"],
+			[36, "BARRIER"],
+			[43, "SCREECH"],
+			[49, "HYDRO PUMP"]
+		]
+	},
+	"TENTACRUEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[1, "SUPERSONIC"],
+			[1, "CONSTRICT"],
+			[6, "SUPERSONIC"],
+			[12, "CONSTRICT"],
+			[19, "ACID"],
+			[25, "BUBBLEBEAM"],
+			[30, "WRAP"],
+			[38, "BARRIER"],
+			[47, "SCREECH"],
+			[55, "HYDRO PUMP"]
+		]
+	},
+	"GEODUDE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[6, "MUD SPORT"],
+			[11, "ROCK THROW"],
+			[16, "MAGNITUDE"],
+			[21, "SELFDESTRUCT"],
+			[26, "ROLLOUT"],
+			[31, "ROCK BLAST"],
+			[36, "EARTHQUAKE"],
+			[41, "EXPLOSION"],
+			[46, "DOUBLE-EDGE"]
+		]
+	},
+	"GRAVELER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[1, "MUD SPORT"],
+			[1, "ROCK THROW"],
+			[6, "MUD SPORT"],
+			[11, "ROCK THROW"],
+			[16, "MAGNITUDE"],
+			[21, "SELFDESTRUCT"],
+			[29, "ROLLOUT"],
+			[37, "ROCK BLAST"],
+			[45, "EARTHQUAKE"],
+			[53, "EXPLOSION"],
+			[62, "DOUBLE-EDGE"]
+		]
+	},
+	"GOLEM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[1, "MUD SPORT"],
+			[1, "ROCK THROW"],
+			[6, "MUD SPORT"],
+			[11, "ROCK THROW"],
+			[16, "MAGNITUDE"],
+			[21, "SELFDESTRUCT"],
+			[29, "ROLLOUT"],
+			[37, "ROCK BLAST"],
+			[45, "EARTHQUAKE"],
+			[53, "EXPLOSION"],
+			[62, "DOUBLE-EDGE"]
+		]
+	},
+	"PONYTA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[5, "EMBER"],
+			[9, "TAIL WHIP"],
+			[14, "FLAME WHEEL"],
+			[19, "STOMP"],
+			[25, "WILL-O-WISP"],
+			[31, "TAKE DOWN"],
+			[38, "MORNING SUN"],
+			[45, "AGILITY"],
+			[53, "FIRE BLAST"]
+		]
+	},
+	"RAPIDASH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[1, "GROWL"],
+			[1, "TAIL WHIP"],
+			[1, "EMBER"],
+			[5, "GROWL"],
+			[9, "TAIL WHIP"],
+			[14, "EMBER"],
+			[19, "STOMP"],
+			[25, "WILL-O-WISP"],
+			[31, "TAKE DOWN"],
+			[38, "MORNING SUN"],
+			[43, "AGILITY"],
+			[50, "BOUNCE"],
+			[63, "FIRE BLAST"]
+		]
+	},
+	"SLOWPOKE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "CURSE"],
+			[1, "TACKLE"],
+			[6, "WATER GUN"],
+			[11, "YAWN"],
+			[17, "CONFUSION"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "AMNESIA"],
+			[40, "PSYCHIC"],
+			[47, "PSYCH UP"]
+		]
+	},
+	"SLOWBRO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CURSE"],
+			[1, "YAWN"],
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[6, "GROWL"],
+			[13, "WATER GUN"],
+			[17, "CONFUSION"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "AMNESIA"],
+			[37, "WITHDRAW"],
+			[44, "PSYCHIC"],
+			[55, "PSYCH UP"]
+		]
+	},
+	"MAGNEMITE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "METAL SOUND"],
+			[1, "TACKLE"],
+			[6, "THUNDERSHOCK"],
+			[11, "SUPERSONIC"],
+			[19, "SONICBOOM"],
+			[21, "THUNDER WAVE"],
+			[26, "SPARK"],
+			[32, "LOCK-ON"],
+			[38, "SWIFT"],
+			[44, "SCREECH"],
+			[50, "ZAP CANNON"]
+		]
+	},
+	"MAGNETON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "METAL SOUND"],
+			[1, "TACKLE"],
+			[1, "THUNDERSHOCK"],
+			[1, "SUPERSONIC"],
+			[6, "THUNDERSHOCK"],
+			[11, "SUPERSONIC"],
+			[16, "SONICBOOM"],
+			[21, "THUNDER WAVE"],
+			[26, "SPARK"],
+			[35, "LOCK-ON"],
+			[44, "TRI ATTACK"],
+			[53, "SCREECH"],
+			[62, "ZAP CANNON"]
+		]
+	},
+	"FARFETCH'D":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[6, "SAND-ATTACK"],
+			[11, "LEER"],
+			[16, "FURY ATTACK"],
+			[21, "KNOCK OFF"],
+			[26, "FURY CUTTER"],
+			[31, "SWORDS DANCE"],
+			[36, "AGILITY"],
+			[41, "SLASH"],
+			[46, "FALSE SWIPE"]
+		]
+	},
+	"DODUO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[9, "PURSUIT"],
+			[13, "FURY ATTACK"],
+			[21, "TRI ATTACK"],
+			[25, "RAGE"],
+			[33, "UPROAR"],
+			[37, "DRILL PECK"],
+			[45, "AGILITY"]
+		]
+	},
+	"DODRIO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[1, "JUMP KICK"],
+			[9, "PURSUIT"],
+			[13, "FURY ATTACK"],
+			[21, "TRI ATTACK"],
+			[25, "RAGE"],
+			[31, "SUBMISSION"],
+			[38, "DRILL PECK"],
+			[47, "HI JUMP KICK"],
+			[60, "AGILITY"]
+		]
+	},
+	"SEEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[1, "HEADBUTT"],
+			[5, "WATER GUN"],
+			[9, "GROWL"],
+			[15, "ICY WIND"],
+			[21, "AURORA BEAM"],
+			[29, "REST"],
+			[37, "TAKE DOWN"],
+			[41, "ICE BEAM"],
+			[49, "SAFEGUARD"]
+		]
+	},
+	"DEWGONG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SIGNAL BEAM"],
+			[1, "HEADBUTT"],
+			[1, "WATER GUN"],
+			[1, "POWDER SNOW"],
+			[1, "AURORA BEAM"],
+			[9, "GROWL"],
+			[17, "ICY WIND"],
+			[21, "AURORA BEAM"],
+			[29, "REST"],
+			[34, "SHEER COLD"],
+			[42, "SLACK OFF"],
+			[51, "ICE BEAM"],
+			[64, "SAFEGUARD"]
+		]
+	},
+	"GRIMER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "POUND"],
+			[4, "HARDEN"],
+			[8, "DISABLE"],
+			[13, "SLUDGE"],
+			[19, "MINIMIZE"],
+			[26, "SCREECH"],
+			[34, "ACID ARMOR"],
+			[43, "SLUDGE BOMB"],
+			[53, "MEMENTO"]
+		]
+	},
+	"MUK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "CURSE"],
+			[1, "POUND"],
+			[4, "HARDEN"],
+			[8, "DISABLE"],
+			[13, "SLUDGE"],
+			[19, "MINIMIZE"],
+			[26, "SCREECH"],
+			[34, "ACID ARMOR"],
+			[41, "PAIN SPLIT"],
+			[47, "SLUDGE BOMB"],
+			[61, "MEMENTO"]
+		]
+	},
+	"SHELLDER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "WITHDRAW"],
+			[4, "WATER GUN"],
+			[8, "ICICLE SPEAR"],
+			[13, "SUPERSONIC"],
+			[18, "AURORA BEAM"],
+			[23, "CLAMP"],
+			[29, "PROTECT"],
+			[36, "IRON DEFENSE"],
+			[45, "ICE BEAM"]
+		]
+	},
+	"CLOYSTER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "IRON DEFENSE"],
+			[1, "ICY WIND"],
+			[1, "CLAMP"],
+			[1, "PROTECT"],
+			[36, "SPIKES"],
+			[43, "SPIKE CANNON"]
+		]
+	},
+	"GASTLY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HYPNOSIS"],
+			[1, "LICK"],
+			[8, "SPITE"],
+			[13, "CURSE"],
+			[16, "NIGHT SHADE"],
+			[21, "CONFUSE RAY"],
+			[28, "DREAM EATER"],
+			[33, "DESTINY BOND"],
+			[36, "SHADOW BALL"],
+			[41, "NIGHTMARE"],
+			[48, "MEAN LOOK"]
+		]
+	},
+	"HAUNTER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HYPNOSIS"],
+			[1, "LICK"],
+			[1, "SPITE"],
+			[8, "SPITE"],
+			[13, "CURSE"],
+			[16, "NIGHT SHADE"],
+			[21, "CONFUSE RAY"],
+			[25, "SHADOW PUNCH"],
+			[31, "DREAM EATER"],
+			[39, "DESTINY BOND"],
+			[45, "SHADOW BALL"],
+			[53, "NIGHTMARE"],
+			[64, "MEAN LOOK"]
+		]
+	},
+	"GENGAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HYPNOSIS"],
+			[1, "LICK"],
+			[1, "SPITE"],
+			[8, "SPITE"],
+			[13, "CURSE"],
+			[16, "NIGHT SHADE"],
+			[21, "CONFUSE RAY"],
+			[25, "SHADOW PUNCH"],
+			[31, "DREAM EATER"],
+			[39, "DESTINY BOND"],
+			[45, "SHADOW BALL"],
+			[53, "NIGHTMARE"],
+			[64, "MEAN LOOK"]
+		]
+	},
+	"ONIX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SCREECH"],
+			[8, "BIND"],
+			[12, "ROCK THROW"],
+			[19, "HARDEN"],
+			[23, "MUD SHOT"],
+			[30, "ROCK SLIDE"],
+			[34, "SANDSTORM"],
+			[41, "BODY SLAM"],
+			[45, "IRON TAIL"],
+			[52, "SAND TOMB"],
+			[56, "DOUBLE-EDGE"]
+		]
+	},
+	"DROWZEE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "HYPNOSIS"],
+			[5, "DISABLE"],
+			[9, "CONFUSION"],
+			[14, "FAINT ATTACK"],
+			[18, "HEADBUTT"],
+			[22, "POISON GAS"],
+			[27, "MEDITATE"],
+			[31, "PSYCHIC"],
+			[37, "FRUSTRATION"],
+			[43, "SWAGGER"]
+		]
+	},
+	"HYPNO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "NIGHTMARE"],
+			[1, "MEDITATE"],
+			[1, "POUND"],
+			[1, "HYPNOSIS"],
+			[1, "DISABLE"],
+			[1, "CONFUSION"],
+			[7, "DISABLE"],
+			[11, "FAINT ATTACK"],
+			[17, "HEADBUTT"],
+			[21, "POISON GAS"],
+			[29, "PSYBEAM"],
+			[35, "FRUSTRATION"],
+			[43, "PSYCHIC"],
+			[49, "SWAGGER"],
+			[57, "FUTURE SIGHT"]
+		]
+	},
+	"KRABBY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[5, "LEER"],
+			[12, "VICEGRIP"],
+			[16, "HARDEN"],
+			[23, "MUD SHOT"],
+			[27, "SLASH"],
+			[34, "GUILLOTINE"],
+			[38, "SWORDS DANCE"],
+			[45, "CRABHAMMER"],
+			[49, "FLAIL"]
+		]
+	},
+	"KINGLER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "METAL CLAW"],
+			[1, "BUBBLE"],
+			[1, "LEER"],
+			[1, "VICEGRIP"],
+			[1, "HARDEN"],
+			[5, "LEER"],
+			[12, "VICEGRIP"],
+			[16, "HARDEN"],
+			[23, "MUD SHOT"],
+			[27, "SLASH"],
+			[38, "GUILLOTINE"],
+			[42, "SWORDS DANCE"],
+			[57, "CRABHAMMER"],
+			[65, "FLAIL"]
+		]
+	},
+	"VOLTORB":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "THUNDER WAVE"],
+			[1, "CHARGE"],
+			[8, "PURSUIT"],
+			[15, "SONICBOOM"],
+			[21, "SPARK"],
+			[27, "SELFDESTRUCT"],
+			[32, "FAINT ATTACK"],
+			[37, "LIGHT SCREEN"],
+			[42, "THUNDERBOLT"],
+			[46, "EXPLOSION"],
+			[49, "MIRROR COAT"]
+		]
+	},
+	"ELECTRODE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CHARGE"],
+			[1, "TACKLE"],
+			[1, "SCREECH"],
+			[1, "SONICBOOM"],
+			[8, "SCREECH"],
+			[15, "SONICBOOM"],
+			[21, "SPARK"],
+			[27, "SELFDESTRUCT"],
+			[34, "FAINT ATTACK"],
+			[41, "LIGHT SCREEN"],
+			[48, "SWIFT"],
+			[54, "EXPLOSION"],
+			[59, "MIRROR COAT"]
+		]
+	},
+	"EXEGGCUTE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "UPROAR"],
+			[1, "HYPNOSIS"],
+			[1, "BARRAGE"],
+			[7, "REFLECT"],
+			[13, "LEECH SEED"],
+			[19, "CONFUSION"],
+			[25, "STUN SPORE"],
+			[31, "POISONPOWDER"],
+			[37, "SLEEP POWDER"],
+			[43, "SOLARBEAM"]
+		]
+	},
+	"EXEGGUTOR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BARRAGE"],
+			[1, "HYPNOSIS"],
+			[1, "CONFUSION"],
+			[1, "SYNTHESIS"],
+			[19, "STOMP"],
+			[31, "EGG BOMB"]
+		]
+	},
+	"CUBONE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[5, "TAIL WHIP"],
+			[9, "BONE CLUB"],
+			[13, "HEADBUTT"],
+			[17, "LEER"],
+			[21, "FOCUS ENERGY"],
+			[25, "BONEMERANG"],
+			[29, "RAGE"],
+			[33, "FALSE SWIPE"],
+			[37, "SWORDS DANCE"],
+			[41, "BONE RUSH"],
+			[45, "DOUBLE-EDGE"]
+		]
+	},
+	"MAROWAK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "TAIL WHIP"],
+			[1, "BONE CLUB"],
+			[1, "HEADBUTT"],
+			[5, "TAIL WHIP"],
+			[9, "BONE CLUB"],
+			[13, "HEADBUTT"],
+			[17, "LEER"],
+			[21, "FOCUS ENERGY"],
+			[25, "BONEMERANG"],
+			[32, "RAGE"],
+			[39, "FALSE SWIPE"],
+			[46, "SWORDS DANCE"],
+			[53, "BONE RUSH"],
+			[61, "DOUBLE-EDGE"]
+		]
+	},
+	"HITMONLEE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "REVENGE"],
+			[1, "DOUBLE KICK"],
+			[6, "MEDITATE"],
+			[11, "ROLLING KICK"],
+			[16, "JUMP KICK"],
+			[20, "BRICK BREAK"],
+			[21, "FAINT ATTACK"],
+			[26, "HI JUMP KICK"],
+			[31, "MIND READER"],
+			[36, "ENDURE"],
+			[41, "FRUSTRATION"],
+			[46, "MEGA KICK"],
+			[51, "REVERSAL"]
+		]
+	},
+	"HITMONCHAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERPUNCH"],
+			[1, "ICE PUNCH"],
+			[1, "FIRE PUNCH"],
+			[1, "COMET PUNCH"],
+			[5, "AGILITY"],
+			[10, "REVENGE"],
+			[20, "ROCK BLAST"],
+			[25, "MACH PUNCH"],
+			[32, "SKY UPPERCUT"],
+			[38, "ROCK SLIDE"],
+			[44, "DETECT"],
+			[50, "COUNTER"]
+		]
+	},
+	"LICKITUNG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "LICK"],
+			[1, "SUPERSONIC"],
+			[7, "DEFENSE CURL"],
+			[12, "STOMP"],
+			[23, "SWORDS DANCE"],
+			[23, "SWORDS DANCE"],
+			[29, "WISH"],
+			[33, "ROLLOUT"],
+			[34, "DISABLE"],
+			[40, "BODY SLAM"],
+			[45, "SCREECH"],
+			[51, "REFRESH"],
+			[59, "PROTECT"]
+		]
+	},
+	"KOFFING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "TACKLE"],
+			[9, "SMOG"],
+			[17, "SELFDESTRUCT"],
+			[21, "SLUDGE"],
+			[25, "SMOKESCREEN"],
+			[33, "HAZE"],
+			[41, "EXPLOSION"],
+			[45, "DESTINY BOND"],
+			[49, "MEMENTO"]
+		]
+	},
+	"WEEZING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "TACKLE"],
+			[1, "SMOG"],
+			[1, "SELFDESTRUCT"],
+			[9, "SMOG"],
+			[17, "SELFDESTRUCT"],
+			[21, "SLUDGE"],
+			[25, "SMOKESCREEN"],
+			[33, "HAZE"],
+			[44, "EXPLOSION"],
+			[51, "DESTINY BOND"],
+			[58, "MEMENTO"]
+		]
+	},
+	"RHYHORN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HORN ATTACK"],
+			[1, "TAIL WHIP"],
+			[10, "ROCK BLAST"],
+			[15, "SAND TOMB"],
+			[24, "SCARY FACE"],
+			[29, "MUD SHOT"],
+			[38, "ROCK SLIDE"],
+			[43, "HORN DRILL"],
+			[52, "EARTHQUAKE"],
+			[57, "MEGAHORN"]
+		]
+	},
+	"RHYDON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HORN ATTACK"],
+			[1, "TAIL WHIP"],
+			[1, "STOMP"],
+			[1, "FURY ATTACK"],
+			[10, "ROCK BLAST"],
+			[15, "SAND TOMB"],
+			[24, "SCARY FACE"],
+			[29, "MUD SHOT"],
+			[38, "HORN DRILL"],
+			[46, "TAKE DOWN"],
+			[58, "EARTHQUAKE"],
+			[66, "MEGAHORN"]
+		]
+	},
+	"CHANSEY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "GROWL"],
+			[5, "TAIL WHIP"],
+			[9, "REFRESH"],
+			[13, "DOUBLESLAP"],
+			[17, "DIZZY PUNCH"],
+			[23, "SWEET KISS"],
+			[29, "EGG BOMB"],
+			[35, "SOFTBOILED"],
+			[41, "DEFENSE CURL"],
+			[49, "LIGHT SCREEN"],
+			[57, "SING"]
+		]
+	},
+	"TANGELA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "INGRAIN"],
+			[1, "CONSTRICT"],
+			[4, "SLEEP POWDER"],
+			[10, "ABSORB"],
+			[13, "GROWTH"],
+			[19, "POISONPOWDER"],
+			[22, "RAZOR LEAF"],
+			[28, "WEATHER BALL"],
+			[31, "GIGA DRAIN"],
+			[37, "STUN SPORE"],
+			[40, "SLAM"],
+			[46, "TICKLE"]
+		]
+	},
+	"KANGASKHAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "COMET PUNCH"],
+			[1, "LEER"],
+			[7, "BITE"],
+			[13, "TAIL WHIP"],
+			[19, "FAKE OUT"],
+			[25, "MEGA PUNCH"],
+			[31, "RAGE"],
+			[37, "ENDURE"],
+			[43, "DIZZY PUNCH"],
+			[49, "REVERSAL"]
+		]
+	},
+	"HORSEA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[7, "SMOKESCREEN"],
+			[13, "WATER GUN"],
+			[19, "TWISTER"],
+			[25, "OCTAZOOKA"],
+			[31, "AGILITY"],
+			[37, "RAIN DANCE"],
+			[43, "HYDRO PUMP"],
+			[50, "DRAGON DANCE"]
+		]
+	},
+	"SEADRA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "WATER GUN"],
+			[7, "SMOKESCREEN"],
+			[13, "WATER GUN"],
+			[19, "TWISTER"],
+			[25, "OCTAZOOKA"],
+			[31, "AGILITY"],
+			[40, "RAIN DANCE"],
+			[49, "HYDRO PUMP"],
+			[62, "DRAGON DANCE"]
+		]
+	},
+	"GOLDEEN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TAIL WHIP"],
+			[1, "SUPERSONIC"],
+			[3, "WATER GUN"],
+			[6, "PECK"],
+			[10, "MUD-SLAP"],
+			[15, "HORN ATTACK"],
+			[20, "WHIRLPOOL"],
+			[24, "FLAIL"],
+			[29, "FURY ATTACK"],
+			[35, "WATERFALL"],
+			[43, "HORN DRILL"]
+		]
+	},
+	"SEAKING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "FLAIL"],
+			[1, "SUPERSONIC"],
+			[3, "WATER GUN"],
+			[6, "PECK"],
+			[10, "MUD-SLAP"],
+			[15, "HORN ATTACK"],
+			[20, "WHIRLPOOL"],
+			[24, "MUD SHOT"],
+			[29, "FLAIL"],
+			[34, "MUDDY WATER"],
+			[41, "EARTHQUAKE"],
+			[49, "HORN DRILL"],
+			[54, "MEGAHORN"]
+		]
+	},
+	"STARYU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "HARDEN"],
+			[6, "BUBBLE"],
+			[10, "RAPID SPIN"],
+			[15, "WATER GUN"],
+			[19, "CAMOUFLAGE"],
+			[24, "SWIFT"],
+			[28, "BUBBLEBEAM"],
+			[33, "LIGHT SCREEN"],
+			[37, "RECOVER"],
+			[42, "COSMIC POWER"],
+			[46, "HYDRO PUMP"]
+		]
+	},
+	"STARMIE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SWIFT"],
+			[1, "RAPID SPIN"],
+			[1, "PAIN SPLIT"],
+			[1, "BUBBLEBEAM"],
+			[33, "CONFUSE RAY"]
+		]
+	},
+	"MR. MIME":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BARRIER"],
+			[5, "CONFUSION"],
+			[9, "DOUBLESLAP"],
+			[13, "MEDITATE"],
+			[17, "PSYBEAM"],
+			[21, "LIGHT SCREEN"],
+			[21, "REFLECT"],
+			[25, "MAGICAL LEAF"],
+			[29, "SUBSTITUTE"],
+			[33, "ROLE PLAY"],
+			[37, "RECYCLE"],
+			[41, "ENCORE"],
+			[44, "PSYCHIC"],
+			[48, "BATON PASS"],
+			[52, "SAFEGUARD"],
+			[56, "TRICK"]
+		]
+	},
+	"SCYTHER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "QUICK ATTACK"],
+			[6, "FURY CUTTER"],
+			[11, "GUST"],
+			[16, "FALSE SWIPE"],
+			[21, "SILVER WIND"],
+			[26, "WING ATTACK"],
+			[31, "SLASH"],
+			[36, "SIGNAL BEAM"],
+			[41, "SWORDS DANCE"],
+			[46, "AGILITY"]
+		]
+	},
+	"JYNX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "LICK"],
+			[1, "LOVELY KISS"],
+			[1, "POWDER SNOW"],
+			[9, "LOVELY KISS"],
+			[13, "POWDER SNOW"],
+			[21, "DOUBLESLAP"],
+			[25, "ICE PUNCH"],
+			[35, "MEAN LOOK"],
+			[41, "FAKE TEARS"],
+			[51, "BODY SLAM"],
+			[57, "PERISH SONG"],
+			[67, "BLIZZARD"]
+		]
+	},
+	"ELECTABUZZ":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[1, "LEER"],
+			[1, "THUNDERPUNCH"],
+			[9, "SWIFT"],
+			[17, "LIGHT SCREEN"],
+			[25, "THUNDERPUNCH"],
+			[36, "CROSS CHOP"],
+			[47, "THUNDERBOLT"],
+			[58, "THUNDER"]
+		]
+	},
+	"MAGMAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[1, "LEER"],
+			[1, "SMOG"],
+			[1, "FIRE PUNCH"],
+			[7, "LEER"],
+			[13, "SMOG"],
+			[19, "FLAME WHEEL"],
+			[25, "FIRE PUNCH"],
+			[33, "SUNNY DAY"],
+			[41, "FLAMETHROWER"],
+			[49, "CONFUSE RAY"],
+			[57, "FIRE BLAST"]
+		]
+	},
+	"PINSIR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "VICEGRIP"],
+			[1, "FURY CUTTER"],
+			[7, "BIND"],
+			[13, "SEISMIC TOSS"],
+			[19, "HARDEN"],
+			[25, "SILVER WIND"],
+			[31, "REVENGE"],
+			[37, "GUILLOTINE"],
+			[43, "SUBMISSION"],
+			[49, "SWORDS DANCE"],
+			[55, "MEGAHORN"]
+		]
+	},
+	"TAUROS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[4, "RAGE"],
+			[8, "HORN ATTACK"],
+			[13, "SCARY FACE"],
+			[19, "PURSUIT"],
+			[26, "SWAGGER"],
+			[34, "REST"],
+			[43, "THRASH"],
+			[53, "TAKE DOWN"]
+		]
+	},
+	"MAGIKARP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[15, "TACKLE"],
+			[30, "FLAIL"]
+		]
+	},
+	"GYARADOS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THRASH"],
+			[20, "BITE"],
+			[25, "BUBBLEBEAM"],
+			[30, "LEER"],
+			[35, "TWISTER"],
+			[40, "HYDRO PUMP"],
+			[45, "RAIN DANCE"],
+			[50, "DRAGON DANCE"],
+			[55, "HYPER BEAM"]
+		]
+	},
+	"LAPRAS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "GROWL"],
+			[1, "SING"],
+			[7, "MIST"],
+			[13, "BODY SLAM"],
+			[19, "CONFUSE RAY"],
+			[25, "PERISH SONG"],
+			[31, "ICE BEAM"],
+			[37, "RAIN DANCE"],
+			[43, "SAFEGUARD"],
+			[49, "HYDRO PUMP"],
+			[55, "SHEER COLD"]
+		]
+	},
+	"DITTO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TRANSFORM"],
+			[1, "POUND"],
+			[10, "TRANSFORM"],
+			[20, "TRANSFORM"],
+			[25, "RECOVER"],
+			[30, "TRANSFORM"],
+			[40, "TRANSFORM"],
+			[50, "TRANSFORM"],
+			[60, "TRANSFORM"],
+			[70, "TRANSFORM"],
+			[100, "TRANSFORM"]
+		]
+	},
+	"EEVEE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "HELPING HAND"],
+			[8, "SAND-ATTACK"],
+			[16, "GROWTH"],
+			[23, "QUICK ATTACK"],
+			[30, "BITE"],
+			[36, "BATON PASS"],
+			[42, "TAKE DOWN"]
+		]
+	},
+	"VAPOREON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "WATER GUN"],
+			[26, "BUBBLEBEAM"],
+			[30, "BITE"],
+			[36, "AURORA BEAM"],
+			[42, "HAZE"],
+			[47, "ACID ARMOR"],
+			[52, "HYDRO PUMP"]
+		]
+	},
+	"JOLTEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "THUNDERSHOCK"],
+			[26, "SPARK"],
+			[30, "DOUBLE KICK"],
+			[36, "PIN MISSILE"],
+			[42, "THUNDER WAVE"],
+			[47, "AGILITY"],
+			[52, "THUNDER"]
+		]
+	},
+	"FLAREON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "EMBER"],
+			[26, "FLAME WHEEL"],
+			[30, "BITE"],
+			[36, "FIRE SPIN"],
+			[42, "SMOG"],
+			[47, "LEER"],
+			[52, "FLAMETHROWER"]
+		]
+	},
+	"PORYGON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONVERSION 2"],
+			[1, "TACKLE"],
+			[1, "CONVERSION"],
+			[9, "AGILITY"],
+			[12, "PSYBEAM"],
+			[20, "RECOVER"],
+			[24, "SHARPEN"],
+			[32, "LOCK-ON"],
+			[36, "TRI ATTACK"],
+			[44, "RECYCLE"],
+			[48, "ZAP CANNON"]
+		]
+	},
+	"OMANYTE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "WITHDRAW"],
+			[7, "BITE"],
+			[13, "ROCK BLAST"],
+			[19, "WHIRLPOOL"],
+			[25, "MUD SHOT"],
+			[31, "PROTECT"],
+			[37, "RECOVER"],
+			[43, "TICKLE"],
+			[49, "ANCIENTPOWER"],
+			[55, "HYDRO PUMP"],
+			[61, "ROCK SLIDE"]
+		]
+	},
+	"OMASTAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONSTRICT"],
+			[1, "WITHDRAW"],
+			[1, "BITE"],
+			[1, "WATER GUN"],
+			[13, "ROCK BLAST"],
+			[19, "WHIRLPOOL"],
+			[25, "MUD SHOT"],
+			[31, "PROTECT"],
+			[37, "RECOVER"],
+			[40, "TICKLE"],
+			[46, "ANCIENTPOWER"],
+			[55, "HYDRO PUMP"],
+			[65, "ROCK SLIDE"]
+		]
+	},
+	"KABUTO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HARDEN"],
+			[1, "SCRATCH"],
+			[1, "ABSORB"],
+			[7, "ROCK THROW"],
+			[13, "WATER GUN"],
+			[19, "ANCIENTPOWER"],
+			[25, "MUD SHOT"],
+			[31, "BUBBLEBEAM"],
+			[37, "ROCK SLIDE"],
+			[43, "ENDURE"],
+			[49, "METAL SOUND"],
+			[55, "MUDDY WATER"]
+		]
+	},
+	"KABUTOPS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "FURY CUTTER"],
+			[1, "HARDEN"],
+			[1, "SCRATCH"],
+			[7, "ROCK THROW"],
+			[13, "WATER GUN"],
+			[19, "ANCIENTPOWER"],
+			[25, "MUD SHOT"],
+			[31, "BUBBLEBEAM"],
+			[38, "ROCK SLIDE"],
+			[45, "ENDURE"],
+			[41, "SWORDS DANCE"],
+			[55, "MUDDY WATER"],
+			[65, "EARTHQUAKE"],
+			[73, "AGILITY"]
+		]
+	},
+	"AERODACTYL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WING ATTACK"],
+			[8, "AGILITY"],
+			[15, "BITE"],
+			[23, "SUPERSONIC"],
+			[30, "ANCIENTPOWER"],
+			[37, "DRILL PECK"],
+			[44, "ROCK SLIDE"],
+			[51, "HYPER BEAM"]
+		]
+	},
+	"SNORLAX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "AMNESIA"],
+			[9, "DEFENSE CURL"],
+			[13, "BELLY DRUM"],
+			[17, "HEADBUTT"],
+			[21, "YAWN"],
+			[25, "REST"],
+			[29, "SNORE"],
+			[33, "BODY SLAM"],
+			[37, "SLEEP TALK"],
+			[41, "BLOCK"],
+			[45, "COVET"],
+			[49, "ROLLOUT"],
+			[53, "HYPER BEAM"]
+		]
+	},
+	"ARTICUNO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[1, "WING ATTACK"],
+			[13, "MIST"],
+			[25, "AGILITY"],
+			[37, "ICE BEAM"],
+			[49, "MIND READER"],
+			[61, "REFLECT"],
+			[73, "BLIZZARD"],
+			[85, "SHEER COLD"]
+		]
+	},
+	"ZAPDOS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "SHOCK WAVE"],
+			[13, "THUNDER WAVE"],
+			[25, "AGILITY"],
+			[37, "DRILL PECK"],
+			[49, "DETECT"],
+			[61, "CHARGE"],
+			[73, "LIGHT SCREEN"],
+			[85, "THUNDER"]
+		]
+	},
+	"MOLTRES":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[1, "WING ATTACK"],
+			[13, "FIRE SPIN"],
+			[25, "AGILITY"],
+			[37, "FLAMETHROWER"],
+			[49, "ENDURE"],
+			[61, "SAFEGUARD"],
+			[73, "HEAT WAVE"],
+			[85, "SKY ATTACK"]
+		]
+	},
+	"DRATINI":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[1, "LEER"],
+			[1, "TWISTER"],
+			[8, "THUNDER WAVE"],
+			[15, "DRAGON RAGE"],
+			[22, "DRAGONBREATH"],
+			[29, "SLAM"],
+			[36, "AGILITY"],
+			[43, "SAFEGUARD"],
+			[50, "OUTRAGE"]
+		]
+	},
+	"DRAGONAIR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[1, "LEER"],
+			[1, "THUNDER WAVE"],
+			[1, "TWISTER"],
+			[8, "THUNDER WAVE"],
+			[15, "DRAGON RAGE"],
+			[22, "DRAGONBREATH"],
+			[29, "SLAM"],
+			[38, "AGILITY"],
+			[47, "SAFEGUARD"],
+			[56, "OUTRAGE"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"DRAGONITE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[1, "LEER"],
+			[1, "THUNDER WAVE"],
+			[1, "TWISTER"],
+			[8, "THUNDER WAVE"],
+			[15, "TWISTER"],
+			[22, "DRAGON RAGE"],
+			[29, "SLAM"],
+			[38, "AGILITY"],
+			[47, "SAFEGUARD"],
+			[55, "WING ATTACK"],
+			[61, "OUTRAGE"],
+			[75, "HYPER BEAM"]
+		]
+	},
+	"MEWTWO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONFUSION"],
+			[1, "DISABLE"],
+			[11, "BARRIER"],
+			[22, "MIST"],
+			[33, "SWIFT"],
+			[44, "RECOVER"],
+			[55, "SAFEGUARD"],
+			[66, "PSYCHIC"],
+			[77, "PSYCH UP"],
+			[88, "FUTURE SIGHT"],
+			[99, "AMNESIA"]
+		]
+	},
+	"MEW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[10, "TRANSFORM"],
+			[20, "MEGA PUNCH"],
+			[30, "METRONOME"],
+			[40, "PSYCHIC"],
+			[50, "ANCIENTPOWER"]
+		]
+	},
+	"CHIKORITA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[8, "RAZOR LEAF"],
+			[12, "REFLECT"],
+			[15, "POISONPOWDER"],
+			[22, "SYNTHESIS"],
+			[29, "BODY SLAM"],
+			[36, "LIGHT SCREEN"],
+			[43, "SAFEGUARD"],
+			[50, "SOLARBEAM"]
+		]
+	},
+	"BAYLEEF":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "RAZOR LEAF"],
+			[1, "REFLECT"],
+			[8, "RAZOR LEAF"],
+			[12, "REFLECT"],
+			[15, "POISONPOWDER"],
+			[23, "SYNTHESIS"],
+			[31, "BODY SLAM"],
+			[39, "LIGHT SCREEN"],
+			[47, "SAFEGUARD"],
+			[55, "SOLARBEAM"]
+		]
+	},
+	"MEGANIUM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "RAZOR LEAF"],
+			[1, "REFLECT"],
+			[8, "RAZOR LEAF"],
+			[12, "REFLECT"],
+			[15, "POISONPOWDER"],
+			[23, "SYNTHESIS"],
+			[31, "BODY SLAM"],
+			[41, "LIGHT SCREEN"],
+			[51, "SAFEGUARD"],
+			[61, "SOLARBEAM"]
+		]
+	},
+	"CYNDAQUIL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "LEER"],
+			[6, "SMOKESCREEN"],
+			[12, "EMBER"],
+			[19, "QUICK ATTACK"],
+			[27, "FLAME WHEEL"],
+			[36, "SWIFT"],
+			[46, "FLAMETHROWER"]
+		]
+	},
+	"QUILAVA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "LEER"],
+			[1, "SMOKESCREEN"],
+			[6, "SMOKESCREEN"],
+			[12, "EMBER"],
+			[21, "QUICK ATTACK"],
+			[31, "FLAME WHEEL"],
+			[42, "SWIFT"],
+			[54, "FLAMETHROWER"]
+		]
+	},
+	"TYPHLOSION":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "LEER"],
+			[1, "SMOKESCREEN"],
+			[1, "EMBER"],
+			[6, "SMOKESCREEN"],
+			[12, "EMBER"],
+			[21, "QUICK ATTACK"],
+			[31, "FLAME WHEEL"],
+			[45, "SWIFT"],
+			[60, "FLAMETHROWER"]
+		]
+	},
+	"TOTODILE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[7, "RAGE"],
+			[13, "WATER GUN"],
+			[20, "BITE"],
+			[27, "SCARY FACE"],
+			[35, "SLASH"],
+			[43, "SCREECH"],
+			[52, "HYDRO PUMP"]
+		]
+	},
+	"CROCONAW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[1, "RAGE"],
+			[7, "RAGE"],
+			[13, "WATER GUN"],
+			[21, "BITE"],
+			[28, "SCARY FACE"],
+			[37, "SLASH"],
+			[45, "SCREECH"],
+			[55, "HYDRO PUMP"]
+		]
+	},
+	"FERALIGATR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[1, "RAGE"],
+			[1, "WATER GUN"],
+			[7, "RAGE"],
+			[13, "WATER GUN"],
+			[21, "BITE"],
+			[28, "SCARY FACE"],
+			[38, "SLASH"],
+			[47, "SCREECH"],
+			[58, "HYDRO PUMP"]
+		]
+	},
+	"SENTRET":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[4, "DEFENSE CURL"],
+			[7, "QUICK ATTACK"],
+			[12, "FURY SWIPES"],
+			[17, "HELPING HAND"],
+			[24, "SLAM"],
+			[31, "FOLLOW ME"],
+			[40, "REST"],
+			[49, "AMNESIA"]
+		]
+	},
+	"FURRET":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "DEFENSE CURL"],
+			[1, "QUICK ATTACK"],
+			[4, "DEFENSE CURL"],
+			[7, "QUICK ATTACK"],
+			[12, "FURY SWIPES"],
+			[19, "HELPING HAND"],
+			[28, "SLAM"],
+			[37, "FOLLOW ME"],
+			[48, "REST"],
+			[59, "AMNESIA"]
+		]
+	},
+	"HOOTHOOT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[6, "FORESIGHT"],
+			[11, "PECK"],
+			[16, "HYPNOSIS"],
+			[22, "REFLECT"],
+			[28, "TAKE DOWN"],
+			[34, "CONFUSION"],
+			[48, "DREAM EATER"]
+		]
+	},
+	"NOCTOWL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "FORESIGHT"],
+			[1, "PECK"],
+			[6, "FORESIGHT"],
+			[11, "PECK"],
+			[16, "HYPNOSIS"],
+			[25, "REFLECT"],
+			[33, "TAKE DOWN"],
+			[41, "CONFUSION"],
+			[57, "DREAM EATER"]
+		]
+	},
+	"LEDYBA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[8, "SUPERSONIC"],
+			[15, "COMET PUNCH"],
+			[22, "LIGHT SCREEN"],
+			[22, "REFLECT"],
+			[22, "SAFEGUARD"],
+			[29, "BATON PASS"],
+			[36, "SWIFT"],
+			[43, "AGILITY"],
+			[50, "DOUBLE-EDGE"]
+		]
+	},
+	"LEDIAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SUPERSONIC"],
+			[8, "SUPERSONIC"],
+			[15, "COMET PUNCH"],
+			[24, "LIGHT SCREEN"],
+			[24, "REFLECT"],
+			[24, "SAFEGUARD"],
+			[33, "BATON PASS"],
+			[42, "SWIFT"],
+			[51, "AGILITY"],
+			[60, "DOUBLE-EDGE"]
+		]
+	},
+	"SPINARAK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[1, "STRING SHOT"],
+			[6, "SCARY FACE"],
+			[11, "CONSTRICT"],
+			[17, "NIGHT SHADE"],
+			[23, "LEECH LIFE"],
+			[30, "FURY SWIPES"],
+			[37, "SPIDER WEB"],
+			[45, "AGILITY"],
+			[53, "PSYCHIC"]
+		]
+	},
+	"ARIADOS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[1, "STRING SHOT"],
+			[1, "SCARY FACE"],
+			[1, "CONSTRICT"],
+			[6, "SCARY FACE"],
+			[11, "CONSTRICT"],
+			[17, "NIGHT SHADE"],
+			[25, "LEECH LIFE"],
+			[34, "FURY SWIPES"],
+			[43, "SPIDER WEB"],
+			[53, "AGILITY"],
+			[63, "PSYCHIC"]
+		]
+	},
+	"CROBAT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCREECH"],
+			[1, "LEECH LIFE"],
+			[1, "ASTONISH"],
+			[1, "SUPERSONIC"],
+			[6, "ASTONISH"],
+			[11, "SUPERSONIC"],
+			[16, "BITE"],
+			[21, "WING ATTACK"],
+			[28, "CONFUSE RAY"],
+			[35, "POISON FANG"],
+			[42, "MEAN LOOK"],
+			[49, "TOXIC"],
+			[56, "HAZE"]
+		]
+	},
+	"CHINCHOU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "THUNDER WAVE"],
+			[5, "SUPERSONIC"],
+			[13, "FLAIL"],
+			[17, "WATER GUN"],
+			[25, "SPARK"],
+			[29, "CONFUSE RAY"],
+			[37, "TAKE DOWN"],
+			[41, "HYDRO PUMP"],
+			[49, "CHARGE"]
+		]
+	},
+	"LANTURN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "THUNDER WAVE"],
+			[1, "SUPERSONIC"],
+			[5, "SUPERSONIC"],
+			[13, "FLAIL"],
+			[17, "WATER GUN"],
+			[25, "SPARK"],
+			[32, "CONFUSE RAY"],
+			[43, "TAKE DOWN"],
+			[50, "HYDRO PUMP"],
+			[61, "CHARGE"]
+		]
+	},
+	"PICHU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERSHOCK"],
+			[1, "CHARM"],
+			[6, "TAIL WHIP"],
+			[8, "THUNDER WAVE"],
+			[11, "SWEET KISS"]
+		]
+	},
+	"CLEFFA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "CHARM"],
+			[4, "ENCORE"],
+			[8, "SING"],
+			[13, "SWEET KISS"],
+			[17, "MAGICAL LEAF"]
+		]
+	},
+	"IGGLYBUFF":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SING"],
+			[1, "CHARM"],
+			[4, "DEFENSE CURL"],
+			[9, "POUND"],
+			[14, "SWEET KISS"]
+		]
+	},
+	"TOGEPI":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "CHARM"],
+			[4, "METRONOME"],
+			[9, "SWEET KISS"],
+			[13, "YAWN"],
+			[17, "ENCORE"],
+			[21, "ANCIENTPOWER"],
+			[25, "FOLLOW ME"],
+			[29, "WISH"],
+			[33, "SAFEGUARD"],
+			[37, "DOUBLE-EDGE"],
+			[41, "BATON PASS"]
+		]
+	},
+	"TOGETIC":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MAGICAL LEAF"],
+			[1, "GROWL"],
+			[1, "CHARM"],
+			[1, "METRONOME"],
+			[1, "SWEET KISS"],
+			[4, "METRONOME"],
+			[9, "SWEET KISS"],
+			[13, "YAWN"],
+			[17, "ENCORE"],
+			[21, "ANCIENTPOWER"],
+			[25, "FOLLOW ME"],
+			[29, "WISH"],
+			[33, "SAFEGUARD"],
+			[37, "DOUBLE-EDGE"],
+			[41, "BATON PASS"]
+		]
+	},
+	"NATU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "LEER"],
+			[10, "NIGHT SHADE"],
+			[20, "TELEPORT"],
+			[30, "WISH"],
+			[30, "FUTURE SIGHT"],
+			[40, "CONFUSE RAY"],
+			[50, "PSYCHIC"]
+		]
+	},
+	"XATU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "LEER"],
+			[10, "NIGHT SHADE"],
+			[20, "TELEPORT"],
+			[35, "WISH"],
+			[35, "FUTURE SIGHT"],
+			[50, "CONFUSE RAY"],
+			[65, "PSYCHIC"]
+		]
+	},
+	"MAREEP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[9, "THUNDERSHOCK"],
+			[16, "THUNDER WAVE"],
+			[23, "COTTON SPORE"],
+			[30, "LIGHT SCREEN"],
+			[37, "THUNDER"]
+		]
+	},
+	"FLAAFFY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "THUNDERSHOCK"],
+			[9, "THUNDERSHOCK"],
+			[18, "THUNDER WAVE"],
+			[27, "COTTON SPORE"],
+			[36, "LIGHT SCREEN"],
+			[45, "THUNDER"]
+		]
+	},
+	"AMPHAROS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "THUNDERSHOCK"],
+			[1, "THUNDER WAVE"],
+			[9, "THUNDERSHOCK"],
+			[18, "THUNDER WAVE"],
+			[27, "COTTON SPORE"],
+			[30, "THUNDERPUNCH"],
+			[42, "LIGHT SCREEN"],
+			[57, "THUNDER"]
+		]
+	},
+	"BELLOSSOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[1, "SWEET SCENT"],
+			[1, "STUN SPORE"],
+			[1, "MAGICAL LEAF"],
+			[44, "PETAL DANCE"],
+			[55, "SOLARBEAM"]
+		]
+	},
+	"MARILL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[3, "DEFENSE CURL"],
+			[6, "TAIL WHIP"],
+			[10, "WATER GUN"],
+			[15, "ROLLOUT"],
+			[21, "BUBBLEBEAM"],
+			[28, "DOUBLE-EDGE"],
+			[36, "RAIN DANCE"],
+			[45, "HYDRO PUMP"]
+		]
+	},
+	"AZUMARILL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[1, "TAIL WHIP"],
+			[1, "WATER GUN"],
+			[3, "DEFENSE CURL"],
+			[6, "TAIL WHIP"],
+			[10, "WATER GUN"],
+			[15, "ROLLOUT"],
+			[24, "BUBBLEBEAM"],
+			[34, "DOUBLE-EDGE"],
+			[45, "RAIN DANCE"],
+			[57, "HYDRO PUMP"]
+		]
+	},
+	"SUDOWOODO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ROCK THROW"],
+			[1, "MIMIC"],
+			[9, "FLAIL"],
+			[17, "LOW KICK"],
+			[25, "ROCK SLIDE"],
+			[33, "BLOCK"],
+			[41, "FAINT ATTACK"],
+			[49, "SLAM"],
+			[57, "DOUBLE-EDGE"]
+		]
+	},
+	"POLITOED":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "HYPNOSIS"],
+			[1, "DOUBLESLAP"],
+			[1, "WHIRLPOOL"],
+			[35, "PERISH SONG"],
+			[51, "SWAGGER"]
+		]
+	},
+	"HOPPIP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[5, "SYNTHESIS"],
+			[5, "TAIL WHIP"],
+			[10, "TACKLE"],
+			[13, "POISONPOWDER"],
+			[15, "STUN SPORE"],
+			[17, "SLEEP POWDER"],
+			[20, "LEECH SEED"],
+			[25, "COTTON SPORE"],
+			[30, "MEGA DRAIN"]
+		]
+	},
+	"SKIPLOOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[1, "SYNTHESIS"],
+			[1, "TAIL WHIP"],
+			[1, "TACKLE"],
+			[5, "SYNTHESIS"],
+			[5, "TAIL WHIP"],
+			[10, "TACKLE"],
+			[13, "POISONPOWDER"],
+			[15, "STUN SPORE"],
+			[17, "SLEEP POWDER"],
+			[22, "LEECH SEED"],
+			[29, "COTTON SPORE"],
+			[36, "MEGA DRAIN"]
+		]
+	},
+	"JUMPLUFF":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[1, "SYNTHESIS"],
+			[1, "TAIL WHIP"],
+			[1, "TACKLE"],
+			[5, "SYNTHESIS"],
+			[5, "TAIL WHIP"],
+			[10, "TACKLE"],
+			[13, "POISONPOWDER"],
+			[15, "STUN SPORE"],
+			[17, "SLEEP POWDER"],
+			[22, "LEECH SEED"],
+			[33, "COTTON SPORE"],
+			[44, "MEGA DRAIN"]
+		]
+	},
+	"AIPOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "TAIL WHIP"],
+			[6, "SAND-ATTACK"],
+			[13, "ASTONISH"],
+			[18, "BATON PASS"],
+			[25, "TICKLE"],
+			[31, "FURY SWIPES"],
+			[38, "SWIFT"],
+			[43, "SCREECH"],
+			[50, "AGILITY"]
+		]
+	},
+	"SUNKERN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[6, "GROWTH"],
+			[13, "MEGA DRAIN"],
+			[18, "INGRAIN"],
+			[25, "ENDEAVOR"],
+			[30, "SUNNY DAY"],
+			[37, "SYNTHESIS"],
+			[42, "GIGA DRAIN"]
+		]
+	},
+	"SUNFLORA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[1, "POUND"],
+			[6, "GROWTH"],
+			[13, "RAZOR LEAF"],
+			[18, "INGRAIN"],
+			[25, "BULLET SEED"],
+			[30, "SUNNY DAY"],
+			[37, "PETAL DANCE"],
+			[42, "SOLARBEAM"]
+		]
+	},
+	"YANMA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "FORESIGHT"],
+			[6, "QUICK ATTACK"],
+			[12, "DOUBLE TEAM"],
+			[17, "SONICBOOM"],
+			[23, "HYPNOSIS"],
+			[28, "DETECT"],
+			[34, "UPROAR"],
+			[39, "WING ATTACK"],
+			[45, "SUPERSONIC"],
+			[50, "SCREECH"]
+		]
+	},
+	"WOOPER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "TAIL WHIP"],
+			[11, "SLAM"],
+			[16, "MUD SHOT"],
+			[21, "AMNESIA"],
+			[31, "YAWN"],
+			[36, "EARTHQUAKE"],
+			[41, "RAIN DANCE"],
+			[51, "MIST"],
+			[51, "HAZE"]
+		]
+	},
+	"QUAGSIRE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[1, "TAIL WHIP"],
+			[11, "SLAM"],
+			[16, "MUD SHOT"],
+			[23, "AMNESIA"],
+			[35, "YAWN"],
+			[42, "EARTHQUAKE"],
+			[49, "RAIN DANCE"],
+			[61, "MIST"],
+			[61, "HAZE"]
+		]
+	},
+	"ESPEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "CONFUSION"],
+			[26, "PSYBEAM"],
+			[30, "SWIFT"],
+			[36, "FUTURE SIGHT"],
+			[42, "PSYCHIC"],
+			[47, "MORNING SUN"],
+			[52, "PSYCH UP"]
+		]
+	},
+	"UMBREON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "PURSUIT"],
+			[26, "FAINT ATTACK"],
+			[30, "CONFUSE RAY"],
+			[36, "MOONLIGHT"],
+			[42, "MEAN LOOK"],
+			[47, "CHARM"],
+			[52, "SCREECH"]
+		]
+	},
+	"MURKROW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[9, "ASTONISH"],
+			[14, "PURSUIT"],
+			[22, "HAZE"],
+			[27, "NIGHT SHADE"],
+			[35, "FAINT ATTACK"],
+			[40, "TAUNT"],
+			[48, "MEAN LOOK"]
+		]
+	},
+	"SLOWKING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CURSE"],
+			[1, "YAWN"],
+			[1, "TACKLE"],
+			[6, "GROWL"],
+			[13, "WATER GUN"],
+			[17, "CONFUSION"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "SWAGGER"],
+			[40, "PSYCHIC"],
+			[47, "PSYCH UP"]
+		]
+	},
+	"MISDREAVUS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "PSYWAVE"],
+			[6, "SPITE"],
+			[11, "ASTONISH"],
+			[17, "CONFUSE RAY"],
+			[23, "MEAN LOOK"],
+			[30, "PSYBEAM"],
+			[37, "PAIN SPLIT"],
+			[45, "PERISH SONG"],
+			[53, "GRUDGE"]
+		]
+	},
+	"UNOWN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HIDDEN POWER"]
+		]
+	},
+	"WOBBUFFET":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "COUNTER"],
+			[1, "MIRROR COAT"],
+			[1, "SAFEGUARD"],
+			[1, "DESTINY BOND"]
+		]
+	},
+	"GIRAFARIG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[7, "ASTONISH"],
+			[13, "CONFUSION"],
+			[19, "STOMP"],
+			[25, "ODOR SLEUTH"],
+			[31, "AGILITY"],
+			[37, "BATON PASS"],
+			[43, "PSYBEAM"],
+			[49, "CRUNCH"]
+		]
+	},
+	"PINECO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "PROTECT"],
+			[8, "SELFDESTRUCT"],
+			[15, "TAKE DOWN"],
+			[22, "RAPID SPIN"],
+			[29, "BIDE"],
+			[36, "EXPLOSION"],
+			[43, "SPIKES"],
+			[50, "DOUBLE-EDGE"]
+		]
+	},
+	"FORRETRESS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "PROTECT"],
+			[1, "SELFDESTRUCT"],
+			[8, "SELFDESTRUCT"],
+			[15, "TAKE DOWN"],
+			[22, "RAPID SPIN"],
+			[29, "BIDE"],
+			[31, "ZAP CANNON"],
+			[39, "EXPLOSION"],
+			[49, "SPIKES"],
+			[59, "DOUBLE-EDGE"]
+		]
+	},
+	"DUNSPARCE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "RAGE"],
+			[4, "DEFENSE CURL"],
+			[11, "YAWN"],
+			[14, "GLARE"],
+			[21, "ROLLOUT"],
+			[24, "SPITE"],
+			[31, "PURSUIT"],
+			[34, "SCREECH"],
+			[41, "TAKE DOWN"],
+			[44, "FLAIL"],
+			[51, "ENDEAVOR"]
+		]
+	},
+	"GLIGAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON STING"],
+			[6, "SAND-ATTACK"],
+			[13, "HARDEN"],
+			[20, "QUICK ATTACK"],
+			[28, "FAINT ATTACK"],
+			[36, "SLASH"],
+			[44, "SCREECH"],
+			[52, "GUILLOTINE"]
+		]
+	},
+	"STEELIX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SCREECH"],
+			[8, "BIND"],
+			[12, "ROCK THROW"],
+			[19, "HARDEN"],
+			[23, "MUD SHOT"],
+			[30, "DRAGONBREATH"],
+			[34, "SANDSTORM"],
+			[41, "SLAM"],
+			[45, "IRON TAIL"],
+			[52, "CRUNCH"],
+			[56, "DOUBLE-EDGE"]
+		]
+	},
+	"SNUBBULL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SCARY FACE"],
+			[4, "TAIL WHIP"],
+			[8, "CHARM"],
+			[13, "BITE"],
+			[19, "LICK"],
+			[26, "ROAR"],
+			[34, "RAGE"],
+			[43, "TAKE DOWN"],
+			[53, "CRUNCH"]
+		]
+	},
+	"GRANBULL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "SCARY FACE"],
+			[4, "TAIL WHIP"],
+			[8, "CHARM"],
+			[13, "BITE"],
+			[19, "LICK"],
+			[28, "ROAR"],
+			[38, "RAGE"],
+			[49, "TAKE DOWN"],
+			[61, "CRUNCH"]
+		]
+	},
+	"QWILFISH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPIKES"],
+			[1, "TACKLE"],
+			[1, "POISON STING"],
+			[9, "HARDEN"],
+			[9, "MINIMIZE"],
+			[13, "WATER GUN"],
+			[21, "PIN MISSILE"],
+			[25, "REVENGE"],
+			[33, "TAKE DOWN"],
+			[37, "HYDRO PUMP"],
+			[45, "DESTINY BOND"]
+		]
+	},
+	"SCIZOR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "QUICK ATTACK"],
+			[6, "FURY CUTTER"],
+			[11, "CUT"],
+			[16, "FALSE SWIPE"],
+			[21, "SILVER WIND"],
+			[26, "WING ATTACK"],
+			[31, "SLASH"],
+			[36, "SIGNAL BEAM"],
+			[41, "SWORDS DANCE"],
+			[46, "AGILITY"]
+		]
+	},
+	"SHUCKLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONSTRICT"],
+			[1, "WITHDRAW"],
+			[9, "WRAP"],
+			[14, "ENCORE"],
+			[23, "SAFEGUARD"],
+			[28, "BIDE"],
+			[37, "REST"]
+		]
+	},
+	"HERACROSS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "LEER"],
+			[6, "HORN ATTACK"],
+			[11, "ENDURE"],
+			[17, "FURY ATTACK"],
+			[23, "BRICK BREAK"],
+			[30, "COUNTER"],
+			[37, "TAKE DOWN"],
+			[45, "REVERSAL"],
+			[53, "MEGAHORN"]
+		]
+	},
+	"SNEASEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[1, "TAUNT"],
+			[8, "QUICK ATTACK"],
+			[15, "SCREECH"],
+			[22, "FAINT ATTACK"],
+			[29, "FURY SWIPES"],
+			[36, "AGILITY"],
+			[43, "ICY WIND"],
+			[50, "SLASH"],
+			[57, "BEAT UP"],
+			[64, "METAL CLAW"]
+		]
+	},
+	"TEDDIURSA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[7, "LICK"],
+			[13, "FURY SWIPES"],
+			[19, "FAKE TEARS"],
+			[25, "FAINT ATTACK"],
+			[31, "REST"],
+			[37, "SLASH"],
+			[43, "SNORE"],
+			[49, "THRASH"]
+		]
+	},
+	"URSARING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "LEER"],
+			[1, "LICK"],
+			[1, "FURY SWIPES"],
+			[7, "LICK"],
+			[13, "FURY SWIPES"],
+			[19, "FAKE TEARS"],
+			[25, "FAINT ATTACK"],
+			[31, "REST"],
+			[37, "SLASH"],
+			[43, "SNORE"],
+			[49, "THRASH"]
+		]
+	},
+	"SLUGMA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "YAWN"],
+			[1, "SMOG"],
+			[8, "EMBER"],
+			[15, "ROCK THROW"],
+			[22, "HARDEN"],
+			[29, "AMNESIA"],
+			[36, "FLAMETHROWER"],
+			[43, "ROCK SLIDE"],
+			[50, "BODY SLAM"]
+		]
+	},
+	"MAGCARGO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "YAWN"],
+			[1, "SMOG"],
+			[1, "EMBER"],
+			[1, "ROCK THROW"],
+			[8, "EMBER"],
+			[15, "ROCK THROW"],
+			[22, "HARDEN"],
+			[29, "AMNESIA"],
+			[36, "FLAMETHROWER"],
+			[48, "ROCK SLIDE"],
+			[60, "BODY SLAM"]
+		]
+	},
+	"SWINUB":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "ODOR SLEUTH"],
+			[10, "POWDER SNOW"],
+			[19, "ENDURE"],
+			[28, "TAKE DOWN"],
+			[37, "MIST"],
+			[46, "BLIZZARD"],
+			[55, "AMNESIA"]
+		]
+	},
+	"PILOSWINE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HORN ATTACK"],
+			[1, "ODOR SLEUTH"],
+			[1, "POWDER SNOW"],
+			[1, "ENDURE"],
+			[10, "POWDER SNOW"],
+			[19, "ENDURE"],
+			[28, "TAKE DOWN"],
+			[33, "FURY ATTACK"],
+			[42, "MIST"],
+			[56, "BLIZZARD"],
+			[70, "AMNESIA"]
+		]
+	},
+	"CORSOLA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[6, "HARDEN"],
+			[12, "BUBBLE"],
+			[17, "RECOVER"],
+			[17, "REFRESH"],
+			[23, "BUBBLEBEAM"],
+			[28, "SPIKE CANNON"],
+			[34, "ROCK BLAST"],
+			[39, "MIRROR COAT"],
+			[45, "ANCIENTPOWER"]
+		]
+	},
+	"REMORAID":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[11, "LOCK-ON"],
+			[22, "PSYBEAM"],
+			[22, "AURORA BEAM"],
+			[22, "BUBBLEBEAM"],
+			[33, "FOCUS ENERGY"],
+			[44, "ICE BEAM"],
+			[55, "HYPER BEAM"]
+		]
+	},
+	"OCTILLERY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[11, "CONSTRICT"],
+			[22, "PSYBEAM"],
+			[22, "AURORA BEAM"],
+			[22, "BUBBLEBEAM"],
+			[25, "OCTAZOOKA"],
+			[38, "FOCUS ENERGY"],
+			[54, "ICE BEAM"],
+			[70, "HYPER BEAM"]
+		]
+	},
+	"DELIBIRD":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PRESENT"]
+		]
+	},
+	"MANTINE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "BUBBLE"],
+			[8, "SUPERSONIC"],
+			[15, "BUBBLEBEAM"],
+			[22, "TAKE DOWN"],
+			[29, "AGILITY"],
+			[36, "WING ATTACK"],
+			[43, "WATER PULSE"],
+			[50, "CONFUSE RAY"]
+		]
+	},
+	"SKARMORY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "PECK"],
+			[10, "SAND-ATTACK"],
+			[13, "SWIFT"],
+			[16, "AGILITY"],
+			[26, "FURY ATTACK"],
+			[29, "AIR CUTTER"],
+			[32, "STEEL WING"],
+			[42, "SPIKES"],
+			[45, "METAL SOUND"]
+		]
+	},
+	"HOUNDOUR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "EMBER"],
+			[7, "HOWL"],
+			[13, "SMOG"],
+			[19, "ROAR"],
+			[25, "BITE"],
+			[31, "ODOR SLEUTH"],
+			[37, "FAINT ATTACK"],
+			[43, "FLAMETHROWER"],
+			[49, "CRUNCH"]
+		]
+	},
+	"HOUNDOOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "EMBER"],
+			[1, "HOWL"],
+			[7, "HOWL"],
+			[13, "SMOG"],
+			[19, "ROAR"],
+			[27, "BITE"],
+			[35, "ODOR SLEUTH"],
+			[43, "FAINT ATTACK"],
+			[51, "FLAMETHROWER"],
+			[59, "CRUNCH"]
+		]
+	},
+	"KINGDRA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "SMOKESCREEN"],
+			[1, "LEER"],
+			[1, "WATER GUN"],
+			[8, "SMOKESCREEN"],
+			[15, "WATER GUN"],
+			[22, "TWISTER"],
+			[29, "OCTAZOOKA"],
+			[40, "AGILITY"],
+			[51, "HYDRO PUMP"],
+			[62, "DRAGON DANCE"]
+		]
+	},
+	"PHANPY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ODOR SLEUTH"],
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[9, "DEFENSE CURL"],
+			[17, "FLAIL"],
+			[25, "TAKE DOWN"],
+			[33, "ROLLOUT"],
+			[41, "ENDURE"],
+			[49, "DOUBLE-EDGE"]
+		]
+	},
+	"DONPHAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ODOR SLEUTH"],
+			[1, "HORN ATTACK"],
+			[1, "GROWL"],
+			[9, "DEFENSE CURL"],
+			[17, "FLAIL"],
+			[25, "FURY ATTACK"],
+			[33, "ROLLOUT"],
+			[41, "RAPID SPIN"],
+			[49, "EARTHQUAKE"]
+		]
+	},
+	"PORYGON2":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONVERSION 2"],
+			[1, "TACKLE"],
+			[1, "CONVERSION"],
+			[9, "AGILITY"],
+			[12, "PSYBEAM"],
+			[20, "RECOVER"],
+			[24, "DEFENSE CURL"],
+			[32, "LOCK-ON"],
+			[36, "TRI ATTACK"],
+			[44, "RECYCLE"],
+			[48, "ZAP CANNON"]
+		]
+	},
+	"STANTLER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[7, "LEER"],
+			[11, "ASTONISH"],
+			[17, "HYPNOSIS"],
+			[21, "STOMP"],
+			[27, "SAND-ATTACK"],
+			[31, "ROLE PLAY"],
+			[37, "TAKE DOWN"],
+			[41, "CONFUSE RAY"],
+			[47, "CALM MIND"]
+		]
+	},
+	"SMEARGLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SKETCH"],
+			[11, "SKETCH"],
+			[21, "SKETCH"],
+			[31, "SKETCH"],
+			[41, "SKETCH"],
+			[51, "SKETCH"],
+			[61, "SKETCH"],
+			[71, "SKETCH"],
+			[81, "SKETCH"],
+			[91, "SKETCH"]
+		]
+	},
+	"TYROGUE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "KARATE CHOP"],
+			[11, "DIZZY PUNCH"],
+			[19, "MACH PUNCH"]
+		]
+	},
+	"HITMONTOP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MACH PUNCH"],
+			[1, "ROLLING KICK"],
+			[7, "FLAME WHEEL"],
+			[13, "REVENGE"],
+			[19, "FIRE PUNCH"],
+			[20, "TRIPLE KICK"],
+			[25, "RAPID SPIN"],
+			[31, "COUNTER"],
+			[37, "BLAZE KICK"],
+			[43, "AGILITY"],
+			[49, "ENDEAVOR"]
+		]
+	},
+	"SMOOCHUM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[1, "LICK"],
+			[9, "SWEET KISS"],
+			[15, "ICY WIND"],
+			[21, "CONFUSION"],
+			[25, "SING"],
+			[33, "MEAN LOOK"],
+			[37, "FAKE TEARS"],
+			[45, "PSYCHIC"],
+			[49, "PERISH SONG"],
+			[57, "BLIZZARD"]
+		]
+	},
+	"ELEKID":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[1, "THUNDERSHOCK"],
+			[7, "LIGHT SCREEN"],
+			[13, "SPARK"],
+			[25, "SWIFT"],
+			[31, "THUNDERPUNCH"],
+			[40, "THUNDER"],
+			[49, "THUNDER WAVE"]
+		]
+	},
+	"MAGBY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[7, "LEER"],
+			[9, "SMOG"],
+			[15, "FLAME WHEEL"],
+			[25, "SMOKESCREEN"],
+			[31, "SUNNY DAY"],
+			[37, "FLAMETHROWER"],
+			[43, "CONFUSE RAY"],
+			[49, "FIRE BLAST"]
+		]
+	},
+	"MILTANK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[4, "GROWL"],
+			[8, "DEFENSE CURL"],
+			[13, "STOMP"],
+			[19, "MILK DRINK"],
+			[26, "BIDE"],
+			[34, "ROLLOUT"],
+			[43, "BODY SLAM"],
+			[53, "HEAL BELL"]
+		]
+	},
+	"BLISSEY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "GROWL"],
+			[6, "TAIL WHIP"],
+			[11, "REFRESH"],
+			[17, "DOUBLESLAP"],
+			[22, "DIZZY PUNCH"],
+			[27, "SWEET KISS"],
+			[32, "EGG BOMB"],
+			[37, "SOFTBOILED"],
+			[42, "DEFENSE CURL"],
+			[49, "LIGHT SCREEN"],
+			[60, "SING"]
+		]
+	},
+	"RAIKOU":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[11, "THUNDERSHOCK"],
+			[21, "ROAR"],
+			[31, "QUICK ATTACK"],
+			[41, "SPARK"],
+			[51, "REFLECT"],
+			[61, "CRUNCH"],
+			[71, "THUNDER"],
+			[81, "CALM MIND"]
+		]
+	},
+	"ENTEI":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[11, "EMBER"],
+			[21, "ROAR"],
+			[31, "FIRE SPIN"],
+			[41, "STOMP"],
+			[51, "FLAMETHROWER"],
+			[61, "SWAGGER"],
+			[71, "FIRE BLAST"],
+			[81, "CALM MIND"]
+		]
+	},
+	"SUICUNE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[11, "BUBBLEBEAM"],
+			[21, "RAIN DANCE"],
+			[31, "GUST"],
+			[41, "AURORA BEAM"],
+			[51, "MIST"],
+			[61, "MIRROR COAT"],
+			[71, "HYDRO PUMP"],
+			[81, "CALM MIND"]
+		]
+	},
+	"LARVITAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[8, "SANDSTORM"],
+			[15, "SCREECH"],
+			[22, "ROCK SLIDE"],
+			[29, "THRASH"],
+			[36, "SCARY FACE"],
+			[43, "CRUNCH"],
+			[50, "EARTHQUAKE"],
+			[57, "HYPER BEAM"]
+		]
+	},
+	"PUPITAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[1, "SANDSTORM"],
+			[1, "SCREECH"],
+			[8, "SANDSTORM"],
+			[15, "SCREECH"],
+			[22, "ROCK SLIDE"],
+			[29, "THRASH"],
+			[38, "SCARY FACE"],
+			[47, "CRUNCH"],
+			[56, "EARTHQUAKE"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"TYRANITAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "LEER"],
+			[1, "SANDSTORM"],
+			[1, "SCREECH"],
+			[8, "SANDSTORM"],
+			[15, "SCREECH"],
+			[22, "ROCK SLIDE"],
+			[29, "THRASH"],
+			[38, "SCARY FACE"],
+			[47, "CRUNCH"],
+			[61, "EARTHQUAKE"],
+			[75, "HYPER BEAM"]
+		]
+	},
+	"LUGIA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WHIRLWIND"],
+			[11, "SAFEGUARD"],
+			[22, "GUST"],
+			[33, "RECOVER"],
+			[44, "HYDRO PUMP"],
+			[55, "RAIN DANCE"],
+			[66, "SWIFT"],
+			[77, "AEROBLAST"],
+			[88, "ANCIENTPOWER"],
+			[99, "FUTURE SIGHT"]
+		]
+	},
+	"HO-OH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WHIRLWIND"],
+			[11, "SAFEGUARD"],
+			[22, "GUST"],
+			[33, "RECOVER"],
+			[44, "FIRE BLAST"],
+			[55, "SUNNY DAY"],
+			[66, "SWIFT"],
+			[77, "SACRED FIRE"],
+			[88, "ANCIENTPOWER"],
+			[99, "FUTURE SIGHT"]
+		]
+	},
+	"CELEBI":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEECH SEED"],
+			[1, "CONFUSION"],
+			[1, "RECOVER"],
+			[1, "HEAL BELL"],
+			[10, "SAFEGUARD"],
+			[20, "ANCIENTPOWER"],
+			[30, "FUTURE SIGHT"],
+			[40, "BATON PASS"],
+			[50, "PERISH SONG"]
+		]
+	},
+	"EXEGGUTORA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "DRAGONHAMMER"],
+			[1, "BARRAGE"],
+			[1, "HYPNOSIS"],
+			[1, "CONFUSION"],
+			[19, "STOMP"],
+			[31, "EGG BOMB"],
+			[35, "DRAGONHAMMER"],
+			[42, "MAGICAL LEAF"]
+		]
+	},
+	"GAPDOS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "KARATE CHOP"],
+			[13, "LIGHT SCREEN"],
+			[25, "BRICK BREAK"],
+			[37, "DRILL PECK"],
+			[45, "THUNDER KICK"],
+			[53, "COUNTER"],
+			[61, "BULK UP"],
+			[69, "REVERSAL"]
+		]
+	},
+	"GARTICUNO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GUST"],
+			[1, "CONFUSION"],
+			[13, "MIST"],
+			[25, "AGILITY"],
+			[37, "PSYBEAM"],
+			[45, "FROZEN GLARE"],
+			[52, "REFLECT"],
+			[60, "PSYCHIC"],
+			[68, "CALM MIND"]
+		]
+	},
+	"GOLTRES":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WING ATTACK"],
+			[1, "PURSUIT"],
+			[13, "FAINT ATTACK"],
+			[25, "AGILITY"],
+			[37, "ENDURE"],
+			[45, "FIERY WRATH"],
+			[53, "SAFEGUARD"],
+			[61, "FACADE"],
+			[69, "SKY ATTACK"]
+		]
+	},
+	"MOLTRES-K":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EMBER"],
+			[1, "WING ATTACK"],
+			[13, "FIRE SPIN"],
+			[25, "AGILITY"],
+			[37, "FLAMETHROWER"],
+			[49, "ENDURE"],
+			[61, "SAFEGUARD"],
+			[73, "HEAT WAVE"],
+			[85, "SKY ATTACK"]
+		]
+	},
+	"ARTICUNO-K":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[1, "WING ATTACK"],
+			[13, "MIST"],
+			[25, "AGILITY"],
+			[37, "ICE BEAM"],
+			[49, "MIND READER"],
+			[61, "REFLECT"],
+			[73, "BLIZZARD"],
+			[85, "SHEER COLD"]
+		]
+	},
+	"TREECKO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "LEER"],
+			[6, "ABSORB"],
+			[11, "QUICK ATTACK"],
+			[16, "PURSUIT"],
+			[21, "SCREECH"],
+			[26, "MEGA DRAIN"],
+			[31, "AGILITY"],
+			[36, "SLAM"],
+			[41, "DETECT"],
+			[46, "GIGA DRAIN"]
+		]
+	},
+	"GROVYLE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "LEER"],
+			[1, "ABSORB"],
+			[1, "QUICK ATTACK"],
+			[6, "ABSORB"],
+			[11, "QUICK ATTACK"],
+			[16, "FURY CUTTER"],
+			[17, "PURSUIT"],
+			[23, "SCREECH"],
+			[29, "LEAF BLADE"],
+			[35, "AGILITY"],
+			[41, "SLAM"],
+			[47, "DETECT"],
+			[53, "FALSE SWIPE"]
+		]
+	},
+	"SCEPTILE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "LEER"],
+			[1, "ABSORB"],
+			[1, "QUICK ATTACK"],
+			[6, "ABSORB"],
+			[11, "QUICK ATTACK"],
+			[16, "FURY CUTTER"],
+			[17, "PURSUIT"],
+			[23, "SCREECH"],
+			[29, "LEAF BLADE"],
+			[35, "AGILITY"],
+			[43, "SLAM"],
+			[51, "DETECT"],
+			[59, "FALSE SWIPE"]
+		]
+	},
+	"TORCHIC":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[7, "FOCUS ENERGY"],
+			[10, "EMBER"],
+			[16, "PECK"],
+			[19, "SAND-ATTACK"],
+			[25, "FIRE SPIN"],
+			[28, "QUICK ATTACK"],
+			[34, "SLASH"],
+			[37, "MIRROR MOVE"],
+			[43, "FLAMETHROWER"]
+		]
+	},
+	"COMBUSKEN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "FOCUS ENERGY"],
+			[1, "EMBER"],
+			[7, "FOCUS ENERGY"],
+			[13, "EMBER"],
+			[16, "DOUBLE KICK"],
+			[17, "PECK"],
+			[21, "SAND-ATTACK"],
+			[28, "BULK UP"],
+			[32, "QUICK ATTACK"],
+			[39, "SLASH"],
+			[43, "MIRROR MOVE"],
+			[50, "SKY UPPERCUT"]
+		]
+	},
+	"BLAZIKEN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "FIRE PUNCH"],
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "FOCUS ENERGY"],
+			[1, "EMBER"],
+			[7, "FOCUS ENERGY"],
+			[13, "EMBER"],
+			[16, "DOUBLE KICK"],
+			[17, "PECK"],
+			[21, "SAND-ATTACK"],
+			[28, "BULK UP"],
+			[32, "QUICK ATTACK"],
+			[36, "BLAZE KICK"],
+			[42, "SLASH"],
+			[49, "MIRROR MOVE"],
+			[59, "SKY UPPERCUT"]
+		]
+	},
+	"MUDKIP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[6, "MUD-SLAP"],
+			[10, "WATER GUN"],
+			[15, "BIDE"],
+			[19, "FORESIGHT"],
+			[24, "MUD SPORT"],
+			[28, "TAKE DOWN"],
+			[33, "WHIRLPOOL"],
+			[37, "PROTECT"],
+			[42, "HYDRO PUMP"],
+			[46, "ENDEAVOR"]
+		]
+	},
+	"MARSHTOMP":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "MUD-SLAP"],
+			[1, "WATER GUN"],
+			[6, "MUD-SLAP"],
+			[10, "WATER GUN"],
+			[15, "BIDE"],
+			[16, "MUD SHOT"],
+			[20, "FORESIGHT"],
+			[25, "MUD SPORT"],
+			[31, "TAKE DOWN"],
+			[37, "MUDDY WATER"],
+			[42, "PROTECT"],
+			[46, "EARTHQUAKE"],
+			[53, "ENDEAVOR"]
+		]
+	},
+	"SWAMPERT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "MUD-SLAP"],
+			[1, "WATER GUN"],
+			[6, "MUD-SLAP"],
+			[10, "WATER GUN"],
+			[15, "BIDE"],
+			[16, "MUD SHOT"],
+			[20, "FORESIGHT"],
+			[25, "MUD SPORT"],
+			[31, "TAKE DOWN"],
+			[39, "MUDDY WATER"],
+			[46, "PROTECT"],
+			[52, "EARTHQUAKE"],
+			[61, "ENDEAVOR"]
+		]
+	},
+	"MELTAN":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERSHOCK"],
+			[1, "HARDEN"],
+			[5, "METAL CLAW"],
+			[8, "TAIL WHIP"],
+			[16, "HEADBUTT"],
+			[24, "THUNDER WAVE"],
+			[32, "ACID ARMOR"],
+			[40, "CUT"]
+		]
+	},
+	"MELMETAL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERPUNCH"],
+			[1, "HEADBUTT"],
+			[1, "HARDEN"],
+			[1, "TAIL WHIP"],
+			[6, "THUNDER WAVE"],
+			[11, "HEADBUTT"],
+			[16, "THUNDER WAVE"],
+			[21, "ACID ARMOR"],
+			[26, "METAL CLAW"],
+			[31, "MEGA PUNCH"],
+			[36, "PROTECT"],
+			[41, "THUNDER"],
+			[46, "DYNAMICPUNCH"],
+			[51, "SUPERPOWER"],
+			[56, "D. IRON BASH"]
+		]
+	},
+	"ZIGZAGOON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[5, "TAIL WHIP"],
+			[9, "HEADBUTT"],
+			[13, "SAND-ATTACK"],
+			[17, "ODOR SLEUTH"],
+			[21, "MUD SPORT"],
+			[25, "PIN MISSILE"],
+			[29, "COVET"],
+			[33, "FLAIL"],
+			[37, "REST"],
+			[41, "BELLY DRUM"]
+		]
+	},
+	"LINOONE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "GROWL"],
+			[1, "TAIL WHIP"],
+			[1, "HEADBUTT"],
+			[5, "TAIL WHIP"],
+			[9, "HEADBUTT"],
+			[13, "SAND-ATTACK"],
+			[17, "ODOR SLEUTH"],
+			[23, "MUD SPORT"],
+			[29, "FURY SWIPES"],
+			[35, "COVET"],
+			[41, "SLASH"],
+			[47, "REST"],
+			[53, "BELLY DRUM"]
+		]
+	},
+	"GEODUDE-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[6, "CHARGE"],
+			[11, "ROCK THROW"],
+			[16, "SPARK"],
+			[21, "SELFDESTRUCT"],
+			[26, "THUNDERPUNCH"],
+			[31, "ROCK BLAST"],
+			[36, "THUNDERBOLT"],
+			[41, "EXPLOSION"],
+			[46, "DOUBLE-EDGE"]
+		]
+	},
+	"GRAVELER-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[1, "CHARGE"],
+			[1, "ROCK THROW"],
+			[6, "CHARGE"],
+			[11, "ROCK THROW"],
+			[16, "SPARK"],
+			[21, "SELFDESTRUCT"],
+			[29, "THUNDERPUNCH"],
+			[37, "ROCK BLAST"],
+			[45, "THUNDERBOLT"],
+			[53, "EXPLOSION"],
+			[62, "DOUBLE-EDGE"]
+		]
+	},
+	"GOLEM-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "DEFENSE CURL"],
+			[1, "CHARGE"],
+			[1, "ROCK THROW"],
+			[6, "CHARGE"],
+			[11, "ROCK THROW"],
+			[16, "SPARK"],
+			[21, "SELFDESTRUCT"],
+			[29, "THUNDERPUNCH"],
+			[37, "ROCK BLAST"],
+			[45, "THUNDERBOLT"],
+			[53, "EXPLOSION"],
+			[62, "DOUBLE-EDGE"]
+		]
+	},
+	"VULPIX-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[5, "TAIL WHIP"],
+			[9, "ICY WIND"],
+			[13, "QUICK ATTACK"],
+			[17, "HAIL"],
+			[21, "CONFUSE RAY"],
+			[25, "AURORA BEAM"],
+			[29, "ICE BEAM"],
+			[33, "SAFEGUARD"],
+			[37, "HAIL"],
+			[41, "BLIZZARD"]
+		]
+	},
+	"NINETALESA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[1, "QUICK ATTACK"],
+			[1, "CONFUSE RAY"],
+			[1, "SAFEGUARD"],
+			[45, "ICE BEAM"]
+		]
+	},
+	"LOTAD":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ASTONISH"],
+			[3, "GROWL"],
+			[7, "ABSORB"],
+			[13, "NATURE POWER"],
+			[21, "MIST"],
+			[31, "RAIN DANCE"],
+			[43, "MEGA DRAIN"]
+		]
+	},
+	"LOMBRE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ASTONISH"],
+			[3, "GROWL"],
+			[7, "ABSORB"],
+			[13, "NATURE POWER"],
+			[19, "FAKE OUT"],
+			[25, "FURY SWIPES"],
+			[31, "WATER SPORT"],
+			[37, "THIEF"],
+			[43, "UPROAR"],
+			[49, "HYDRO PUMP"]
+		]
+	},
+	"LUDICOLO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ASTONISH"],
+			[1, "GROWL"],
+			[1, "ABSORB"],
+			[1, "NATURE POWER"]
+		]
+	},
+	"MAGNEZONE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MIRROR COAT"],
+			[1, "BARRIER"],
+			[1, "METAL SOUND"],
+			[1, "TACKLE"],
+			[1, "THUNDERSHOCK"],
+			[1, "SUPERSONIC"],
+			[6, "THUNDERSHOCK"],
+			[11, "SUPERSONIC"],
+			[16, "SONICBOOM"],
+			[21, "THUNDER WAVE"],
+			[26, "SPARK"],
+			[35, "LOCK-ON"],
+			[44, "TRI ATTACK"],
+			[53, "SCREECH"],
+			[62, "ZAP CANNON"]
+		]
+	},
+	"LICKILICKY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LICK"],
+			[7, "SUPERSONIC"],
+			[12, "DEFENSE CURL"],
+			[18, "SWORDS DANCE"],
+			[23, "STOMP"],
+			[29, "WISH"],
+			[34, "BODY SLAM"],
+			[40, "DISABLE"],
+			[45, "SCREECH"],
+			[51, "REFRESH"]
+		]
+	},
+	"RHYPERIOR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "HORN ATTACK"],
+			[1, "TAIL WHIP"],
+			[1, "STOMP"],
+			[1, "FURY ATTACK"],
+			[10, "STOMP"],
+			[15, "FURY ATTACK"],
+			[24, "SCARY FACE"],
+			[29, "ROCK BLAST"],
+			[38, "HORN DRILL"],
+			[46, "TAKE DOWN"],
+			[58, "EARTHQUAKE"],
+			[66, "MEGAHORN"]
+		]
+	},
+	"NINCADA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "HARDEN"],
+			[5, "LEECH LIFE"],
+			[9, "SAND-ATTACK"],
+			[14, "FURY SWIPES"],
+			[19, "MIND READER"],
+			[25, "FALSE SWIPE"],
+			[31, "MUD-SLAP"],
+			[38, "METAL CLAW"],
+			[45, "DIG"]
+		]
+	},
+	"NINJASK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "HARDEN"],
+			[1, "LEECH LIFE"],
+			[1, "SAND-ATTACK"],
+			[5, "LEECH LIFE"],
+			[9, "SAND-ATTACK"],
+			[14, "FURY SWIPES"],
+			[19, "MIND READER"],
+			[20, "DOUBLE TEAM"],
+			[20, "FURY CUTTER"],
+			[20, "SCREECH"],
+			[25, "SWORDS DANCE"],
+			[31, "SLASH"],
+			[38, "AGILITY"],
+			[45, "BATON PASS"]
+		]
+	},
+	"SHEDINJA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "HARDEN"],
+			[5, "LEECH LIFE"],
+			[9, "SAND-ATTACK"],
+			[14, "FURY SWIPES"],
+			[19, "MIND READER"],
+			[25, "SPITE"],
+			[31, "CONFUSE RAY"],
+			[38, "SHADOW BALL"],
+			[45, "GRUDGE"]
+		]
+	},
+	"TAILLOW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[4, "FOCUS ENERGY"],
+			[8, "QUICK ATTACK"],
+			[13, "WING ATTACK"],
+			[19, "DOUBLE TEAM"],
+			[26, "ENDEAVOR"],
+			[34, "AERIAL ACE"],
+			[43, "AGILITY"]
+		]
+	},
+	"SWELLOW":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "GROWL"],
+			[1, "FOCUS ENERGY"],
+			[1, "QUICK ATTACK"],
+			[4, "FOCUS ENERGY"],
+			[8, "QUICK ATTACK"],
+			[13, "WING ATTACK"],
+			[19, "DOUBLE TEAM"],
+			[28, "ENDEAVOR"],
+			[38, "AERIAL ACE"],
+			[49, "AGILITY"]
+		]
+	},
+	"SHROOMISH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[4, "TACKLE"],
+			[7, "STUN SPORE"],
+			[10, "LEECH SEED"],
+			[16, "MEGA DRAIN"],
+			[22, "HEADBUTT"],
+			[28, "POISONPOWDER"],
+			[36, "GROWTH"],
+			[45, "GIGA DRAIN"],
+			[54, "SPORE"]
+		]
+	},
+	"BRELOOM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[1, "TACKLE"],
+			[1, "STUN SPORE"],
+			[1, "LEECH SEED"],
+			[4, "TACKLE"],
+			[7, "STUN SPORE"],
+			[10, "LEECH SEED"],
+			[16, "MEGA DRAIN"],
+			[22, "HEADBUTT"],
+			[23, "MACH PUNCH"],
+			[28, "COUNTER"],
+			[36, "SKY UPPERCUT"],
+			[45, "MIND READER"],
+			[54, "DYNAMICPUNCH"]
+		]
+	},
+	"SPINDA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "UPROAR"],
+			[12, "FAINT ATTACK"],
+			[16, "PSYBEAM"],
+			[23, "HYPNOSIS"],
+			[27, "DIZZY PUNCH"],
+			[34, "TEETER DANCE"],
+			[38, "PSYCH UP"],
+			[45, "DOUBLE-EDGE"],
+			[49, "FLAIL"],
+			[56, "THRASH"]
+		]
+	},
+	"WINGULL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "WATER GUN"],
+			[7, "SUPERSONIC"],
+			[13, "WING ATTACK"],
+			[21, "MIST"],
+			[31, "QUICK ATTACK"],
+			[43, "PURSUIT"],
+			[55, "AGILITY"]
+		]
+	},
+	"PELIPPER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "WATER GUN"],
+			[1, "WATER SPORT"],
+			[1, "WING ATTACK"],
+			[3, "WATER GUN"],
+			[7, "SUPERSONIC"],
+			[13, "WING ATTACK"],
+			[21, "MIST"],
+			[25, "PROTECT"],
+			[33, "STOCKPILE"],
+			[33, "SWALLOW"],
+			[47, "SPIT UP"],
+			[61, "HYDRO PUMP"]
+		]
+	},
+	"MR. MIME-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[5, "CONFUSION"],
+			[8, "SUBSTITUTE"],
+			[12, "MIMIC"],
+			[15, "ICY WIND"],
+			[19, "LIGHT SCREEN"],
+			[19, "REFLECT"],
+			[22, "MAGICAL LEAF"],
+			[26, "ENCORE"],
+			[29, "PSYBEAM"],
+			[33, "HYPNOSIS"],
+			[36, "MIRROR COAT"],
+			[40, "ICE BEAM"],
+			[43, "PSYCHIC"],
+			[47, "BATON PASS"],
+			[50, "SAFEGUARD"]
+		]
+	},
+	"MR. RIME":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POWDER SNOW"],
+			[5, "CONFUSION"],
+			[8, "SUBSTITUTE"],
+			[12, "MIMIC"],
+			[15, "ICY WIND"],
+			[19, "LIGHT SCREEN"],
+			[19, "REFLECT"],
+			[22, "MAGICAL LEAF"],
+			[26, "ENCORE"],
+			[29, "PSYBEAM"],
+			[33, "HYPNOSIS"],
+			[36, "MIRROR COAT"],
+			[40, "ICE BEAM"],
+			[45, "PSYCHIC"],
+			[50, "BATON PASS"],
+			[57, "SAFEGUARD"]
+		]
+	},
+	"SLOWPOKE-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CURSE"],
+			[1, "YAWN"],
+			[1, "TACKLE"],
+			[6, "ACID"],
+			[11, "CONFUSION"],
+			[17, "HEADBUTT"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "AMNESIA"],
+			[40, "PSYCHIC"],
+			[47, "PSYCH UP"]
+		]
+	},
+	"SLOWBRO-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CURSE"],
+			[1, "YAWN"],
+			[1, "TACKLE"],
+			[1, "SLUDGE BOMB"],
+			[6, "GROWL"],
+			[13, "WATER GUN"],
+			[17, "CONFUSION"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "AMNESIA"],
+			[37, "SLUDGE BOMB"],
+			[44, "PSYCHIC"],
+			[55, "PSYCH UP"]
+		]
+	},
+	"DIGLETT-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SAND-ATTACK"],
+			[1, "SCRATCH"],
+			[5, "METAL CLAW"],
+			[9, "MAGNITUDE"],
+			[17, "DIG"],
+			[21, "FURY SWIPES"],
+			[25, "MUD-SLAP"],
+			[33, "SLASH"],
+			[41, "EARTHQUAKE"],
+			[49, "FISSURE"]
+		]
+	},
+	"DUGTRIO-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TRI ATTACK"],
+			[1, "SCRATCH"],
+			[1, "SAND-ATTACK"],
+			[1, "GROWL"],
+			[5, "METAL CLAW"],
+			[9, "MAGNITUDE"],
+			[17, "DIG"],
+			[21, "FURY SWIPES"],
+			[25, "MUD-SLAP"],
+			[26, "SAND TOMB"],
+			[38, "SLASH"],
+			[51, "EARTHQUAKE"],
+			[64, "FISSURE"]
+		]
+	},
+	"KECLEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THIEF"],
+			[1, "TAIL WHIP"],
+			[1, "ASTONISH"],
+			[1, "LICK"],
+			[1, "SCRATCH"],
+			[4, "BIND"],
+			[7, "FAINT ATTACK"],
+			[12, "FURY SWIPES"],
+			[17, "PSYBEAM"],
+			[24, "SCREECH"],
+			[31, "SLASH"],
+			[40, "SUBSTITUTE"],
+			[49, "ANCIENTPOWER"]
+		]
+	},
+	"BALTOY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONFUSION"],
+			[3, "HARDEN"],
+			[5, "RAPID SPIN"],
+			[7, "MUD-SLAP"],
+			[11, "PSYBEAM"],
+			[15, "ROCK TOMB"],
+			[19, "SELFDESTRUCT"],
+			[25, "ANCIENTPOWER"],
+			[31, "SANDSTORM"],
+			[37, "COSMIC POWER"],
+			[45, "EXPLOSION"]
+		]
+	},
+	"CLAYDOL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TELEPORT"],
+			[1, "CONFUSION"],
+			[1, "HARDEN"],
+			[1, "RAPID SPIN"],
+			[3, "HARDEN"],
+			[5, "RAPID SPIN"],
+			[7, "MUD-SLAP"],
+			[11, "PSYBEAM"],
+			[15, "ROCK TOMB"],
+			[19, "SELFDESTRUCT"],
+			[25, "ANCIENTPOWER"],
+			[31, "SANDSTORM"],
+			[36, "HYPER BEAM"],
+			[42, "COSMIC POWER"],
+			[55, "EXPLOSION"]
+		]
+	},
+	"deadmonrip":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONFUSION"],
+			[1, "SING"],
+			[7, "DISABLE"],
+			[13, "HOWL"],
+			[21, "BITE"],
+			[28, "BODY SLAM"],
+			[35, "REST"],
+			[42, "MIST BALL"],
+			[49, "PSYCHIC"]
+		]
+	},
+	"SCREAMTAIL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONFUSION"],
+			[1, "SING"],
+			[7, "DISABLE"],
+			[13, "HOWL"],
+			[21, "BITE"],
+			[28, "BODY SLAM"],
+			[35, "REST"],
+			[42, "MIST BALL"],
+			[49, "PSYCHIC"]
+		]
+	},
+	"SABLEYE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "SCRATCH"],
+			[5, "FORESIGHT"],
+			[9, "NIGHT SHADE"],
+			[13, "ASTONISH"],
+			[17, "FURY SWIPES"],
+			[21, "FAKE OUT"],
+			[25, "DETECT"],
+			[29, "FAINT ATTACK"],
+			[33, "KNOCK OFF"],
+			[37, "CONFUSE RAY"],
+			[41, "SHADOW BALL"],
+			[45, "MEAN LOOK"]
+		]
+	},
+	"MEOWTH-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "THIEF"],
+			[10, "BITE"],
+			[18, "PAY DAY"],
+			[25, "FAINT ATTACK"],
+			[31, "CRUNCH"],
+			[36, "FURY SWIPES"],
+			[40, "SLASH"],
+			[43, "FAKE OUT"],
+			[45, "SWAGGER"]
+		]
+	},
+	"PERSIAN-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "THIEF"],
+			[1, "BITE"],
+			[10, "BITE"],
+			[18, "PAY DAY"],
+			[25, "FAINT ATTACK"],
+			[34, "CRUNCH"],
+			[42, "FRUSTRATION"],
+			[49, "SLASH"],
+			[55, "FAKE OUT"],
+			[61, "SWAGGER"]
+		]
+	},
+	"LUVDISC":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[4, "CHARM"],
+			[12, "WATER GUN"],
+			[16, "AGILITY"],
+			[24, "TAKE DOWN"],
+			[28, "ATTRACT"],
+			[36, "SWEET KISS"],
+			[40, "FLAIL"],
+			[48, "SAFEGUARD"]
+		]
+	},
+	"CORPHISH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[7, "HARDEN"],
+			[10, "VICEGRIP"],
+			[13, "LEER"],
+			[19, "BUBBLEBEAM"],
+			[22, "PROTECT"],
+			[25, "KNOCK OFF"],
+			[31, "TAUNT"],
+			[34, "CRABHAMMER"],
+			[37, "SWORDS DANCE"],
+			[43, "CRUNCH"],
+			[46, "GUILLOTINE"]
+		]
+	},
+	"CRAWDAUNT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BUBBLE"],
+			[1, "HARDEN"],
+			[1, "VICEGRIP"],
+			[1, "LEER"],
+			[7, "HARDEN"],
+			[10, "VICEGRIP"],
+			[13, "LEER"],
+			[19, "BUBBLEBEAM"],
+			[22, "PROTECT"],
+			[25, "KNOCK OFF"],
+			[33, "TAUNT"],
+			[38, "CRABHAMMER"],
+			[43, "SWORDS DANCE"],
+			[51, "CRUNCH"],
+			[56, "GUILLOTINE"]
+		]
+	},
+	"FEEBAS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[15, "TACKLE"],
+			[30, "FLAIL"]
+		]
+	},
+	"MILOTIC":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER GUN"],
+			[5, "WRAP"],
+			[10, "WATER SPORT"],
+			[15, "REFRESH"],
+			[20, "WATER PULSE"],
+			[25, "TWISTER"],
+			[30, "RECOVER"],
+			[35, "RAIN DANCE"],
+			[40, "HYDRO PUMP"],
+			[45, "ATTRACT"],
+			[50, "SAFEGUARD"]
+		]
+	},
+	"CARVANHA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "BITE"],
+			[7, "RAGE"],
+			[13, "FOCUS ENERGY"],
+			[16, "SCARY FACE"],
+			[22, "CRUNCH"],
+			[28, "SCREECH"],
+			[31, "TAKE DOWN"],
+			[37, "SWAGGER"],
+			[43, "AGILITY"]
+		]
+	},
+	"SHARPEDO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "BITE"],
+			[1, "RAGE"],
+			[1, "FOCUS ENERGY"],
+			[7, "RAGE"],
+			[13, "FOCUS ENERGY"],
+			[16, "SCARY FACE"],
+			[22, "CRUNCH"],
+			[28, "SCREECH"],
+			[33, "SLASH"],
+			[38, "TAUNT"],
+			[43, "SWAGGER"],
+			[48, "SKULL BASH"],
+			[53, "AGILITY"]
+		]
+	},
+	"TRAPINCH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[9, "SAND-ATTACK"],
+			[17, "FAINT ATTACK"],
+			[25, "SAND TOMB"],
+			[33, "CRUNCH"],
+			[41, "DIG"],
+			[49, "SANDSTORM"],
+			[57, "HYPER BEAM"]
+		]
+	},
+	"VIBRAVA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "SAND-ATTACK"],
+			[1, "FAINT ATTACK"],
+			[1, "SAND TOMB"],
+			[9, "SAND-ATTACK"],
+			[17, "FAINT ATTACK"],
+			[25, "SAND TOMB"],
+			[33, "CRUNCH"],
+			[35, "DRAGONBREATH"],
+			[41, "SCREECH"],
+			[49, "SANDSTORM"],
+			[57, "HYPER BEAM"]
+		]
+	},
+	"FLYGON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "SAND-ATTACK"],
+			[1, "FAINT ATTACK"],
+			[1, "SAND TOMB"],
+			[9, "SAND-ATTACK"],
+			[17, "FAINT ATTACK"],
+			[25, "SAND TOMB"],
+			[33, "CRUNCH"],
+			[35, "DRAGONBREATH"],
+			[41, "SCREECH"],
+			[53, "SANDSTORM"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"MAKUHITA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "FOCUS ENERGY"],
+			[4, "SAND-ATTACK"],
+			[10, "ARM THRUST"],
+			[13, "VITAL THROW"],
+			[19, "FAKE OUT"],
+			[22, "WHIRLWIND"],
+			[28, "KNOCK OFF"],
+			[31, "FIERY WRATH"],
+			[37, "BELLY DRUM"],
+			[40, "ENDURE"],
+			[46, "SEISMIC TOSS"],
+			[49, "REVERSAL"]
+		]
+	},
+	"HARIYAMA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "FOCUS ENERGY"],
+			[1, "SAND-ATTACK"],
+			[1, "ARM THRUST"],
+			[4, "SAND-ATTACK"],
+			[10, "ARM THRUST"],
+			[13, "VITAL THROW"],
+			[19, "FAKE OUT"],
+			[22, "WHIRLWIND"],
+			[29, "KNOCK OFF"],
+			[33, "FIERY WRATH"],
+			[40, "BELLY DRUM"],
+			[44, "ENDURE"],
+			[51, "SEISMIC TOSS"],
+			[55, "REVERSAL"]
+		]
+	},
+	"WIGLETT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SAND-ATTACK"],
+			[1, "WATER GUN"],
+			[5, "MUD-SLAP"],
+			[9, "WRAP"],
+			[13, "BUBBLEBEAM"],
+			[17, "SLAM"],
+			[21, "DIG"],
+			[25, "SLASH"],
+			[33, "MUDDY WATER"],
+			[41, "EARTHQUAKE"],
+			[49, "HYDRO PUMP"]
+		]
+	},
+	"WUGTRIO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SAND-ATTACK"],
+			[1, "WATER GUN"],
+			[1, "MUDDY WATER"],
+			[5, "MUD-SLAP"],
+			[9, "WRAP"],
+			[14, "BUBBLEBEAM"],
+			[17, "SLAM"],
+			[21, "DIG"],
+			[25, "SLASH"],
+			[30, "MUDDY WATER"],
+			[38, "DIVE"],
+			[46, "EARTHQUAKE"],
+			[55, "HYDRO PUMP"]
+		]
+	},
+	"TOEDSCOOL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ABSORB"],
+			[1, "MUD-SLAP"],
+			[6, "SUPERSONIC"],
+			[12, "MEGA DRAIN"],
+			[19, "POISONPOWDER"],
+			[25, "MUD SHOT"],
+			[30, "STUN SPORE"],
+			[35, "GIGA DRAIN"],
+			[43, "EARTHQUAKE"]
+		]
+	},
+	"TOEDSCRUEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SYNTHESIS"],
+			[1, "ABSORB"],
+			[1, "MUD-SLAP"],
+			[1, "SLEEP POWDER"],
+			[6, "SUPERSONIC"],
+			[12, "MEGA DRAIN"],
+			[19, "POISONPOWDER"],
+			[25, "MUD SHOT"],
+			[30, "STUN SPORE"],
+			[38, "GIGA DRAIN"],
+			[45, "EARTHQUAKE"],
+			[53, "GROWTH"]
+		]
+	},
+	"RATTATA-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[7, "QUICK ATTACK"],
+			[10, "BITE"],
+			[13, "HYPER FANG"],
+			[19, "CRUNCH"],
+			[21, "FOCUS ENERGY"],
+			[27, "PURSUIT"],
+			[34, "SUPER FANG"],
+			[41, "ENDEAVOR"]
+		]
+	},
+	"RATICATE-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[7, "QUICK ATTACK"],
+			[13, "HYPER FANG"],
+			[20, "SCARY FACE"],
+			[30, "PURSUIT"],
+			[40, "SUPER FANG"],
+			[50, "ENDEAVOR"]
+		]
+	},
+	"RAICHU-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PSYCHIC"],
+			[1, "THUNDERSHOCK"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[1, "THUNDERBOLT"],
+			[31, "EXTRASENSORY"]
+		]
+	},
+	"GRIMER-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "POUND"],
+			[4, "HARDEN"],
+			[8, "BITE"],
+			[13, "SLUDGE"],
+			[19, "MINIMIZE"],
+			[26, "SCREECH"],
+			[34, "CRUNCH"],
+			[43, "SLUDGE BOMB"],
+			[53, "KNOCK OFF"]
+		]
+	},
+	"MUK-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "POUND"],
+			[1, "ACID ARMOR"],
+			[4, "BITE"],
+			[8, "DISABLE"],
+			[13, "SLUDGE"],
+			[19, "MINIMIZE"],
+			[26, "SCREECH"],
+			[34, "CRUNCH"],
+			[47, "SLUDGE BOMB"],
+			[61, "KNOCK OFF"]
+		]
+	},
+	"MUNCHLAX":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "METRONOME"],
+			[1, "TACKLE"],
+			[5, "AMNESIA"],
+			[9, "DEFENSE CURL"],
+			[13, "BELLY DRUM"],
+			[17, "HEADBUTT"],
+			[21, "YAWN"],
+			[25, "REST"],
+			[29, "SNORE"],
+			[33, "BODY SLAM"],
+			[37, "SLEEP TALK"],
+			[41, "BLOCK"],
+			[45, "COVET"],
+			[49, "ROLLOUT"]
+		]
+	},
+	"KLEAVOR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ROCK SLIDE"],
+			[1, "LEER"],
+			[6, "FURY CUTTER"],
+			[11, "ROCK THROW"],
+			[16, "FALSE SWIPE"],
+			[21, "AGILITY"],
+			[26, "SLASH"],
+			[31, "SILVER WIND"],
+			[36, "ROCK SLIDE"],
+			[41, "SWORDS DANCE"],
+			[46, "DOUBLE TEAM"]
+		]
+	},
+	"S. SHOCKS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERSHOCK"],
+			[1, "SUPERSONIC"],
+			[7, "MUD-SLAP"],
+			[13, "SPARK"],
+			[21, "MUD SHOT"],
+			[28, "TRI ATTACK"],
+			[35, "THUNDERBOLT"],
+			[42, "THUNDER WAVE"],
+			[49, "EARTHQUAKE"]
+		]
+	},
+	"SOLROCK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "HARDEN"],
+			[7, "CONFUSION"],
+			[13, "ROCK THROW"],
+			[19, "FIRE SPIN"],
+			[25, "PSYWAVE"],
+			[31, "COSMIC POWER"],
+			[37, "ROCK SLIDE"],
+			[43, "SOLARBEAM"],
+			[49, "EXPLOSION"]
+		]
+	},
+	"AZURILL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[3, "CHARM"],
+			[6, "TAIL WHIP"],
+			[10, "BUBBLE"],
+			[15, "SLAM"],
+			[21, "WATER GUN"]
+		]
+	},
+	"SANDSHREWA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "POWDER SNOW"],
+			[6, "DEFENSE CURL"],
+			[11, "BIDE"],
+			[17, "METAL CLAW"],
+			[22, "AURORA BEAM"],
+			[30, "SLASH"],
+			[37, "ICE BEAM"],
+			[45, "IRON TAIL"],
+			[53, "HAIL"],
+			[61, "BLIZZARD"]
+		]
+	},
+	"SANDSLASHA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SWORDS DANCE"],
+			[1, "SCRATCH"],
+			[1, "POWDER SNOW"],
+			[6, "DEFENSE CURL"],
+			[11, "BIDE"],
+			[16, "METAL CLAW"],
+			[24, "AURORA BEAM"],
+			[33, "SLASH"],
+			[39, "ICY WIND"],
+			[45, "ICE BEAM"],
+			[51, "IRON TAIL"],
+			[62, "BLIZZARD"],
+			[70, "ICY WIND"]
+		]
+	},
+	"LEAFEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "HELPING HAND"],
+			[8, "SAND-ATTACK"],
+			[16, "RAZOR LEAF"],
+			[25, "MAGICAL LEAF"],
+			[30, "BITE"],
+			[36, "GIGA DRAIN"],
+			[42, "SYNTHESIS"],
+			[47, "GROWTH"],
+			[52, "LEAF BLADE"]
+		]
+	},
+	"GLACEON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[1, "QUICK ATTACK"],
+			[8, "SAND-ATTACK"],
+			[16, "POWDER SNOW"],
+			[36, "ICY WIND"],
+			[30, "BITE"],
+			[36, "AURORA BEAM"],
+			[42, "MOONLIGHT"],
+			[47, "ICE BEAM"],
+			[52, "BLIZZARD"]
+		]
+	},
+	"MAWILE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ASTONISH"],
+			[6, "FAKE TEARS"],
+			[11, "BITE"],
+			[16, "SWEET SCENT"],
+			[21, "VICEGRIP"],
+			[26, "FAINT ATTACK"],
+			[31, "BATON PASS"],
+			[36, "CRUNCH"],
+			[41, "IRON DEFENSE"],
+			[46, "STOCKPILE"],
+			[46, "SWALLOW"],
+			[46, "SPIT UP"]
+		]
+	},
+	"MEDITITE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BIDE"],
+			[4, "MEDITATE"],
+			[9, "CONFUSION"],
+			[12, "DETECT"],
+			[17, "HIDDEN POWER"],
+			[20, "SWAGGER"],
+			[25, "MIND READER"],
+			[28, "CALM MIND"],
+			[33, "HI JUMP KICK"],
+			[36, "PSYCH UP"],
+			[41, "REVERSAL"],
+			[44, "RECOVER"]
+		]
+	},
+	"MEDICHAM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "FIRE PUNCH"],
+			[1, "THUNDERPUNCH"],
+			[1, "ICE PUNCH"],
+			[1, "BIDE"],
+			[1, "MEDITATE"],
+			[1, "CONFUSION"],
+			[1, "DETECT"],
+			[4, "MEDITATE"],
+			[9, "CONFUSION"],
+			[12, "DETECT"],
+			[17, "HIDDEN POWER"],
+			[20, "SWAGGER"],
+			[25, "MIND READER"],
+			[28, "CALM MIND"],
+			[33, "HI JUMP KICK"],
+			[36, "PSYCH UP"],
+			[47, "REVERSAL"],
+			[56, "RECOVER"]
+		]
+	},
+	"GROWLITHEH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ROCK THROW"],
+			[1, "ROAR"],
+			[7, "EMBER"],
+			[13, "ROCK TOMB"],
+			[19, "FLAME WHEEL"],
+			[25, "TAKE DOWN"],
+			[31, "FIRE SPIN"],
+			[37, "HELPING HAND"],
+			[43, "AGILITY"],
+			[49, "FLAMETHROWER"]
+		]
+	},
+	"HARCANINE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "BITE"],
+			[1, "ROAR"],
+			[1, "EMBER"],
+			[1, "ROCK SLIDE"],
+			[49, "EXTREMESPEED"]
+		]
+	},
+	"WYNAUT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SPLASH"],
+			[1, "CHARM"],
+			[1, "ENCORE"],
+			[15, "COUNTER"],
+			[15, "MIRROR COAT"],
+			[15, "SAFEGUARD"],
+			[15, "DESTINY BOND"]
+		]
+	},
+	"VOLTORB-H":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CHARGE"],
+			[1, "THUNDER WAVE"],
+			[1, "ABSORB"],
+			[8, "THUNDERSHOCK"],
+			[15, "MEGA DRAIN"],
+			[21, "SPARK"],
+			[27, "SELFDESTRUCT"],
+			[32, "GIGA DRAIN"],
+			[37, "SOLARBEAM"],
+			[42, "THUNDERBOLT"],
+			[46, "EXPLOSION"],
+			[49, "MIRROR COAT"]
+		]
+	},
+	"ELECTRODEH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CHARGE"],
+			[1, "TACKLE"],
+			[1, "SCREECH"],
+			[1, "SONICBOOM"],
+			[8, "THUNDERSHOCK"],
+			[15, "MEGA DRAIN"],
+			[21, "SPARK"],
+			[27, "SELFDESTRUCT"],
+			[34, "GIGA DRAIN"],
+			[41, "LIGHT SCREEN"],
+			[48, "SOLARBEAM"],
+			[54, "EXPLOSION"],
+			[59, "MIRROR COAT"]
+		]
+	},
+	"ANHILILAPE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "ASTONISH"],
+			[1, "LEER"],
+			[1, "LOW KICK"],
+			[1, "RAGE"],
+			[6, "LOW KICK"],
+			[11, "KARATE CHOP"],
+			[16, "FURY SWIPES"],
+			[21, "SHADOW PUNCH"],
+			[26, "SEISMIC TOSS"],
+			[28, "SUBMISSION"],
+			[35, "SHADOW BALL"],
+			[44, "CROSS CHOP"],
+			[53, "SCREECH"],
+			[62, "THRASH"]
+		]
+	},
+	"SLAKOTH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "YAWN"],
+			[7, "ENCORE"],
+			[13, "SLACK OFF"],
+			[19, "FAINT ATTACK"],
+			[25, "AMNESIA"],
+			[31, "COVET"],
+			[37, "COUNTER"],
+			[43, "FLAIL"]
+		]
+	},
+	"VIGOROTH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "FOCUS ENERGY"],
+			[1, "ENCORE"],
+			[1, "UPROAR"],
+			[7, "ENCORE"],
+			[13, "UPROAR"],
+			[19, "FURY SWIPES"],
+			[25, "ENDURE"],
+			[31, "SLASH"],
+			[37, "COUNTER"],
+			[43, "FOCUS PUNCH"],
+			[49, "REVERSAL"]
+		]
+	},
+	"SLAKING":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "YAWN"],
+			[1, "ENCORE"],
+			[1, "SLACK OFF"],
+			[7, "ENCORE"],
+			[13, "SLACK OFF"],
+			[19, "FAINT ATTACK"],
+			[25, "AMNESIA"],
+			[31, "COVET"],
+			[36, "SWAGGER"],
+			[37, "COUNTER"],
+			[43, "FLAIL"]
+		]
+	},
+	"PORYGON-Z":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CONVERSION 2"],
+			[1, "TACKLE"],
+			[1, "CONVERSION"],
+			[9, "AGILITY"],
+			[12, "PSYBEAM"],
+			[20, "RECOVER"],
+			[24, "SHARPEN"],
+			[28, "SIGNAL BEAM"],
+			[32, "LOCK-ON"],
+			[36, "TRI ATTACK"],
+			[40, "MAGIC COAT"],
+			[44, "RECYCLE"],
+			[48, "ZAP CANNON"],
+			[54, "HYPER BEAM"]
+		]
+	},
+	"WEEZING-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POISON GAS"],
+			[1, "TACKLE"],
+			[1, "SMOG"],
+			[1, "SELFDESTRUCT"],
+			[9, "THUNDERSHOCK"],
+			[17, "SPARK"],
+			[21, "SLUDGE"],
+			[25, "SMOKESCREEN"],
+			[33, "HAZE"],
+			[44, "EXPLOSION"],
+			[51, "DESTINY BOND"],
+			[58, "MEMENTO"]
+		]
+	},
+	"EXEGGUTORA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "DRAGONHAMMER"],
+			[1, "BARRAGE"],
+			[1, "HYPNOSIS"],
+			[1, "CONFUSION"],
+			[19, "SYNTHESIS"],
+			[31, "EGG BOMB"],
+			[35, "DRAGONHAMMER"],
+			[42, "MAGICAL LEAF"]
+		]
+	},
+	"MAGMORTAR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "THUNDERPUNCH"],
+			[1, "EMBER"],
+			[1, "LEER"],
+			[1, "SMOG"],
+			[1, "FIRE PUNCH"],
+			[7, "LEER"],
+			[25, "STOMP"],
+			[13, "SMOG"],
+			[19, "FIRE PUNCH"],
+			[25, "SMOKESCREEN"],
+			[33, "SUNNY DAY"],
+			[42, "FLAMETHROWER"],
+			[50, "CONFUSE RAY"],
+			[57, "FIRE BLAST"]
+		]
+	},
+	"ELECTIVIRE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "FIRE PUNCH"],
+			[1, "QUICK ATTACK"],
+			[1, "LEER"],
+			[1, "THUNDERPUNCH"],
+			[5, "THUNDERSHOCK"],
+			[9, "THUNDERPUNCH"],
+			[13, "LOW KICK"],
+			[17, "CHARGE"],
+			[25, "SWIFT"],
+			[30, "SPARK"],
+			[36, "CROSS CHOP"],
+			[48, "THUNDERBOLT"],
+			[58, "THUNDER"],
+			[67, "HYPER BEAM"]
+		]
+	},
+	"TANGROWTH":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "INGRAIN"],
+			[1, "CONSTRICT"],
+			[4, "SLEEP POWDER"],
+			[10, "ABSORB"],
+			[13, "GROWTH"],
+			[19, "POISONPOWDER"],
+			[22, "VINE WHIP"],
+			[28, "BIND"],
+			[31, "MEGA DRAIN"],
+			[33, "ANCIENTPOWER"],
+			[37, "STUN SPORE"],
+			[40, "SLAM"],
+			[46, "TICKLE"],
+			[50, "KNOCK OFF"],
+			[56, "BLOCK"]
+		]
+	},
+	"ARTICUNO-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GUST"],
+			[1, "CONFUSION"],
+			[13, "MIST"],
+			[25, "AGILITY"],
+			[37, "PSYBEAM"],
+			[45, "FROZEN GLARE"],
+			[52, "REFLECT"],
+			[60, "PSYCHIC"],
+			[68, "CALM MIND"]
+		]
+	},
+	"ZAPDOS-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[1, "KARATE CHOP"],
+			[13, "LIGHT SCREEN"],
+			[25, "BRICK BREAK"],
+			[37, "DRILL PECK"],
+			[45, "THUNDER KICK"],
+			[53, "COUNTER"],
+			[61, "BULK UP"],
+			[69, "REVERSAL"]
+		]
+	},
+	"MOLTRES-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WING ATTACK"],
+			[1, "PURSUIT"],
+			[13, "FAINT ATTACK"],
+			[25, "AGILITY"],
+			[37, "ENDURE"],
+			[45, "FIERY WRATH"],
+			[53, "SAFEGUARD"],
+			[61, "FACADE"],
+			[69, "SKY ATTACK"]
+		]
+	},
+	"ABSOL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[5, "LEER"],
+			[9, "TAUNT"],
+			[13, "QUICK ATTACK"],
+			[17, "RAZOR WIND"],
+			[21, "BITE"],
+			[26, "SWORDS DANCE"],
+			[31, "DOUBLE TEAM"],
+			[36, "SLASH"],
+			[41, "FUTURE SIGHT"],
+			[46, "PERISH SONG"]
+		]
+	},
+	"MAROWAK-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "TAIL WHIP"],
+			[1, "BONE CLUB"],
+			[1, "FLAME WHEEL"],
+			[5, "TAIL WHIP"],
+			[9, "BONE CLUB"],
+			[13, "FIRE PUNCH"],
+			[17, "LEER"],
+			[21, "SHADOW PUNCH"],
+			[25, "BONEMERANG"],
+			[32, "FLAMETHROWER"],
+			[39, "SHADOW BALL"],
+			[46, "WILL-O-WISP"],
+			[53, "BONE RUSH"],
+			[61, "DOUBLE-EDGE"]
+		]
+	},
+	"MEOWTH-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[10, "METAL CLAW"],
+			[18, "PAY DAY"],
+			[25, "FAINT ATTACK"],
+			[31, "SCREECH"],
+			[36, "IRON TAIL"],
+			[40, "SLASH"],
+			[43, "FAKE OUT"],
+			[45, "SWAGGER"]
+		]
+	},
+	"PERRSERKER":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "SCRATCH"],
+			[1, "GROWL"],
+			[1, "BITE"],
+			[10, "METAL CLAW"],
+			[18, "PAY DAY"],
+			[25, "SWAGGER"],
+			[34, "SCREECH"],
+			[42, "FURY SWIPES"],
+			[49, "IRON TAIL"],
+			[55, "FAKE OUT"],
+			[61, "SWAGGER"]
+		]
+	},
+	"PONYTA-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[5, "GROWL"],
+			[9, "CONFUSION"],
+			[14, "EMBER"],
+			[19, "STOMP"],
+			[25, "FIRE SPIN"],
+			[31, "TAKE DOWN"],
+			[38, "AGILITY"],
+			[45, "PSYCHIC"],
+			[53, "FIRE BLAST"]
+		]
+	},
+	"RAPIDASH-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "QUICK ATTACK"],
+			[1, "GROWL"],
+			[1, "TAIL WHIP"],
+			[1, "EMBER"],
+			[5, "GROWL"],
+			[9, "CONFUSION"],
+			[14, "EMBER"],
+			[19, "STOMP"],
+			[25, "FIRE SPIN"],
+			[31, "TAKE DOWN"],
+			[38, "PSYCHIC"],
+			[40, "FURY ATTACK"],
+			[50, "BOUNCE"],
+			[63, "FIRE BLAST"]
+		]
+	},
+	"TAUROS-P":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[4, "RAGE"],
+			[8, "HORN ATTACK"],
+			[13, "DOUBLE KICK"],
+			[19, "PURSUIT"],
+			[26, "REVENGE"],
+			[34, "SUBMISSION"],
+			[43, "REVERSAL"],
+			[53, "SUPERPOWER"]
+		]
+	},
+	"TAUROS-P-A":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[4, "RAGE"],
+			[8, "HORN ATTACK"],
+			[13, "DOUBLE KICK"],
+			[19, "PURSUIT"],
+			[26, "BUBBLEBEAM"],
+			[34, "SUBMISSION"],
+			[43, "MUDDY WATER"],
+			[53, "SUPERPOWER"]
+		]
+	},
+	"TAUROS-P-B":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[1, "TAIL WHIP"],
+			[4, "RAGE"],
+			[8, "HORN ATTACK"],
+			[13, "DOUBLE KICK"],
+			[19, "PURSUIT"],
+			[26, "FIRE SPIN"],
+			[34, "SUBMISSION"],
+			[43, "HEAT WAVE"],
+			[53, "SUPERPOWER"]
+		]
+	},
+	"MIME JR.":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TICKLE"],
+			[1, "CONFUSION"],
+			[7, "DOUBLESLAP"],
+			[14, "REFLECT"],
+			[14, "LIGHT SCREEN"],
+			[19, "PSYBEAM"],
+			[25, "ENCORE"],
+			[29, "MIMIC"]
+		]
+	},
+	"VOLBEAT":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "CONFUSE RAY"],
+			[9, "DOUBLE TEAM"],
+			[13, "MOONLIGHT"],
+			[17, "QUICK ATTACK"],
+			[21, "TAIL GLOW"],
+			[25, "SIGNAL BEAM"],
+			[29, "PROTECT"],
+			[33, "HELPING HAND"],
+			[37, "DOUBLE-EDGE"]
+		]
+	},
+	"ILLUMISE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TACKLE"],
+			[5, "SWEET SCENT"],
+			[9, "CHARM"],
+			[13, "MOONLIGHT"],
+			[17, "QUICK ATTACK"],
+			[21, "WISH"],
+			[25, "ENCORE"],
+			[29, "FLATTER"],
+			[33, "HELPING HAND"],
+			[37, "COVET"]
+		]
+	},
+	"HAPPINY":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "POUND"],
+			[1, "CHARM"],
+			[5, "MIMIC"],
+			[9, "REFRESH"],
+			[12, "SWEET KISS"],
+			[16, "DOUBLESLAP"],
+			[22, "DIZZY PUNCH"],
+			[28, "SING"],
+			[34, "EGG BOMB"],
+			[40, "DEFENSE CURL"]
+		]
+	},
+	"SLOWKING-G":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "CURSE"],
+			[1, "YAWN"],
+			[1, "TACKLE"],
+			[6, "GROWL"],
+			[13, "SLUDGE"],
+			[17, "CONFUSION"],
+			[24, "DISABLE"],
+			[29, "EXTRASENSORY"],
+			[36, "SLUDGE BOMB"],
+			[40, "PSYCHIC"],
+			[47, "PSYCH UP"]
+		]
+	},
+	"FARFETCHDG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[6, "SAND-ATTACK"],
+			[11, "LEER"],
+			[16, "FURY ATTACK"],
+			[21, "DOUBLE KICK"],
+			[26, "FURY CUTTER"],
+			[31, "SWORDS DANCE"],
+			[36, "BRICK BREAK"],
+			[41, "AGILITY"],
+			[46, "FALSE SWIPE"]
+		]
+	},
+	"SIRFETCH'D":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PECK"],
+			[6, "SAND-ATTACK"],
+			[11, "LEER"],
+			[16, "KARATE CHOP"],
+			[21, "DOUBLE KICK"],
+			[26, "FURY CUTTER"],
+			[31, "SWORDS DANCE"],
+			[36, "BRICK BREAK"],
+			[41, "AGILITY"],
+			[46, "FALSE SWIPE"]
+		]
+	},
+	"RALTS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[6, "CONFUSION"],
+			[11, "DOUBLE TEAM"],
+			[16, "TELEPORT"],
+			[21, "CALM MIND"],
+			[26, "PSYCHIC"],
+			[31, "IMPRISON"],
+			[36, "FUTURE SIGHT"],
+			[41, "HYPNOSIS"],
+			[46, "DREAM EATER"]
+		]
+	},
+	"KIRLIA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MAGICAL LEAF"],
+			[1, "GROWL"],
+			[1, "CONFUSION"],
+			[1, "DOUBLE TEAM"],
+			[1, "TELEPORT"],
+			[6, "CONFUSION"],
+			[11, "DOUBLE TEAM"],
+			[16, "TELEPORT"],
+			[21, "CALM MIND"],
+			[26, "PSYCHIC"],
+			[33, "IMPRISON"],
+			[40, "FUTURE SIGHT"],
+			[47, "HYPNOSIS"],
+			[54, "DREAM EATER"]
+		]
+	},
+	"GARDEVOIR":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "GROWL"],
+			[1, "CONFUSION"],
+			[1, "DOUBLE TEAM"],
+			[1, "TELEPORT"],
+			[6, "CONFUSION"],
+			[11, "DOUBLE TEAM"],
+			[16, "TELEPORT"],
+			[21, "CALM MIND"],
+			[26, "PSYCHIC"],
+			[33, "IMPRISON"],
+			[42, "FUTURE SIGHT"],
+			[51, "HYPNOSIS"],
+			[60, "DREAM EATER"]
+		]
+	},
+	"BAGON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "RAGE"],
+			[5, "BITE"],
+			[9, "LEER"],
+			[17, "HEADBUTT"],
+			[21, "FOCUS ENERGY"],
+			[25, "EMBER"],
+			[33, "DRAGONBREATH"],
+			[37, "SCARY FACE"],
+			[41, "CRUNCH"],
+			[49, "DRAGON CLAW"],
+			[53, "DOUBLE-EDGE"]
+		]
+	},
+	"SHELGON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "RAGE"],
+			[1, "BITE"],
+			[1, "LEER"],
+			[1, "HEADBUTT"],
+			[5, "BITE"],
+			[9, "LEER"],
+			[17, "HEADBUTT"],
+			[21, "FOCUS ENERGY"],
+			[25, "EMBER"],
+			[30, "PROTECT"],
+			[38, "DRAGONBREATH"],
+			[47, "SCARY FACE"],
+			[56, "CRUNCH"],
+			[69, "DRAGON CLAW"],
+			[78, "DOUBLE-EDGE"]
+		]
+	},
+	"SALAMENCE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "RAGE"],
+			[1, "BITE"],
+			[1, "LEER"],
+			[1, "HEADBUTT"],
+			[5, "BITE"],
+			[9, "LEER"],
+			[17, "HEADBUTT"],
+			[21, "FOCUS ENERGY"],
+			[25, "EMBER"],
+			[30, "PROTECT"],
+			[38, "DRAGONBREATH"],
+			[47, "SCARY FACE"],
+			[50, "FLY"],
+			[61, "CRUNCH"],
+			[79, "DRAGON CLAW"],
+			[93, "DOUBLE-EDGE"]
+		]
+	},
+	"BELDUM":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TAKE DOWN"]
+		]
+	},
+	"METANG":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TAKE DOWN"],
+			[20, "CONFUSION"],
+			[20, "METAL CLAW"],
+			[26, "SCARY FACE"],
+			[32, "PURSUIT"],
+			[38, "PSYCHIC"],
+			[44, "IRON DEFENSE"],
+			[50, "METEOR MASH"],
+			[56, "AGILITY"],
+			[62, "HYPER BEAM"]
+		]
+	},
+	"METAGROSS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TAKE DOWN"],
+			[1, "CONFUSION"],
+			[1, "METAL CLAW"],
+			[1, "SCARY FACE"],
+			[20, "CONFUSION"],
+			[20, "METAL CLAW"],
+			[26, "SCARY FACE"],
+			[32, "PURSUIT"],
+			[38, "PSYCHIC"],
+			[44, "IRON DEFENSE"],
+			[55, "METEOR MASH"],
+			[66, "AGILITY"],
+			[77, "HYPER BEAM"]
+		]
+	},
+	"REGIROCK":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EXPLOSION"],
+			[9, "ROCK THROW"],
+			[17, "CURSE"],
+			[25, "SUPERPOWER"],
+			[33, "ANCIENTPOWER"],
+			[41, "IRON DEFENSE"],
+			[49, "ZAP CANNON"],
+			[57, "LOCK-ON"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"REGICE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EXPLOSION"],
+			[9, "ICY WIND"],
+			[17, "CURSE"],
+			[25, "SUPERPOWER"],
+			[33, "ANCIENTPOWER"],
+			[41, "AMNESIA"],
+			[49, "ZAP CANNON"],
+			[57, "LOCK-ON"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"REGISTEEL":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "EXPLOSION"],
+			[9, "METAL CLAW"],
+			[17, "CURSE"],
+			[25, "SUPERPOWER"],
+			[33, "ANCIENTPOWER"],
+			[41, "IRON DEFENSE"],
+			[41, "AMNESIA"],
+			[49, "ZAP CANNON"],
+			[57, "LOCK-ON"],
+			[65, "HYPER BEAM"]
+		]
+	},
+	"KYOGRE":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WATER PULSE"],
+			[5, "SCARY FACE"],
+			[15, "ANCIENTPOWER"],
+			[20, "BODY SLAM"],
+			[30, "CALM MIND"],
+			[35, "ICE BEAM"],
+			[45, "HYDRO PUMP"],
+			[50, "REST"],
+			[60, "SHEER COLD"],
+			[65, "DOUBLE-EDGE"],
+			[75, "WATER SPOUT"]
+		]
+	},
+	"GROUDON":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "MUD SHOT"],
+			[5, "SCARY FACE"],
+			[15, "ANCIENTPOWER"],
+			[20, "SLASH"],
+			[30, "BULK UP"],
+			[35, "EARTHQUAKE"],
+			[45, "FIRE BLAST"],
+			[50, "REST"],
+			[60, "FISSURE"],
+			[65, "SOLARBEAM"],
+			[75, "ERUPTION"]
+		]
+	},
+	"RAYQUAZA":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "TWISTER"],
+			[5, "SCARY FACE"],
+			[15, "ANCIENTPOWER"],
+			[20, "DRAGON CLAW"],
+			[30, "DRAGON DANCE"],
+			[35, "CRUNCH"],
+			[45, "FLY"],
+			[50, "REST"],
+			[60, "EXTREMESPEED"],
+			[65, "OUTRAGE"],
+			[75, "HYPER BEAM"]
+		]
+	},
+	"LATIAS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PSYWAVE"],
+			[5, "WISH"],
+			[10, "HELPING HAND"],
+			[15, "SAFEGUARD"],
+			[20, "DRAGONBREATH"],
+			[25, "WATER SPORT"],
+			[30, "REFRESH"],
+			[35, "MIST BALL"],
+			[40, "PSYCHIC"],
+			[45, "RECOVER"],
+			[50, "CHARM"]
+		]
+	},
+	"LATIOS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "PSYWAVE"],
+			[5, "MEMENTO"],
+			[10, "HELPING HAND"],
+			[15, "SAFEGUARD"],
+			[20, "DRAGONBREATH"],
+			[25, "PROTECT"],
+			[30, "REFRESH"],
+			[35, "LUSTER PURGE"],
+			[40, "PSYCHIC"],
+			[45, "RECOVER"],
+			[50, "DRAGON DANCE"]
+		]
+	},
+	"JIRACHI":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WISH"],
+			[1, "CONFUSION"],
+			[5, "REST"],
+			[10, "SWIFT"],
+			[15, "HELPING HAND"],
+			[20, "PSYCHIC"],
+			[25, "REFRESH"],
+			[30, "REST"],
+			[35, "DOUBLE-EDGE"],
+			[40, "FUTURE SIGHT"],
+			[45, "COSMIC POWER"],
+			[50, "DOOM DESIRE"]
+		]
+	},
+	"DEOXYS":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "LEER"],
+			[1, "WRAP"],
+			[5, "NIGHT SHADE"],
+			[10, "TELEPORT"],
+			[15, "TAUNT"],
+			[20, "PURSUIT"],
+			[25, "PSYCHIC"],
+			[30, "SUPERPOWER"],
+			[35, "COSMIC POWER"],
+			[40, "ZAP CANNON"],
+			[45, "PSYCHO BOOST"],
+			[50, "HYPER BEAM"]
+		]
+	},
+	"CHIMECHO":
+	{
+		"Level-Up Learnset":
+		[
+			[1, "WRAP"],
+			[6, "GROWL"],
+			[9, "ASTONISH"],
+			[14, "CONFUSION"],
+			[17, "TAKE DOWN"],
+			[22, "UPROAR"],
+			[25, "YAWN"],
+			[30, "PSYWAVE"],
+			[33, "DOUBLE-EDGE"],
+			[38, "HEAL BELL"],
+			[41, "SAFEGUARD"],
+			[46, "PSYCHIC"]
+		]
+	}
+}
