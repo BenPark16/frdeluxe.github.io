@@ -2268,6 +2268,26 @@ var SETDEX_ADV = {
             ],
             "nature": "Careful"
         }
+        "Cloyster [Lorelei]": {
+            "ivs": {
+                "at": 30,
+                "df": 30,
+                "hp": 30,
+                "sa": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "ability": "Shell Armor",
+            "item": "Bright Powder",
+            "level": 54,
+            "moves": [
+                "Spikes",
+                "Surf",
+                "Spike Cannon",
+                "Explosion"
+            ],
+            "nature": "Bashful"
+        },
     },
     "Combusken": {
         "Combusken-1 [190]": {
